@@ -1,0 +1,58 @@
+name: Geo-Test TV3 Varzesh
+
+on:
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Wo läuft der Runner?
+        run: |
+          curl -s https://ipinfo.io/json || true
+          echo "---"
+      - name: Segmente von TV3 und Varzesh testen
+        run: |
+          python3 - <<'PY'
+          import subprocess, re
+          from urllib.parse import urljoin
+
+          def curl(url, rng=False, t=20):
+              cmd = ["curl","-sL","-m",str(t),"-A","Mozilla/5.0","-w","\n###%{http_code}"]
+              if rng: cmd += ["--range","0-5000"]
+              cmd.append(url)
+              r = subprocess.run(cmd, capture_output=True, text=True)
+              parts = r.stdout.rsplit("###",1)
+              return (parts[1].strip() if len(parts)>1 else "?"), parts[0]
+
+          tests = {
+              "TV1 (Referenz, sollte gehen)": "https://live-aburayhan1111.telewebion.net/ek/tv1/live/playlist.m3u8",
+              "TV3":                          "https://ncdn.telewebion.ir/tv3/live/playlist.m3u8",
+              "TV3 (aburayhan)":              "https://live-aburayhan1103.telewebion.net/ek/tv3/live/playlist.m3u8",
+              "Varzesh":                      "https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8",
+              "Varzesh (aburayhan)":          "https://live-aburayhan1109.telewebion.net/ek/varzesh/live/playlist.m3u8",
+          }
+          for name, master in tests.items():
+              txt, mcode = curl(master)
+              if "#EXT-X-STREAM-INF" not in txt:
+                  print(f"{name}: MASTER HTTP {mcode}, kein Master-Manifest"); continue
+              lines = txt.splitlines(); vs = []
+              for i,l in enumerate(lines):
+                  if l.startswith("#EXT-X-STREAM-INF"):
+                      for j in range(i+1, len(lines)):
+                          if lines[j].strip() and not lines[j].startswith("#"):
+                              vs.append(lines[j].strip()); break
+              media = urljoin(master, vs[-1]) if vs else master
+              mtxt, mmcode = curl(media)
+              segs = [l.strip() for l in mtxt.splitlines() if l.strip() and not l.startswith("#")]
+              if not segs:
+                  print(f"{name}: MEDIA HTTP {mmcode}, keine Segmente"); continue
+              seg = urljoin(media, segs[0])
+              scode, body = curl(seg, rng=True)
+              ok = "OK" if str(scode) in ("200","206") and len(body) > 1000 else "BLOCKED"
+              print(f"{name}: master={mcode} media={mmcode} SEGMENT={scode} bytes={len(body)} -> {ok}")
+          PY

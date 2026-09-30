@@ -80,7 +80,14 @@ def parse_m3u(text):
         elif line and not line.startswith("#") and pending:
             pending["url"] = line
             if not pending["id"]:
+                # Keine echte tvg-id in der Quelle vorhanden — aus dem Namen
+                # ableiten. Das Flag verhindert später, dass so ein
+                # Kunstschlüssel bei der Deduplizierung als Kanal-Identität
+                # missverstanden wird.
                 pending["id"] = slug(pending["name"])
+                pending["synthetic_id"] = True
+            else:
+                pending["synthetic_id"] = False
             out.append(pending)
             pending = None
     return out

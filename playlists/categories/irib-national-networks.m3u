@@ -1,13 +1,9 @@
 #EXTM3U
 # IRIB National Networks
-#EXTINF:-1 tvg-id="AmouzeshTV.ir@SD" tvg-name="Amouzesh" group-title="IRIB National Networks",Amouzesh [IR]
-https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8
 #EXTINF:-1 tvg-id="GolkhaneTv.ir" tvg-name="Golkhane" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/GolkhaneTv.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="HD",Golkhane | شبکه گلخانه
 https://live-aburayhan1113.telewebion.net/na/golkhane/live/720p/index.m3u8
 #EXTINF:-1 tvg-id="iFilmPersian.ir" tvg-name="iFilm" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/iFilmPersian.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="FHD",iFilm | آی‌فیلم
 https://live.presstv.co.uk/hls/ifilmfa_4_482/index.m3u8
-#EXTINF:-1 tvg-id="iFilmPersian.ir@SD" tvg-name="iFilm Persian" group-title="IRIB National Networks",iFilm Persian
-https://live.presstv.ir/hls/ifilmfa.m3u8
 #EXTINF:-1 tvg-id="AmouzeshTV.ir" tvg-name="IRIB Amoozesh" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/AmouzeshTV.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="SD",IRIB Amoozesh | شبکه آموزش
 https://live-aburayhan1110.telewebion.net/ek/amouzesh/live/576p/index.m3u8
 #EXTINF:-1 tvg-id="IRIBMostanad.ir" tvg-name="IRIB Mostanad" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IRIBMostanad.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="FHD",IRIB Mostanad | شبکه مستند
@@ -42,41 +38,11 @@ https://live-aburayhan1107.telewebion.net/ek/tv4/live/576p/index.m3u8
 https://live-aburayhan1103.telewebion.net/ek/tehran/live/1080p/index.m3u8
 #EXTINF:-1 tvg-id="IRIBUHD.ir" tvg-name="IRIB UHD" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IRIBUHD.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="4K",IRIB UHD | شبکه فراگیر (UHD)
 https://live-aburayhan1105.telewebion.net/ek/faratar/live/2160p/index.m3u8
-#EXTINF:-1 tvg-id="IRIBUHD.ir@4K" tvg-name="IRIB UHD (2160p)" group-title="IRIB National Networks",IRIB UHD (2160p) [IR]
-https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 #EXTINF:-1 tvg-id="VarzeshTV.ir" tvg-name="IRIB Varzesh" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/VarzeshTV.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="FHD",IRIB Varzesh | شبکه ورزش [IR]
 https://live-aburayhan1109.telewebion.net/ek/varzesh/live/108050p/index.m3u8
 #EXTINF:-1 tvg-id="IRINN.ir" tvg-name="IRINN" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IRINN.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="FHD",IRINN | شبکه خبر
 https://live-aburayhan1106.telewebion.net/ek/irinn/live/1080p/index.m3u8
-#EXTINF:-1 tvg-id="IRINN.ir@SD" tvg-name="IRINN (576p)" group-title="IRIB National Networks",IRINN (576p)
-http://185.9.2.18/chid_926/index.m3u8
 #EXTINF:-1 tvg-id="IRINN2.ir" tvg-name="IRINN 2" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IRINN2.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="FHD",IRINN 2 | شبکه خبر ۲
 https://live-aburayhan1105.telewebion.net/ek/irinn2/live/1080p/index.m3u8
-#EXTINF:-1 tvg-id="IRINN.ir@SD-2" tvg-name="IRINN Live Farsi News" group-title="IRIB National Networks",IRINN Live Farsi News [IR]
-https://ncdn.telewebion.ir/irinn/live/playlist.m3u8
-#EXTINF:-1 tvg-id="IRINN2.ir@SD" tvg-name="IRINN2 Live Farsi News" group-title="IRIB National Networks",IRINN2 Live Farsi News [IR]
-https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8
-#EXTINF:-1 tvg-id="IRIBMostanad.ir@SD" tvg-name="Mostanad" group-title="IRIB National Networks",Mostanad [IR]
-https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8
-#EXTINF:-1 tvg-id="NamayeshTV.ir@SD" tvg-name="Namayesh" group-title="IRIB National Networks",Namayesh [IR]
-https://ncdn.telewebion.ir/namayesh/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Nasim.ir@SD" tvg-name="Nasim" group-title="IRIB National Networks",Nasim [IR]
-https://ncdn.telewebion.ir/nasim/live/playlist.m3u8
-#EXTINF:-1 tvg-id="OfoghTV.ir@SD" tvg-name="Ofogh" group-title="IRIB National Networks",Ofogh [IR]
-https://ncdn.telewebion.ir/ofogh/live/playlist.m3u8
-#EXTINF:-1 tvg-id="IRIBOmid.ir@SD" tvg-name="Omid" group-title="IRIB National Networks",Omid [IR]
-https://ncdn.telewebion.ir/omid/live/playlist.m3u8
-#EXTINF:-1 tvg-id="PooyaTV.ir@SD" tvg-name="Pooya & Nahal" group-title="IRIB National Networks",Pooya & Nahal [IR]
-https://ncdn.telewebion.ir/pooya/live/playlist.m3u8
-#EXTINF:-1 tvg-id="QuranTV.ir@SD" tvg-name="Quran" group-title="IRIB National Networks",Quran [IR]
-https://ncdn.telewebion.ir/quran/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RoyaTV.ir" tvg-name="Roya" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/RoyaTV.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="HD",Roya | شبکه رویا
 https://live-aburayhan1102.telewebion.net/na/iribu/live/720p/index.m3u8
-#EXTINF:-1 tvg-id="SalamatTV.ir@SD" tvg-name="Salamat" group-title="IRIB National Networks",Salamat [IR]
-https://ncdn.telewebion.ir/salamat/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Tamasha.ir@SD" tvg-name="Tamasha" group-title="IRIB National Networks",Tamasha [IR]
-https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TehranTV.ir@SD" tvg-name="Tehran" group-title="IRIB National Networks",Tehran [IR]
-https://ncdn.telewebion.ir/tehran/live/playlist.m3u8
-#EXTINF:-1 tvg-id="VarzeshTV.ir@SD" tvg-name="Varzesh TV" group-title="IRIB National Networks",Varzesh TV [IR]
-https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8

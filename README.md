@@ -16,6 +16,9 @@ Direkt-Link in jeden IPTV-Player einfügen (VLC, Kodi, TiviMate, IPTV Smarters, 
 | **Alle Kanäle** | alles, 1 Stream pro Kanal, Geo-Blockierte mit `[IR]` markiert | `https://raw.githubusercontent.com/Momo1530/iptv-iran/main/playlists/momo.m3u` |
 | **Nur geprüfte** | ausschließlich getestete, laufende Streams | `https://raw.githubusercontent.com/Momo1530/iptv-iran/main/playlists/momo-verified.m3u` |
 
+**Ohne iranisches VPN?** Dann `drop_geo: true` in der Config setzen — die gesperrten Sender
+verschwinden aus `momo.m3u`, es bleiben ~219 Kanäle übrig, die alle direkt laufen.
+
 **Nach Kategorie** — `playlists/categories/<name>.m3u`:
 
 | Gruppe | Datei |
@@ -36,12 +39,18 @@ Direkt-Link in jeden IPTV-Player einfügen (VLC, Kodi, TiviMate, IPTV Smarters, 
 
 ## ⚠️ `[IR]` = braucht iranische IP
 
-Die offiziellen **IRIB-Sender** (TV1–TV5, Nasim, Ofogh, Mostanad …) laufen über Telewebion
-und sind **geo-blockiert**. Aus Österreich gibt der Server `403` zurück.
+Nur noch **8 von 227** Kanälen sind gesperrt. Die erweiterte Quelle
+(`iran-all-streams.m3u`) liefert pro Kanal ~7 Stream-Varianten — oft ist nur ein
+Teil geo-blockiert, die anderen laufen. Dadurch konnten 17 zuvor gesperrte
+Sender gerettet werden.
+
+Echte Dauerblocker (alle Varianten gesperrt): **IRIB TV3, IRIB Varzesh,
+Sahar TV (Azeri/Balkan/Kurdish), HodHod Farsi TV, Nesfejahan, TV1 Plus**
 
 Damit sie laufen:
 - **iranisches VPN** davor schalten, **oder**
-- in einem Player testen, der andere Header sendet
+- in einem Player testen, der andere Header sendet, **oder**
+- `drop_geo: true` setzen und sie ausblenden
 
 Alle Kanäle **ohne** `[IR]` laufen direkt, ohne VPN.
 

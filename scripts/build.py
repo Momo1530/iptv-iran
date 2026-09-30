@@ -123,12 +123,17 @@ def main():
 
     # Auf Kanal-Ebene deduplizieren: derselbe Kanal aus mehreren Quellen
     # wird auf EINEN Stream reduziert (bester Status, dann beste Qualität).
-    # Schlüssel = (Gruppe, Kanal-ID ohne Qualitätssuffix, Namensschlüssel),
-    # damit z. B. "IRIB TV1" (shayanline) und "IRIB1" (iptv-org)
-    # zusammenfallen.
+    #
+    # Der Schlüssel enthält den Namensschlüssel NUR, wenn die Quelle keine
+    # echte tvg-id hatte. Sonst liegt derselbe Kanal unter derselben ID mit
+    # unterschiedlichen Namen vor — iptv-org nennt ihn "Nasim", shayanline
+    # "IRIB Nasim" — und würde fälschlich zweimal geführt.
     channels = {}
     for c in kept:
-        key = (c["group"], base_id(c) or lib.slug(c["name"]), name_key(c))
+        if c.get("synthetic_id"):
+            key = ("~name", name_key(c))
+        else:
+            key = ("id", base_id(c))
         cur = channels.get(key)
         channels[key] = c if cur is None else pick_better(cur, c)
     chosen = list(channels.values())
@@ -180,6 +185,12 @@ def main():
     ok_only = own + [c for c in final if c["status"] == "ok"]
     lib.write_m3u(ok_only, lib.PLAYLISTS / "momo-verified.m3u",
                   "Deine IPTV — nur geprüfte, laufende Streams")
+
+    # Optional: ohne iranisches VPN sind die geo-blockierten Sender nutzlos
+    if cfg.get("drop_geo"):
+        n = lib.write_m3u([c for c in final if c["status"] != "geo"],
+                          lib.PLAYLISTS / "momo.m3u",
+                          "Deine IPTV — ohne geo-blockierte Sender")
 
     cats = {}
     for c in final:

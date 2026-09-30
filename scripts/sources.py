@@ -12,6 +12,9 @@ def main():
     sh = src.get("shayanline") or {}
     if sh.get("enabled") and sh.get("url"):
         targets.append(("shayanline", sh["url"]))
+    sha = src.get("shayanline_all") or {}
+    if sha.get("enabled") and sha.get("url"):
+        targets.append(("shayanline-all", sha["url"]))
     io = src.get("iptv_org") or {}
     if io.get("enabled"):
         for u in io.get("urls") or []:

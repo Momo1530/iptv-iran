@@ -10,8 +10,6 @@ https://live-aburayhan1105.telewebion.net/ek/aftab/live/1080p/index.m3u8
 https://live-aburayhan1104.telewebion.net/ek/alborz/live/1080p/index.m3u8
 #EXTINF:-1 tvg-id="AtrakTV.ir" tvg-name="Atrak" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/AtrakTV.ir.png" group-title="IRIB Provincial Networks" tvg-language="fas;kmz;kur" tvg-quality="SD",Atrak | شبکه اترک
 https://live-aburayhan1105.telewebion.net/ek/atrak/live/576p/index.m3u8
-#EXTINF:-1 tvg-id="WestAzerbaijanTV.ir@SD" tvg-name="Azerbaijan Gharbi" group-title="IRIB Provincial Networks",Azerbaijan Gharbi [IR]
-https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
 #EXTINF:-1 tvg-id="BaranTV.ir" tvg-name="Baran" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/BaranTV.ir.png" group-title="IRIB Provincial Networks" tvg-language="fas" tvg-quality="FHD",Baran | شبکه باران
 https://live-aburayhan1108.telewebion.net/ek/baran/live/1080p/index.m3u8
 #EXTINF:-1 tvg-id="BoushehrTV.ir" tvg-name="Bushehr" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/BoushehrTV.ir.png" group-title="IRIB Provincial Networks" tvg-language="fas" tvg-quality="SD",Bushehr | شبکه بوشهر
@@ -40,8 +38,6 @@ https://live-aburayhan1112.telewebion.net/ek/khalijefars/live/576p/index.m3u8
 https://live-aburayhan1101.telewebion.net/ek/khavaran/live/1080p/index.m3u8
 #EXTINF:-1 tvg-id="KhorasanRazaviTV.ir" tvg-name="Khorasan Razavi" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/KhorasanRazaviTV.ir.png" group-title="IRIB Provincial Networks" tvg-language="fas" tvg-quality="FHD",Khorasan Razavi | شبکه خراسان رضوی
 https://live-aburayhan1102.telewebion.net/ek/khorasanrazavi/live/1080p/index.m3u8
-#EXTINF:-1 tvg-id="KhozestanTV.ir@SD" tvg-name="Khozestan" group-title="IRIB Provincial Networks",Khozestan [IR]
-https://ncdn.telewebion.ir/khoozestan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="KhozestanTV.ir" tvg-name="Khuzestan" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/KhozestanTV.ir.png" group-title="IRIB Provincial Networks" tvg-language="fas" tvg-quality="SD",Khuzestan | شبکه خوزستان
 https://live-aburayhan1113.telewebion.net/ek/khoozestan/live/576p/index.m3u8
 #EXTINF:-1 tvg-id="KishTV.ir" tvg-name="Kish" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/KishTV.ir.png" group-title="IRIB Provincial Networks" tvg-language="fas" tvg-quality="SD",Kish | شبکه کیش

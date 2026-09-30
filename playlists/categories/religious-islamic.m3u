@@ -26,8 +26,6 @@ https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 https://hls.keshishhamid.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PayvandTV.ir" tvg-name="Payvand TV" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/PayvandTV.ir.png" group-title="Religious · Islamic" tvg-language="fas" tvg-quality="HD",Payvand TV | شبکه پیوند
 https://tgn.bozztv.com/cus01/ucur1/Payvand/playlist.m3u8
-#EXTINF:-1 tvg-id="PayvandTV.ir@SD" tvg-name="Payvand TV (720p) [Not 24/7]" group-title="Religious · Islamic",Payvand TV (720p) [Not 24/7]
-https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
 #EXTINF:-1 tvg-id="RasoulallahTv.ir" tvg-name="Rasoulallah TV" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/RasoulallahTv.ir.png" group-title="Religious · Islamic" tvg-language="fas" tvg-quality="FHD",Rasoulallah TV | شبکه رسول‌الله
 https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RazaviTV.ir" tvg-name="Razavi TV" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/RazaviTV.ir.png" group-title="Religious · Islamic" tvg-language="fas" tvg-quality="HD",Razavi TV | شبکه رضوی

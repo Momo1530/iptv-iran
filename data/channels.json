@@ -1,17 +1,5 @@
 [
  {
-  "id": "AmouzeshTV.ir@SD",
-  "name": "Amouzesh",
-  "label": "Amouzesh [IR]",
-  "logo": "",
-  "group": "IRIB National Networks",
-  "language": "",
-  "quality": "",
-  "url": "https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8",
-  "source": "iptv-org",
-  "status": "geo"
- },
- {
   "id": "GolkhaneTv.ir",
   "name": "Golkhane",
   "label": "Golkhane | شبکه گلخانه",
@@ -34,18 +22,6 @@
   "url": "https://live.presstv.co.uk/hls/ifilmfa_4_482/index.m3u8",
   "source": "shayanline",
   "status": "ok"
- },
- {
-  "id": "iFilmPersian.ir@SD",
-  "name": "iFilm Persian",
-  "label": "iFilm Persian",
-  "logo": "",
-  "group": "IRIB National Networks",
-  "language": "",
-  "quality": "",
-  "url": "https://live.presstv.ir/hls/ifilmfa.m3u8",
-  "source": "iptv-org",
-  "status": "http-404"
  },
  {
   "id": "AmouzeshTV.ir",
@@ -252,18 +228,6 @@
   "status": "ok"
  },
  {
-  "id": "IRIBUHD.ir@4K",
-  "name": "IRIB UHD (2160p)",
-  "label": "IRIB UHD (2160p) [IR]",
-  "logo": "",
-  "group": "IRIB National Networks",
-  "language": "",
-  "quality": "",
-  "url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
-  "source": "iptv-org",
-  "status": "geo"
- },
- {
   "id": "VarzeshTV.ir",
   "name": "IRIB Varzesh",
   "label": "IRIB Varzesh | شبکه ورزش [IR]",
@@ -288,18 +252,6 @@
   "status": "ok"
  },
  {
-  "id": "IRINN.ir@SD",
-  "name": "IRINN (576p)",
-  "label": "IRINN (576p)",
-  "logo": "",
-  "group": "IRIB National Networks",
-  "language": "",
-  "quality": "",
-  "url": "http://185.9.2.18/chid_926/index.m3u8",
-  "source": "iptv-org",
-  "status": "ok"
- },
- {
   "id": "IRINN2.ir",
   "name": "IRINN 2",
   "label": "IRINN 2 | شبکه خبر ۲",
@@ -312,114 +264,6 @@
   "status": "ok"
  },
  {
-  "id": "IRINN.ir@SD-2",
-  "name": "IRINN Live Farsi News",
-  "label": "IRINN Live Farsi News [IR]",
-  "logo": "",
-  "group": "IRIB National Networks",
-  "language": "",
-  "quality": "",
-  "url": "https://ncdn.telewebion.ir/irinn/live/playlist.m3u8",
-  "source": "iptv-org",
-  "status": "geo"
- },
- {
-  "id": "IRINN2.ir@SD",
-  "name": "IRINN2 Live Farsi News",
-  "label": "IRINN2 Live Farsi News [IR]",
-  "logo": "",
-  "group": "IRIB National Networks",
-  "language": "",
-  "quality": "",
-  "url": "https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8",
-  "source": "iptv-org",
-  "status": "geo"
- },
- {
-  "id": "IRIBMostanad.ir@SD",
-  "name": "Mostanad",
-  "label": "Mostanad [IR]",
-  "logo": "",
-  "group": "IRIB National Networks",
-  "language": "",
-  "quality": "",
-  "url": "https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8",
-  "source": "iptv-org",
-  "status": "geo"
- },
- {
-  "id": "NamayeshTV.ir@SD",
-  "name": "Namayesh",
-  "label": "Namayesh [IR]",
-  "logo": "",
-  "group": "IRIB National Networks",
-  "language": "",
-  "quality": "",
-  "url": "https://ncdn.telewebion.ir/namayesh/live/playlist.m3u8",
-  "source": "iptv-org",
-  "status": "geo"
- },
- {
-  "id": "Nasim.ir@SD",
-  "name": "Nasim",
-  "label": "Nasim [IR]",
-  "logo": "",
-  "group": "IRIB National Networks",
-  "language": "",
-  "quality": "",
-  "url": "https://ncdn.telewebion.ir/nasim/live/playlist.m3u8",
-  "source": "iptv-org",
-  "status": "geo"
- },
- {
-  "id": "OfoghTV.ir@SD",
-  "name": "Ofogh",
-  "label": "Ofogh [IR]",
-  "logo": "",
-  "group": "IRIB National Networks",
-  "language": "",
-  "quality": "",
-  "url": "https://ncdn.telewebion.ir/ofogh/live/playlist.m3u8",
-  "source": "iptv-org",
-  "status": "geo"
- },
- {
-  "id": "IRIBOmid.ir@SD",
-  "name": "Omid",
-  "label": "Omid [IR]",
-  "logo": "",
-  "group": "IRIB National Networks",
-  "language": "",
-  "quality": "",
-  "url": "https://ncdn.telewebion.ir/omid/live/playlist.m3u8",
-  "source": "iptv-org",
-  "status": "geo"
- },
- {
-  "id": "PooyaTV.ir@SD",
-  "name": "Pooya & Nahal",
-  "label": "Pooya & Nahal [IR]",
-  "logo": "",
-  "group": "IRIB National Networks",
-  "language": "",
-  "quality": "",
-  "url": "https://ncdn.telewebion.ir/pooya/live/playlist.m3u8",
-  "source": "iptv-org",
-  "status": "geo"
- },
- {
-  "id": "QuranTV.ir@SD",
-  "name": "Quran",
-  "label": "Quran [IR]",
-  "logo": "",
-  "group": "IRIB National Networks",
-  "language": "",
-  "quality": "",
-  "url": "https://ncdn.telewebion.ir/quran/live/playlist.m3u8",
-  "source": "iptv-org",
-  "status": "geo"
- },
- {
   "id": "RoyaTV.ir",
   "name": "Roya",
   "label": "Roya | شبکه رویا",
@@ -430,54 +274,6 @@
   "url": "https://live-aburayhan1102.telewebion.net/na/iribu/live/720p/index.m3u8",
   "source": "shayanline",
   "status": "ok"
- },
- {
-  "id": "SalamatTV.ir@SD",
-  "name": "Salamat",
-  "label": "Salamat [IR]",
-  "logo": "",
-  "group": "IRIB National Networks",
-  "language": "",
-  "quality": "",
-  "url": "https://ncdn.telewebion.ir/salamat/live/playlist.m3u8",
-  "source": "iptv-org",
-  "status": "geo"
- },
- {
-  "id": "Tamasha.ir@SD",
-  "name": "Tamasha",
-  "label": "Tamasha [IR]",
-  "logo": "",
-  "group": "IRIB National Networks",
-  "language": "",
-  "quality": "",
-  "url": "https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8",
-  "source": "iptv-org",
-  "status": "geo"
- },
- {
-  "id": "TehranTV.ir@SD",
-  "name": "Tehran",
-  "label": "Tehran [IR]",
-  "logo": "",
-  "group": "IRIB National Networks",
-  "language": "",
-  "quality": "",
-  "url": "https://ncdn.telewebion.ir/tehran/live/playlist.m3u8",
-  "source": "iptv-org",
-  "status": "geo"
- },
- {
-  "id": "VarzeshTV.ir@SD",
-  "name": "Varzesh TV",
-  "label": "Varzesh TV [IR]",
-  "logo": "",
-  "group": "IRIB National Networks",
-  "language": "",
-  "quality": "",
-  "url": "https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8",
-  "source": "iptv-org",
-  "status": "geo"
  },
  {
   "id": "AbadanTV.ir",
@@ -538,18 +334,6 @@
   "url": "https://live-aburayhan1105.telewebion.net/ek/atrak/live/576p/index.m3u8",
   "source": "shayanline",
   "status": "ok"
- },
- {
-  "id": "WestAzerbaijanTV.ir@SD",
-  "name": "Azerbaijan Gharbi",
-  "label": "Azerbaijan Gharbi [IR]",
-  "logo": "",
-  "group": "IRIB Provincial Networks",
-  "language": "",
-  "quality": "",
-  "url": "https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8",
-  "source": "iptv-org",
-  "status": "geo"
  },
  {
   "id": "BaranTV.ir",
@@ -718,18 +502,6 @@
   "url": "https://live-aburayhan1102.telewebion.net/ek/khorasanrazavi/live/1080p/index.m3u8",
   "source": "shayanline",
   "status": "ok"
- },
- {
-  "id": "KhozestanTV.ir@SD",
-  "name": "Khozestan",
-  "label": "Khozestan [IR]",
-  "logo": "",
-  "group": "IRIB Provincial Networks",
-  "language": "",
-  "quality": "",
-  "url": "https://ncdn.telewebion.ir/khoozestan/live/playlist.m3u8",
-  "source": "iptv-org",
-  "status": "geo"
  },
  {
   "id": "KhozestanTV.ir",
@@ -921,19 +693,7 @@
   "quality": "SD",
   "url": "https://live2.alalam.ir/live/Alalam/index.m3u8",
   "source": "shayanline",
-  "status": "ok"
- },
- {
-  "id": "AlAlam.ir@SD",
-  "name": "Al Alam (360p)",
-  "label": "Al Alam (360p)",
-  "logo": "",
-  "group": "IRIB International Services",
-  "language": "",
-  "quality": "",
-  "url": "https://live2.alalam.ir/alalam.m3u8",
-  "source": "iptv-org",
-  "status": "ok"
+  "status": "http-404"
  },
  {
   "id": "AlKawtharTV.ir",
@@ -996,15 +756,15 @@
   "status": "ok"
  },
  {
-  "id": "IranPress.ir@SD",
+  "id": "IranPress.ir",
   "name": "Iran Press",
-  "label": "Iran Press",
-  "logo": "",
+  "label": "Iran Press | ایران پرس",
+  "logo": "https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IranPress.ir.jpg",
   "group": "IRIB International Services",
-  "language": "",
-  "quality": "",
-  "url": "https://live.presstv.ir/hls/presstv_5_482/index.m3u8",
-  "source": "iptv-org",
+  "language": "fas;eng",
+  "quality": "SD",
+  "url": "https://ip2stream.iranpress.com/hls/ip2.m3u8",
+  "source": "shayanline",
   "status": "ok"
  },
  {
@@ -1032,18 +792,6 @@
   "status": "ok"
  },
  {
-  "id": "PressTV.ir@SD",
-  "name": "Press TV (720p)",
-  "label": "Press TV (720p) [IR]",
-  "logo": "",
-  "group": "IRIB International Services",
-  "language": "",
-  "quality": "",
-  "url": "https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/master.m3u8",
-  "source": "iptv-org",
-  "status": "geo"
- },
- {
   "id": "PressTVFrench.ir",
   "name": "Press TV French",
   "label": "Press TV French | پرس تی‌وی فرانسه",
@@ -1053,18 +801,6 @@
   "quality": "SD",
   "url": "https://live4.presstv.ir/live/mp4:presstvfr/playlist.m3u8",
   "source": "shayanline",
-  "status": "ok"
- },
- {
-  "id": "PressTVFrench.ir@SD",
-  "name": "Press TV French (1080p)",
-  "label": "Press TV French (1080p)",
-  "logo": "",
-  "group": "IRIB International Services",
-  "language": "",
-  "quality": "",
-  "url": "https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8",
-  "source": "iptv-org",
   "status": "ok"
  },
  {
@@ -2253,7 +1989,7 @@
   "quality": "SD",
   "url": "https://streamer1.connectto.com/HIGHVISION_WEB_1205/playlist.m3u8",
   "source": "shayanline",
-  "status": "ok"
+  "status": "segment-404"
  },
  {
   "id": "NavahangTV.fi",
@@ -2637,18 +2373,6 @@
   "quality": "HD",
   "url": "https://tgn.bozztv.com/cus01/ucur1/Payvand/playlist.m3u8",
   "source": "shayanline",
-  "status": "ok"
- },
- {
-  "id": "PayvandTV.ir@SD",
-  "name": "Payvand TV (720p) [Not 24/7]",
-  "label": "Payvand TV (720p) [Not 24/7]",
-  "logo": "",
-  "group": "Religious · Islamic",
-  "language": "",
-  "quality": "",
-  "url": "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8",
-  "source": "iptv-org",
   "status": "ok"
  },
  {

@@ -13,6 +13,12 @@ sources:
   shayanline:
     enabled: true
     url: https://raw.githubusercontent.com/shayanline/iptv-iran/main/playlists/iran.m3u
+  # Erweiterte Liste: ~3 Stream-Varianten pro Kanal. Wichtig, weil bei den
+  # Telewebion-Sendern oft nur einzelne Varianten geo-blockiert sind —
+  # die anderen laufen. Ohne diese Quelle wären 17 Kanäle unnötig gesperrt.
+  shayanline_all:
+    enabled: true
+    url: https://raw.githubusercontent.com/shayanline/iptv-iran/main/playlists/iran-all-streams.m3u
   iptv_org:
     enabled: true
     urls:
@@ -37,6 +43,12 @@ exclude: []
 #           IRIB-Sender) bleiben drin und werden mit [IR] markiert.
 #   true  = nur geprüfte, laufende Streams (kleinere, aber sichere Liste)
 verified_only: false
+
+# Geo-blockierte Kanäle ganz aus momo.m3u entfernen?
+#   true  = raus. Sinnvoll OHNE iranisches VPN — die Sender laufen sonst
+#           ohnehin nicht. Bleiben nur in den Kategorie-Listen erhalten.
+#   false = bleiben drin, mit [IR] im Namen markiert.
+drop_geo: false
 
 # ── Eigene Kanäle ────────────────────────────────────────────────────
 # Werden IMMER behalten und stehen ganz oben in der Liste.

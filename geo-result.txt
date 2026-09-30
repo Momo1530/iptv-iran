@@ -1,6 +1,0 @@
-=== TV3 / Varzesh Geo-Test (2026-09-30 20:52:17 UTC) ===
-TV1-Referenz | master=200 media=200 segment=200 bytes=535988 -> LAEUFT
-TV3-ncdn | master=200 media=200 segment=403 bytes=176 -> GESPERRT
-TV3-aburayhan | master=200 media=200 segment=451 bytes=0 -> GESPERRT
-Varzesh-ncdn | master=200 media=200 segment=403 bytes=176 -> GESPERRT
-Varzesh-abu. | master=200 media=200 segment=451 bytes=0 -> GESPERRT

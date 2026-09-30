@@ -37,6 +37,38 @@ verschwinden aus `momo.m3u`, es bleiben ~219 Kanäle übrig, die alle direkt lau
 | Religious · Christian | `religious-christian.m3u` |
 | Religious · Other Faiths & Spiritual | `religious-other-faiths-spiritual.m3u` |
 
+## ⚠️ IRIB TV3 & IRIB Varzesh — nicht überwindbar
+
+Diese zwei Sender sind **hart geo-blockiert**. Ausführlich geprüft (Sept 2026):
+
+| Getestet | Ergebnis |
+|---|---|
+| Alle 7 Stream-Varianten auf allen Telewebion-Hosts | Segmente **403** |
+| IPv6-Umgehung | Kein AAAA-Eintrag für die Hosts |
+| ~60 lebende Proxies (HTTP + SOCKS5, mehrere Länder) | **alle 403** |
+| Serverseitige CORS-Proxies | blockiert / Fehlerseite |
+| 6 weitere Iran-IPTV-Repos auf GitHub | nur toter/Kopie-Ballast |
+| Offizielle Seiten `tv3.ir`, `varzeshtv.ir` | **unerreichbar** |
+| GitHub-Runner (US, San Jose), also Nicht-EU-IP | Master lädt, **Segmente 403** |
+| shayanlines eigene Kanaldaten | TV3 = `ok`, Varzesh = **`iran_only`** |
+
+**Fazit:** Master-Playlists laden überall — erst der **Videosegment-Abruf** wird
+serverseitig nach Herkunftsland abgelehnt. Nach derzeitigem Kenntnisstand
+funktionieren beide **nur mit einer iranischen IP**.
+
+Mit `drop_geo: true` (aktuell aktiv) sind sie aus der Playlist ausgeblendet.
+Auf `false` gesetzt erscheinen sie wieder — mit `[IR]` im Namen markiert, damit
+du weißt, dass sie ohne iranische IP nicht laufen.
+
+### Sport-Alternativen, die ohne VPN laufen ✅
+
+| Sender | Auflösung |
+|---|---|
+| **Telewebion Sport 1** | 1080p |
+| **Telewebion Sport 2** | 1080p |
+| **Telewebion Sport 3** | 1080p |
+| Persiana Fight | 720p |
+
 ## ⚠️ `[IR]` = braucht iranische IP
 
 Nur noch **8 von 227** Kanälen sind gesperrt. Die erweiterte Quelle

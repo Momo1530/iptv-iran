@@ -996,15 +996,15 @@
   "status": "ok"
  },
  {
-  "id": "IranPress.ir",
+  "id": "IranPress.ir@SD",
   "name": "Iran Press",
-  "label": "Iran Press | ایران پرس",
-  "logo": "https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IranPress.ir.jpg",
+  "label": "Iran Press",
+  "logo": "",
   "group": "IRIB International Services",
-  "language": "fas;eng",
-  "quality": "SD",
-  "url": "https://ip2stream.iranpress.com/hls/ip2.m3u8",
-  "source": "shayanline",
+  "language": "",
+  "quality": "",
+  "url": "https://live.presstv.ir/hls/presstv_5_482/index.m3u8",
+  "source": "iptv-org",
   "status": "ok"
  },
  {
@@ -2253,7 +2253,7 @@
   "quality": "SD",
   "url": "https://streamer1.connectto.com/HIGHVISION_WEB_1205/playlist.m3u8",
   "source": "shayanline",
-  "status": "segment-404"
+  "status": "ok"
  },
  {
   "id": "NavahangTV.fi",

@@ -1,5 +1,7 @@
 # 📺 Meine IPTV-Playlist
 
+[![Playlists aktualisieren](https://github.com/Momo1530/iptv-iran/actions/workflows/refresh.yml/badge.svg)](https://github.com/Momo1530/iptv-iran/actions/workflows/refresh.yml)
+
 Automatisch gebaute, wöchentlich geprüfte IPTV-Playlist für **iranische & persische Sender**.
 
 Der Build läuft komplett in **GitHub Actions** — du musst nichts installieren.

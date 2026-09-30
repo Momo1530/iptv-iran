@@ -1,8 +1,8 @@
 name: Geo-Test TV3 Varzesh
 
-# Einmaliger Diagnose-Lauf: prüft von GitHub-Runnern aus, ob die
-# gesperrten Sender erreichbar sind. Ergebnis landet in geo-result.txt,
-# damit es ohne Token lesbar ist.
+# Diagnose: prüft von GitHub-Runnern (US) aus, ob TV3 und Varzesh
+# abspielbar sind. Body wird in Dateien geschrieben, auf stdout geht nur
+# der HTTP-Code — sonst vermischt sich Manifest-Text mit dem Status.
 on:
   workflow_dispatch:
   push:
@@ -18,62 +18,53 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.13"
 
-      - name: Segmente von TV3 und Varzesh testen
+      - name: Runner-Standort
+        run: curl -s -m 20 https://ipinfo.io/json || true
+
+      - name: Ketten-Test
         run: |
-          python3 - <<'PY' | tee /tmp/geo-result.txt
-          import subprocess, json
-          from urllib.parse import urljoin
+          set -u
+          W=/tmp/work; mkdir -p $W; cd $W
 
-          def curl(url, rng=False, t=25):
-              cmd = ["curl","-sL","-m",str(t),"-A","Mozilla/5.0","-w","\n###%{http_code}"]
-              if rng: cmd += ["--range","0-8000"]
-              cmd.append(url)
-              r = subprocess.run(cmd, capture_output=True, text=True)
-              p = r.stdout.rsplit("###",1)
-              return (p[1].strip() if len(p)>1 else "?"), p[0]
-
-          # Wo steht der Runner?
-          try:
-              info = json.loads(subprocess.run(["curl","-s","-m","15","https://ipinfo.io/json"],
-                                               capture_output=True,text=True).stdout)
-              print(f"RUNNER-STANDORT: {info.get('city')}, {info.get('region')}, {info.get('country')} ({info.get('org')})")
-          except Exception as e:
-              print(f"RUNNER-STANDORT: unbekannt ({e})")
-          print()
-
-          tests = {
-              "TV1 (Referenz)":  "https://live-aburayhan1111.telewebion.net/ek/tv1/live/playlist.m3u8",
-              "TV3 (ncdn)":      "https://ncdn.telewebion.ir/tv3/live/playlist.m3u8",
-              "TV3 (aburayhan)": "https://live-aburayhan1103.telewebion.net/ek/tv3/live/playlist.m3u8",
-              "Varzesh (ncdn)":  "https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8",
-              "Varzesh (abu.)":  "https://live-aburayhan1109.telewebion.net/ek/varzesh/live/playlist.m3u8",
+          # code <url> <datei>  ->  gibt nur den HTTP-Code aus
+          code() {
+            curl -sL -m 30 -A "Mozilla/5.0" -o "$2" -w "%{http_code}" "$1" 2>/dev/null || echo "ERR"
           }
-          for name, master in tests.items():
-              txt, mcode = curl(master)
-              if "#EXT-X-STREAM-INF" not in txt:
-                  print(f"{name:18s} master={mcode} -> KEIN Master-Manifest")
-                  continue
-              lines = txt.splitlines(); vs = []
-              for i,l in enumerate(lines):
-                  if l.startswith("#EXT-X-STREAM-INF"):
-                      for j in range(i+1, len(lines)):
-                          if lines[j].strip() and not lines[j].startswith("#"):
-                              vs.append(lines[j].strip()); break
-              media = urljoin(master, vs[-1]) if vs else master
-              mtxt, mmcode = curl(media)
-              segs = [l.strip() for l in mtxt.splitlines() if l.strip() and not l.startswith("#")]
-              if not segs:
-                  print(f"{name:18s} master={mcode} media={mmcode} -> KEINE Segmente")
-                  continue
-              seg = urljoin(media, segs[0])
-              scode, body = curl(seg, rng=True)
-              verdict = "LAEUFT" if str(scode) in ("200","206") and len(body) > 1000 else "GESPERRT"
-              print(f"{name:18s} master={mcode} media={mmcode} segment={scode} bytes={len(body):6d} -> {verdict}")
-          PY
+          segcode() {
+            curl -sL -m 30 -A "Mozilla/5.0" --range 0-8000 -o "$2" -w "%{http_code}" "$1" 2>/dev/null || echo "ERR"
+          }
+
+          # Kette prüfen: master -> media -> segment
+          chain() {
+            name="$1"; master="$2"
+            mc=$(code "$master" m.m3u8)
+            rel=$(grep -oE '[^"[:space:]]+\.m3u8' m.m3u8 2>/dev/null | tail -1)
+            if [ -z "$rel" ]; then
+              echo "$name | master=$mc | keine Varianten gefunden"; return
+            fi
+            case "$rel" in http*) media="$rel";; *) media="${master%/*}/$rel";; esac
+            mc2=$(code "$media" md.m3u8)
+            seg=$(grep -v '^#' md.m3u8 2>/dev/null | grep -v '^[[:space:]]*$' | head -1)
+            if [ -z "$seg" ]; then
+              echo "$name | master=$mc media=$mc2 | keine Segmente"; return
+            fi
+            case "$seg" in http*) surl="$seg";; *) surl="${media%/*}/$seg";; esac
+            sc=$(segcode "$surl" seg.ts)
+            sz=$(stat -c%s seg.ts 2>/dev/null || echo 0)
+            verdict="GESPERRT"
+            [ "$sc" = "200" ] || [ "$sc" = "206" ] && [ "$sz" -gt 8000 ] && verdict="LAEUFT"
+            echo "$name | master=$mc media=$mc2 segment=$sc bytes=$sz -> $verdict"
+          }
+
+          {
+            echo "=== TV3 / Varzesh Geo-Test ($(date -u +%F' '%T) UTC) ==="
+            chain "TV1-Referenz"  "https://live-aburayhan1111.telewebion.net/ek/tv1/live/playlist.m3u8"
+            chain "TV3-ncdn"      "https://ncdn.telewebion.ir/tv3/live/playlist.m3u8"
+            chain "TV3-aburayhan" "https://live-aburayhan1103.telewebion.net/ek/tv3/live/playlist.m3u8"
+            chain "Varzesh-ncdn"  "https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8"
+            chain "Varzesh-abu."  "https://live-aburayhan1109.telewebion.net/ek/varzesh/live/playlist.m3u8"
+          } | tee /tmp/geo-result.txt
 
       - name: Ergebnis committen
         run: |

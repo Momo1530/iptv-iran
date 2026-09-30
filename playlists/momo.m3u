@@ -1,5 +1,9 @@
 #EXTM3U
 # Deine IPTV — ohne geo-blockierte Sender
+#EXTINF:-1 tvg-id="IRIB3.ir" tvg-name="IRIB TV3" group-title="IRIB National Networks" tvg-quality="HD",IRIB TV3
+https://cp11.adabmedia.com/hls2/tv3test.m3u8
+#EXTINF:-1 tvg-id="VarzeshTV.ir" tvg-name="IRIB Varzesh" group-title="IRIB National Networks" tvg-quality="HD",IRIB Varzesh
+https://cp11.adabmedia.com/hls2/varzeshtest.m3u8
 #EXTINF:-1 tvg-id="GolkhaneTv.ir" tvg-name="Golkhane" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/GolkhaneTv.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="HD",Golkhane | شبکه گلخانه
 https://live-aburayhan1113.telewebion.net/na/golkhane/live/720p/index.m3u8
 #EXTINF:-1 tvg-id="iFilmPersian.ir" tvg-name="iFilm" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/iFilmPersian.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="FHD",iFilm | آی‌فیلم

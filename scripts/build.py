@@ -163,6 +163,12 @@ def main():
             "status": "ok",
         })
 
+    # Eigene Kanäle VERDRÄNGEN die generische Version desselben Kanals.
+    # Sonst stünde IRIB TV3 zweimal in der Liste: einmal mit der
+    # geo-blockierten Telewebion-URL, einmal mit der laufenden custom-URL.
+    own_ids = {c["id"] for c in own}
+    chosen = [c for c in chosen if c["id"] not in own_ids]
+
     final = own + sorted(chosen, key=lambda c: (group_rank(c["group"], cfg), c["name"].lower()))
 
     # Eindeutige tvg-IDs erzwingen: manche Quellen vergeben dieselbe ID an
@@ -186,7 +192,8 @@ def main():
 
     n = lib.write_m3u(final, lib.PLAYLISTS / "momo.m3u",
                       "Deine IPTV — alle Kanäle (1 Stream je Kanal)")
-    ok_only = own + [c for c in final if c["status"] == "ok"]
+    # final enthält 'own' bereits — nicht nochmal voranstellen.
+    ok_only = [c for c in final if c["status"] == "ok"]
     lib.write_m3u(ok_only, lib.PLAYLISTS / "momo-verified.m3u",
                   "Deine IPTV — nur geprüfte, laufende Streams")
 

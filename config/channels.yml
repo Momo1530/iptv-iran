@@ -51,8 +51,24 @@ verified_only: false
 drop_geo: true
 
 # ── Eigene Kanäle ────────────────────────────────────────────────────
-# Werden IMMER behalten und stehen ganz oben in der Liste.
-custom: []
+# Werden IMMER behalten und stehen ganz oben in der Liste. Ein Kanal hier
+# VERDRÄNGT die generische Version derselben tvg-id.
+custom:
+  # IRIB TV3 und IRIB Varzesh sind bei Telewebion hart geo-blockiert
+  # (alle Varianten, Proxies, IPv6, US-Runner → Segmente 403). Über
+  # adabmedia laufen beide in 720p ohne VPN. ID/group absichtlich gleich
+  # gesetzt, damit sie die Kategorie "IRIB National Networks" erben und
+  # die gesperrten Telewebion-Einträge verdrängen.
+  - name: "IRIB TV3"
+    id: "IRIB3.ir"
+    url: "https://cp11.adabmedia.com/hls2/tv3test.m3u8"
+    group: "IRIB National Networks"
+    quality: "HD"
+  - name: "IRIB Varzesh"
+    id: "VarzeshTV.ir"
+    url: "https://cp11.adabmedia.com/hls2/varzeshtest.m3u8"
+    group: "IRIB National Networks"
+    quality: "HD"
   # - name: "Mein Sender"
   #   url: "https://example.com/stream.m3u8"
   #   logo: "https://example.com/logo.png"

@@ -1,12 +1,17 @@
 name: Geo-Test TV3 Varzesh
 
+# Einmaliger Diagnose-Lauf: prüft von GitHub-Runnern aus, ob die
+# gesperrten Sender erreichbar sind. Ergebnis landet in geo-result.txt,
+# damit es ohne Token lesbar ist.
 on:
   workflow_dispatch:
-  # Läuft auch beim Push — so braucht der Test keinen manuellen Start.
   push:
     branches: [main]
     paths:
       - ".github/workflows/geo-test.yml"
+
+permissions:
+  contents: write
 
 jobs:
   probe:
@@ -16,35 +21,42 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.13"
-      - name: Wo läuft der Runner?
-        run: |
-          curl -s https://ipinfo.io/json || true
-          echo "---"
+
       - name: Segmente von TV3 und Varzesh testen
         run: |
-          python3 - <<'PY'
-          import subprocess, re
+          python3 - <<'PY' | tee /tmp/geo-result.txt
+          import subprocess, json
           from urllib.parse import urljoin
 
-          def curl(url, rng=False, t=20):
+          def curl(url, rng=False, t=25):
               cmd = ["curl","-sL","-m",str(t),"-A","Mozilla/5.0","-w","\n###%{http_code}"]
-              if rng: cmd += ["--range","0-5000"]
+              if rng: cmd += ["--range","0-8000"]
               cmd.append(url)
               r = subprocess.run(cmd, capture_output=True, text=True)
-              parts = r.stdout.rsplit("###",1)
-              return (parts[1].strip() if len(parts)>1 else "?"), parts[0]
+              p = r.stdout.rsplit("###",1)
+              return (p[1].strip() if len(p)>1 else "?"), p[0]
+
+          # Wo steht der Runner?
+          try:
+              info = json.loads(subprocess.run(["curl","-s","-m","15","https://ipinfo.io/json"],
+                                               capture_output=True,text=True).stdout)
+              print(f"RUNNER-STANDORT: {info.get('city')}, {info.get('region')}, {info.get('country')} ({info.get('org')})")
+          except Exception as e:
+              print(f"RUNNER-STANDORT: unbekannt ({e})")
+          print()
 
           tests = {
-              "TV1 (Referenz, sollte gehen)": "https://live-aburayhan1111.telewebion.net/ek/tv1/live/playlist.m3u8",
-              "TV3":                          "https://ncdn.telewebion.ir/tv3/live/playlist.m3u8",
-              "TV3 (aburayhan)":              "https://live-aburayhan1103.telewebion.net/ek/tv3/live/playlist.m3u8",
-              "Varzesh":                      "https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8",
-              "Varzesh (aburayhan)":          "https://live-aburayhan1109.telewebion.net/ek/varzesh/live/playlist.m3u8",
+              "TV1 (Referenz)":  "https://live-aburayhan1111.telewebion.net/ek/tv1/live/playlist.m3u8",
+              "TV3 (ncdn)":      "https://ncdn.telewebion.ir/tv3/live/playlist.m3u8",
+              "TV3 (aburayhan)": "https://live-aburayhan1103.telewebion.net/ek/tv3/live/playlist.m3u8",
+              "Varzesh (ncdn)":  "https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8",
+              "Varzesh (abu.)":  "https://live-aburayhan1109.telewebion.net/ek/varzesh/live/playlist.m3u8",
           }
           for name, master in tests.items():
               txt, mcode = curl(master)
               if "#EXT-X-STREAM-INF" not in txt:
-                  print(f"{name}: MASTER HTTP {mcode}, kein Master-Manifest"); continue
+                  print(f"{name:18s} master={mcode} -> KEIN Master-Manifest")
+                  continue
               lines = txt.splitlines(); vs = []
               for i,l in enumerate(lines):
                   if l.startswith("#EXT-X-STREAM-INF"):
@@ -55,9 +67,24 @@ jobs:
               mtxt, mmcode = curl(media)
               segs = [l.strip() for l in mtxt.splitlines() if l.strip() and not l.startswith("#")]
               if not segs:
-                  print(f"{name}: MEDIA HTTP {mmcode}, keine Segmente"); continue
+                  print(f"{name:18s} master={mcode} media={mmcode} -> KEINE Segmente")
+                  continue
               seg = urljoin(media, segs[0])
               scode, body = curl(seg, rng=True)
-              ok = "OK" if str(scode) in ("200","206") and len(body) > 1000 else "BLOCKED"
-              print(f"{name}: master={mcode} media={mmcode} SEGMENT={scode} bytes={len(body)} -> {ok}")
+              verdict = "LAEUFT" if str(scode) in ("200","206") and len(body) > 1000 else "GESPERRT"
+              print(f"{name:18s} master={mcode} media={mmcode} segment={scode} bytes={len(body):6d} -> {verdict}")
           PY
+
+      - name: Ergebnis committen
+        run: |
+          cp /tmp/geo-result.txt geo-result.txt
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add geo-result.txt
+          git diff --cached --quiet && { echo "keine Änderung"; exit 0; }
+          git commit -m "test: Geo-Ergebnis $(date -u +%F)"
+          for i in 1 2 3; do
+            git push && break
+            git fetch origin main && git rebase origin/main || true
+            sleep 5
+          done

@@ -819,16 +819,16 @@
   "status": "ok"
  },
  {
-  "id": "IranPress.ir",
+  "id": "IranPress.ir@SD",
   "name": "Iran Press",
-  "label": "Iran Press | ایران پرس",
-  "logo": "https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IranPress.ir.jpg",
+  "label": "Iran Press",
+  "logo": "",
   "group": "IRIB International Services",
-  "language": "fas;eng",
-  "quality": "SD",
-  "url": "https://ip2stream.iranpress.com/hls/ip2.m3u8",
+  "language": "",
+  "quality": "",
+  "url": "https://live.presstv.ir/hls/presstv_5_482/index.m3u8",
   "synthetic_id": false,
-  "source": "shayanline",
+  "source": "iptv-org",
   "status": "ok"
  },
  {
@@ -1115,7 +1115,7 @@
   "url": "https://live.pars-israel.com/tmp_hls/iptv/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
-  "status": "segment-404"
+  "status": "ok"
  },
  {
   "id": "KanalJadid.uk",
@@ -2480,7 +2480,7 @@
   "url": "https://bucharest.zeuscdn724.com/lb0/H1/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
-  "status": "segment-404"
+  "status": "ok"
  },
  {
   "id": "ImamHusseinTV1.iq",

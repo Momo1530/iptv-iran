@@ -120,8 +120,8 @@ https://live.presstv.co.uk/hls/ifilm2_4_482/index.m3u8
 https://live.presstv.co.uk/hls/ifilmar_4_482/index.m3u8
 #EXTINF:-1 tvg-id="iFilmEnglish.ir" tvg-name="iFilm English" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/iFilmEnglish.ir.png" group-title="IRIB International Services" tvg-language="eng" tvg-quality="SD",iFilm English | آی‌فیلم انگلیسی
 https://live.presstv.co.uk/hls/ifilmen_4_482/index.m3u8
-#EXTINF:-1 tvg-id="IranPress.ir" tvg-name="Iran Press" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IranPress.ir.jpg" group-title="IRIB International Services" tvg-language="fas;eng" tvg-quality="SD",Iran Press | ایران پرس
-https://ip2stream.iranpress.com/hls/ip2.m3u8
+#EXTINF:-1 tvg-id="IranPress.ir@SD" tvg-name="Iran Press" group-title="IRIB International Services",Iran Press
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:-1 tvg-id="Palestinetv.ir" tvg-name="Palestine TV" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/Palestinetv.ir.png" group-title="IRIB International Services" tvg-language="ara;fas" tvg-quality="HD",Palestine TV | شبکه فلسطین
 https://live-aburayhan1106.telewebion.net/na/palestine/live/720p/index.m3u8
 #EXTINF:-1 tvg-id="PressTV.ir" tvg-name="Press TV" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/PressTV.ir.png" group-title="IRIB International Services" tvg-language="eng" tvg-quality="HD",Press TV | پرس تی‌وی
@@ -154,6 +154,8 @@ https://streaminglive.co.il:3730/live/raniamranilive.m3u8
 https://irwhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="IRNATV.ir" tvg-name="IRNA TV" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IRNATV.ir.png" group-title="Satellite · News & Current Affairs" tvg-language="fas",IRNA TV | ایرنا
 https://tv.irna.ir/live/stream/index.m3u8
+#EXTINF:-1 tvg-id="IsraelParsTV.il" tvg-name="Israel Pars TV" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IsraelParsTV.il.png" group-title="Satellite · News & Current Affairs" tvg-language="heb" tvg-quality="SD",Israel Pars TV | اسرائیل پارس
+https://live.pars-israel.com/tmp_hls/iptv/index.m3u8
 #EXTINF:-1 tvg-id="KanalJadid.uk" tvg-name="Kanal Jadid" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/KanalJadid.uk.png" group-title="Satellite · News & Current Affairs" tvg-language="fas" tvg-quality="SD",Kanal Jadid | کانال جدید
 https://kjhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MelliGTV.us" tvg-name="MelliG TV" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/MelliGTV.us.png" group-title="Satellite · News & Current Affairs" tvg-language="fas" tvg-quality="HD",MelliG TV | ملی‌گرا
@@ -354,6 +356,8 @@ https://live.asil.tv/asiltv/index.m3u8
 https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8
 #EXTINF:-1 tvg-id="HabibTV.ir" tvg-name="Habib TV" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/HabibTV.ir.png" group-title="Religious · Islamic" tvg-language="ara;fas" tvg-quality="HD",Habib TV | شبکه حبیب
 https://live-aburayhan1111.telewebion.net/na/habib/live/720p/index.m3u8
+#EXTINF:-1 tvg-id="HadiTV.uk" tvg-name="Hadi TV" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/HadiTV.uk.png" group-title="Religious · Islamic" tvg-language="ara" tvg-quality="FHD",Hadi TV | شبکه هادی
+https://bucharest.zeuscdn724.com/lb0/H1/index.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV1.iq" tvg-name="Imam Hussein TV 1" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/ImamHusseinTV1.iq.png" group-title="Religious · Islamic" tvg-language="fas" tvg-quality="FHD",Imam Hussein TV 1 | امام حسین ۱
 https://live.imamhossaintv.com/live/ih1.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV6.iq" tvg-name="Imam Hussein TV 6" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/ImamHusseinTV6.iq.png" group-title="Religious · Islamic" tvg-language="fas" tvg-quality="FHD",Imam Hussein TV 6 | امام حسین ۶

@@ -1,0 +1,18 @@
+#EXTM3U
+# Satellite · Factual, Culture & Lifestyle
+#EXTINF:-1 tvg-id="CafeTradeTV.ir" tvg-name="Cafe Trade TV" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/CafeTradeTV.ir.png" group-title="Satellite · Factual, Culture & Lifestyle" tvg-language="fas" tvg-quality="SD",Culture & Lifestyle | ماهواره‌ای · مستند، فرهنگ و سبک زندگی" tvg-language="fas" tvg-quality="SD",Cafe Trade TV | کافه ترید
+https://cafetradehls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="EPlanetTV.ir" tvg-name="E Planet TV" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/EPlanetTV.ir.png" group-title="Satellite · Factual, Culture & Lifestyle" tvg-language="fas" tvg-quality="HD",Culture & Lifestyle | ماهواره‌ای · مستند، فرهنگ و سبک زندگی" tvg-language="fas" tvg-quality="HD",E Planet TV | ای‌پلنت
+https://eplhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PayamJavanTV.us" tvg-name="Payam Javan TV" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/PayamJavanTV.us.png" group-title="Satellite · Factual, Culture & Lifestyle" tvg-language="fas" tvg-quality="HD",Culture & Lifestyle | ماهواره‌ای · مستند، فرهنگ و سبک زندگی" tvg-language="fas" tvg-quality="HD",Payam Javan TV | پیام جوان
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PersianaDocs.fr" tvg-name="Persiana Docs" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/PersianaDocs.fr.png" group-title="Satellite · Factual, Culture & Lifestyle" tvg-language="fas" tvg-quality="HD",Culture & Lifestyle | ماهواره‌ای · مستند، فرهنگ و سبک زندگی" tvg-language="fas" tvg-quality="HD",Persiana Docs | پرشیانا مستند
+https://scihls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaPodcast.fr" tvg-name="Persiana Podcast" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/PersianaPodcast.fr.png" group-title="Satellite · Factual, Culture & Lifestyle" tvg-language="fas" tvg-quality="HD",Culture & Lifestyle | ماهواره‌ای · مستند، فرهنگ و سبک زندگی" tvg-language="fas" tvg-quality="HD",Persiana Podcast | پرشیانا پادکست
+https://podhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaTravel.fr" tvg-name="Persiana Travel" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/PersianaTravel.fr.png" group-title="Satellite · Factual, Culture & Lifestyle" tvg-language="fas" tvg-quality="HD",Culture & Lifestyle | ماهواره‌ای · مستند، فرهنگ و سبک زندگی" tvg-language="fas" tvg-quality="HD",Persiana Travel | پرشیانا سفر
+https://ptravelhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaVoyage.fr" tvg-name="Persiana Voyage" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/PersianaVoyage.fr.png" group-title="Satellite · Factual, Culture & Lifestyle" tvg-language="fas" tvg-quality="HD",Culture & Lifestyle | ماهواره‌ای · مستند، فرهنگ و سبک زندگی" tvg-language="fas" tvg-quality="HD",Persiana Voyage | پرشیانا سیاحت
+https://voyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TMTV.us" tvg-name="TM TV" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/TMTV.us.png" group-title="Satellite · Factual, Culture & Lifestyle" tvg-language="fas" tvg-quality="SD",Culture & Lifestyle | ماهواره‌ای · مستند، فرهنگ و سبک زندگی" tvg-language="fas" tvg-quality="SD",TM TV | تی‌ام
+https://hls.tmtv.live/hls/stream.m3u8

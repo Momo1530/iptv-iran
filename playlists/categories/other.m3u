@@ -1,0 +1,18 @@
+#EXTM3U
+# Other
+#EXTINF:-1 tvg-id="AraTV.ir@SD" tvg-name="Ara" group-title="Other",Ara
+https://ncdn.telewebion.ir/ara/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Energy.ir@SD" tvg-name="Energy" group-title="Other",Energy
+https://ncdn.telewebion.ir/baenergy/live/playlist.m3u8
+#EXTINF:-1 tvg-id="HodHodFarsiTV.ir@SD" tvg-name="HodHod Farsi TV (1080p)" group-title="Other",HodHod Farsi TV (1080p) [IR]
+https://northtelecom.b-cdn.net/hodhodtv.m3u8
+#EXTINF:-1 tvg-id="MohabatTV.ir@SD" tvg-name="Mohabat TV (540p)" group-title="Other",Mohabat TV (540p)
+http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="nesfejahan" tvg-name="Nesfejahan" group-title="Other",Nesfejahan [IR]
+https://ncdn.telewebion.ir/nesfejahan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SarbedaranTV.ir@SD" tvg-name="Sarbedaran" group-title="Other",Sarbedaran
+https://ncdn.telewebion.ir/sarbedaran/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SepehrTV.ir@SD" tvg-name="Sepehr" group-title="Other",Sepehr
+https://ncdn.telewebion.ir/sepehr/live/playlist.m3u8
+#EXTINF:-1 tvg-id="tv1-plus-not-24-7" tvg-name="TV1 Plus [Not 24/7]" group-title="Other",TV1 Plus [Not 24/7] [IR]
+https://ncdn.telewebion.ir/tv1plus/live/playlist.m3u8

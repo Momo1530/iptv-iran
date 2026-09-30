@@ -1,0 +1,70 @@
+# ─────────────────────────────────────────────────────────────────────
+#  DEINE IPTV — Konfiguration
+#
+#  Alles hier ist deine Auswahl. Die Skripte bauen daraus automatisch
+#  deine Playlists. Nach jeder Änderung einfach committen/pushen —
+#  GitHub Actions baut die Listen dann neu.
+# ─────────────────────────────────────────────────────────────────────
+
+# ── Quellen ──────────────────────────────────────────────────────────
+# Öffentliche, regelmäßig gepflegte Iran-Listen, aus denen deine Kanäle
+# gesammelt werden.
+sources:
+  shayanline:
+    enabled: true
+    url: https://raw.githubusercontent.com/shayanline/iptv-iran/main/playlists/iran.m3u
+  iptv_org:
+    enabled: true
+    urls:
+      - https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ir.m3u
+      - https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ir_telewebion.m3u
+
+# ── Auswahl ──────────────────────────────────────────────────────────
+# Nur diese Kanäle behalten (Kanal-ID oder Name, * als Platzhalter).
+# Leer lassen = ALLE Kanäle behalten.
+include: []
+  # - "IRIB*"
+  # - "Persiana*"
+  # - "BBC*"
+
+# Diese Kanäle immer entfernen (* als Platzhalter)
+exclude: []
+  # - "*test*"
+  # - "*shopping*"
+
+# Nur Streams behalten, die beim Prüfen WIRKLICH laufen?
+#   false = alles behalten. Nicht erreichbare (z. B. geo-blockierte
+#           IRIB-Sender) bleiben drin und werden mit [IR] markiert.
+#   true  = nur geprüfte, laufende Streams (kleinere, aber sichere Liste)
+verified_only: false
+
+# ── Eigene Kanäle ────────────────────────────────────────────────────
+# Werden IMMER behalten und stehen ganz oben in der Liste.
+custom: []
+  # - name: "Mein Sender"
+  #   url: "https://example.com/stream.m3u8"
+  #   logo: "https://example.com/logo.png"
+  #   group: "Eigene"
+
+# ── Stream-URLs ersetzen ─────────────────────────────────────────────
+# Falls du für einen Kanal eine bessere/andere Quelle hast.
+overrides: {}
+  # IRIB1.ir: https://andere-url.example/stream.m3u8
+
+# ── Reihenfolge der Gruppen in der fertigen Playlist ─────────────────
+group_order:
+  - "Eigene"
+  - "IRIB National Networks"
+  - "IRIB Provincial Networks"
+  - "IRIB International Services"
+  - "Satellite · News & Current Affairs"
+  - "Satellite · Sports"
+  - "Satellite · Film & Series"
+  - "Satellite · General & Variety"
+  - "Satellite · Children"
+  - "Satellite · Music"
+  - "Satellite · Factual, Culture & Lifestyle"
+  - "Religious · Islamic"
+  - "Religious · Christian"
+  - "Religious · Other Faiths & Spiritual"
+  - "Other"

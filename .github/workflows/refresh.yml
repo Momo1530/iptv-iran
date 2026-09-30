@@ -1,0 +1,59 @@
+# Baut die Playlists jede Woche neu und prüft dabei jeden Stream.
+name: Playlists aktualisieren
+
+on:
+  schedule:
+    # jeden Montag 04:10 UTC
+    - cron: "10 4 * * 1"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - "config/**"
+      - ".github/workflows/refresh.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Abhängigkeiten installieren
+        run: python -m pip install --disable-pip-version-check -r requirements.txt
+
+      - name: Kandidaten sammeln
+        run: python scripts/sources.py
+
+      - name: Streams prüfen
+        run: python scripts/probe.py
+
+      - name: Playlists bauen
+        run: python scripts/build.py
+
+      - name: Ergebnis validieren
+        run: python scripts/validate.py
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add playlists data
+          if git diff --cached --quiet; then
+            echo "Nichts geändert, kein Commit."
+            exit 0
+          fi
+          git commit -m "chore: Playlists aktualisiert $(date -u +%F)"
+          git push

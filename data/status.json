@@ -1,0 +1,2711 @@
+{
+ "http://185.9.2.18/chid_926/index.m3u8": {
+  "url": "http://185.9.2.18/chid_926/index.m3u8",
+  "status": "ok",
+  "segment": "http://185.9.2.18/chid_926/tracks-v1a1/2026/09/30/19/48/20-05760.ts",
+  "checked": "2026-09-30T19:48:46Z",
+  "first_seen": "2026-09-30T19:48:46Z",
+  "last_ok": "2026-09-30T19:48:46Z",
+  "fails": 0
+ },
+ "http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8": {
+  "url": "http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8",
+  "status": "http-0",
+  "segment": "",
+  "checked": "2026-09-30T19:48:58Z",
+  "first_seen": "2026-09-30T19:48:58Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "http://iran620.com:1935/live/IranJewishTv/playlist.m3u8": {
+  "url": "http://iran620.com:1935/live/IranJewishTv/playlist.m3u8",
+  "status": "ok",
+  "segment": "http://iran620.com:1935/live/IranJewishTv/media_w522793718_7094.ts",
+  "checked": "2026-09-30T19:48:46Z",
+  "first_seen": "2026-09-30T19:48:46Z",
+  "last_ok": "2026-09-30T19:48:46Z",
+  "fails": 0
+ },
+ "http://porchooneh.com/hls/live1/stream1.m3u8": {
+  "url": "http://porchooneh.com/hls/live1/stream1.m3u8",
+  "status": "ok",
+  "segment": "http://porchooneh.com/hls/live1/stream1-473526.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://4afghls.wns.live/hls/stream.m3u8": {
+  "url": "https://4afghls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://4afghls.wns.live/hls/stream-3506303.ts",
+  "checked": "2026-09-30T19:48:46Z",
+  "first_seen": "2026-09-30T19:48:46Z",
+  "last_ok": "2026-09-30T19:48:46Z",
+  "fails": 0
+ },
+ "https://4kuhls.persiana.live/hls/stream.m3u8": {
+  "url": "https://4kuhls.persiana.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://4kuhls.persiana.live/hls/stream-590911.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8": {
+  "url": "https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8",
+  "status": "http-0",
+  "segment": "",
+  "checked": "2026-09-30T19:48:59Z",
+  "first_seen": "2026-09-30T19:48:59Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://5ad386ff92705.streamlock.net/live_transcodermh/ngrp:mohabat.stream_all/playlist.m3u8": {
+  "url": "https://5ad386ff92705.streamlock.net/live_transcodermh/ngrp:mohabat.stream_all/playlist.m3u8",
+  "status": "ok",
+  "segment": "https://5ad386ff92705.streamlock.net/live_transcodermh/ngrp:mohabat.stream_all/media_w1487600835_b2625536_28725.ts",
+  "checked": "2026-09-30T19:48:48Z",
+  "first_seen": "2026-09-30T19:48:48Z",
+  "last_ok": "2026-09-30T19:48:48Z",
+  "fails": 0
+ },
+ "https://afrafhls.wns.live/hls/stream.m3u8": {
+  "url": "https://afrafhls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://afrafhls.wns.live/hls/stream-1989826.ts",
+  "checked": "2026-09-30T19:48:46Z",
+  "first_seen": "2026-09-30T19:48:46Z",
+  "last_ok": "2026-09-30T19:48:46Z",
+  "fails": 0
+ },
+ "https://araxhls.wns.live/hls/stream.m3u8": {
+  "url": "https://araxhls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://araxhls.wns.live/hls/stream-588859.ts",
+  "checked": "2026-09-30T19:48:46Z",
+  "first_seen": "2026-09-30T19:48:46Z",
+  "last_ok": "2026-09-30T19:48:46Z",
+  "fails": 0
+ },
+ "https://arkhls.wns.live/hls/stream.m3u8": {
+  "url": "https://arkhls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://arkhls.wns.live/hls/stream-606007.ts",
+  "checked": "2026-09-30T19:48:46Z",
+  "first_seen": "2026-09-30T19:48:46Z",
+  "last_ok": "2026-09-30T19:48:46Z",
+  "fails": 0
+ },
+ "https://arvhls.wns.live/hls/stream.m3u8": {
+  "url": "https://arvhls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://arvhls.wns.live/hls/stream-648430.ts",
+  "checked": "2026-09-30T19:48:46Z",
+  "first_seen": "2026-09-30T19:48:46Z",
+  "last_ok": "2026-09-30T19:48:46Z",
+  "fails": 0
+ },
+ "https://avaserieshls.wns.live/hls/stream.m3u8": {
+  "url": "https://avaserieshls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://avaserieshls.wns.live/hls/stream-396654.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://avr.host247.net/live/WiseHumanTv/playlist.m3u8": {
+  "url": "https://avr.host247.net/live/WiseHumanTv/playlist.m3u8",
+  "status": "ok",
+  "segment": "https://avr.host247.net/live/WiseHumanTv/tracks-v1a1/2026/09/30/19/48/17-06000.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://avr.host247.net/live/rasoulallahtv/playlist.m3u8": {
+  "url": "https://avr.host247.net/live/rasoulallahtv/playlist.m3u8",
+  "status": "ok",
+  "segment": "https://avr.host247.net/live/rasoulallahtv/tracks-v1a1/2026/09/30/19/48/20-06400.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8": {
+  "url": "https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8",
+  "status": "ok",
+  "segment": "https://bozztv.com/1gbw5/tintv/tintv/media-uejtuip5p_306.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8": {
+  "url": "https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8",
+  "status": "ok",
+  "segment": "https://bozztv.com/1gbw5/tintv2/tintv2/media-u2c9gyll1_7968.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://bravoohls.wns.live/hls/stream.m3u8": {
+  "url": "https://bravoohls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://bravoohls.wns.live/hls/stream-736756.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://bucharest.zeuscdn724.com/lb0/H1/index.m3u8": {
+  "url": "https://bucharest.zeuscdn724.com/lb0/H1/index.m3u8",
+  "status": "ok",
+  "segment": "https://bucharest.zeuscdn724.com/lb0/H1/tracks-v4a1/2026/09/30/19/48/21-05000.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://cafefhls.wns.live/hls/stream.m3u8": {
+  "url": "https://cafefhls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://cafefhls.wns.live/hls/stream-3672547.ts",
+  "checked": "2026-09-30T19:48:46Z",
+  "first_seen": "2026-09-30T19:48:46Z",
+  "last_ok": "2026-09-30T19:48:46Z",
+  "fails": 0
+ },
+ "https://cafetradehls.wns.live/hls/stream.m3u8": {
+  "url": "https://cafetradehls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://cafetradehls.wns.live/hls/stream-283948.ts",
+  "checked": "2026-09-30T19:48:46Z",
+  "first_seen": "2026-09-30T19:48:46Z",
+  "last_ok": "2026-09-30T19:48:46Z",
+  "fails": 0
+ },
+ "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8": {
+  "url": "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8",
+  "status": "ok",
+  "segment": "https://cdn.bestream.io:19360/elfaro4/elfaro4-1790532171218.ts",
+  "checked": "2026-09-30T19:48:46Z",
+  "first_seen": "2026-09-30T19:48:46Z",
+  "last_ok": "2026-09-30T19:48:46Z",
+  "fails": 0
+ },
+ "https://cdn3.wowza.com/5/aVJETlF0UFdmYTFu/LWPP/ngrp:persia.stream_all/playlist.m3u8": {
+  "url": "https://cdn3.wowza.com/5/aVJETlF0UFdmYTFu/LWPP/ngrp:persia.stream_all/playlist.m3u8",
+  "status": "ok",
+  "segment": "https://cdn3.wowza.com/5/aVJETlF0UFdmYTFu/LWPP/ngrp:persia.stream_all/media-u11uh60im_b3268266_52861.ts",
+  "checked": "2026-09-30T19:48:48Z",
+  "first_seen": "2026-09-30T19:48:48Z",
+  "last_ok": "2026-09-30T19:48:48Z",
+  "fails": 0
+ },
+ "https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8": {
+  "url": "https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8",
+  "status": "http-502",
+  "segment": "",
+  "checked": "2026-09-30T19:48:49Z",
+  "first_seen": "2026-09-30T19:48:49Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://chinahls.persiana.live/hls/stream.m3u8": {
+  "url": "https://chinahls.persiana.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://chinahls.persiana.live/hls/stream-229745.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://choghls.wns.live/hls/stream.m3u8": {
+  "url": "https://choghls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://choghls.wns.live/hls/stream-757527.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://cinehls.persiana.live/hls/stream.m3u8": {
+  "url": "https://cinehls.persiana.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://cinehls.persiana.live/hls/stream-596102.ts",
+  "checked": "2026-09-30T19:48:48Z",
+  "first_seen": "2026-09-30T19:48:48Z",
+  "last_ok": "2026-09-30T19:48:48Z",
+  "fails": 0
+ },
+ "https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/master.m3u8": {
+  "url": "https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/master.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:46Z",
+  "first_seen": "2026-09-30T19:48:46Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://clshls.wns.live/hls/stream.m3u8": {
+  "url": "https://clshls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://clshls.wns.live/hls/stream-589037.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://comedyhls.persiana.live/hls/stream.m3u8": {
+  "url": "https://comedyhls.persiana.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://comedyhls.persiana.live/hls/stream-436864.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://derakhtzhls.wns.live/hls/stream.m3u8": {
+  "url": "https://derakhtzhls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://derakhtzhls.wns.live/hls/stream-46016.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://eplhls.wns.live/hls/stream.m3u8": {
+  "url": "https://eplhls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://eplhls.wns.live/hls/stream-217525.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://euhls.persiana.live/hls/stream.m3u8": {
+  "url": "https://euhls.persiana.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://euhls.persiana.live/hls/stream-236483.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://familyhls.4utv.live/hls/stream.m3u8": {
+  "url": "https://familyhls.4utv.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://familyhls.4utv.live/hls/stream-91275.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://familyhls.avatv.live/hls/stream.m3u8": {
+  "url": "https://familyhls.avatv.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://familyhls.avatv.live/hls/stream-60466.ts",
+  "checked": "2026-09-30T19:48:48Z",
+  "first_seen": "2026-09-30T19:48:48Z",
+  "last_ok": "2026-09-30T19:48:48Z",
+  "fails": 0
+ },
+ "https://familyhls.persiana.live/hls/stream.m3u8": {
+  "url": "https://familyhls.persiana.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://familyhls.persiana.live/hls/stream-1768861.ts",
+  "checked": "2026-09-30T19:48:48Z",
+  "first_seen": "2026-09-30T19:48:48Z",
+  "last_ok": "2026-09-30T19:48:48Z",
+  "fails": 0
+ },
+ "https://fighthls.persiana.live/hls/stream.m3u8": {
+  "url": "https://fighthls.persiana.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://fighthls.persiana.live/hls/stream-8740.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://fxtvhls.wns.live/hls/stream.m3u8": {
+  "url": "https://fxtvhls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://fxtvhls.wns.live/hls/stream-672398.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://gatvhls.wns.live/hls/stream.m3u8": {
+  "url": "https://gatvhls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://gatvhls.wns.live/hls/stream-1475745.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://gcinemahls.wns.live/hls/stream.m3u8": {
+  "url": "https://gcinemahls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://gcinemahls.wns.live/hls/stream-165690.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8": {
+  "url": "https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8",
+  "status": "ok",
+  "segment": "https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0871.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://hls.247box.live/hls/stream.m3u8": {
+  "url": "https://hls.247box.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://hls.247box.live/hls/stream-606018.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://hls.4utv.live/hls/stream.m3u8": {
+  "url": "https://hls.4utv.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://hls.4utv.live/hls/stream-590820.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://hls.avang.live/hls/stream.m3u8": {
+  "url": "https://hls.avang.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://hls.avang.live/hls/stream-590690.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://hls.erfanhalgheh.live/hls/stream.m3u8": {
+  "url": "https://hls.erfanhalgheh.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://hls.erfanhalgheh.live/hls/stream-91279.ts",
+  "checked": "2026-09-30T19:48:48Z",
+  "first_seen": "2026-09-30T19:48:48Z",
+  "last_ok": "2026-09-30T19:48:48Z",
+  "fails": 0
+ },
+ "https://hls.irannrtv.live/hls/stream.m3u8": {
+  "url": "https://hls.irannrtv.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://hls.irannrtv.live/hls/stream-91274.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://hls.keshishhamid.live/hls/stream.m3u8": {
+  "url": "https://hls.keshishhamid.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://hls.keshishhamid.live/hls/stream-760839.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://hls.maahtv.live/hls/stream.m3u8": {
+  "url": "https://hls.maahtv.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://hls.maahtv.live/hls/stream-1992494.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://hls.navahang.live/hls/stream.m3u8": {
+  "url": "https://hls.navahang.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://hls.navahang.live/hls/stream-693288.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://hls.nejat.live/hls/stream.m3u8": {
+  "url": "https://hls.nejat.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://hls.nejat.live/hls/stream-590795.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://hls.oxir.live/hls/stream.m3u8": {
+  "url": "https://hls.oxir.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://hls.oxir.live/hls/stream-929228.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://hls.rahenejat.live/hls/stream.m3u8": {
+  "url": "https://hls.rahenejat.live/hls/stream.m3u8",
+  "status": "http-404",
+  "segment": "",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://hls.ravitv.com/hls/stream.m3u8": {
+  "url": "https://hls.ravitv.com/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://hls.ravitv.com/hls/stream-1609517.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://hls.sunmusic.live/hls/stream.m3u8": {
+  "url": "https://hls.sunmusic.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://hls.sunmusic.live/hls/stream-335336.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://hls.tmtv.live/hls/stream.m3u8": {
+  "url": "https://hls.tmtv.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://hls.tmtv.live/hls/stream-29948.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://hls.yourtime.live/hls/stream.m3u8": {
+  "url": "https://hls.yourtime.live/hls/stream.m3u8",
+  "status": "kein-hls",
+  "segment": "",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://hlspackager.akamaized.net/live/DB/ALTERNATIVE_SHORAI_TV/HLS/ALTERNATIVE_SHORAI_TV.m3u8": {
+  "url": "https://hlspackager.akamaized.net/live/DB/ALTERNATIVE_SHORAI_TV/HLS/ALTERNATIVE_SHORAI_TV.m3u8",
+  "status": "ok",
+  "segment": "https://hlspackager.akamaized.net/live/DB/ALTERNATIVE_SHORAI_TV/HLS/ALTERNATIVE_SHORAI_TV-avc1_2500000=10002-begin=3707272606093334-dur=100000000-seq=37072727.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8": {
+  "url": "https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8",
+  "status": "ok",
+  "segment": "https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL-avc1_2500000=10002-begin=3707272606400000-dur=100000000-seq=37072727.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://homeplushls.wns.live/hls/stream.m3u8": {
+  "url": "https://homeplushls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://homeplushls.wns.live/hls/stream-589024.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://ic3hls.wns.live/hls/stream.m3u8": {
+  "url": "https://ic3hls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://ic3hls.wns.live/hls/stream-246580.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://icchls.wns.live/hls/stream.m3u8": {
+  "url": "https://icchls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://icchls.wns.live/hls/stream-4469.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://icnet1hls.wns.live/hls/stream.m3u8": {
+  "url": "https://icnet1hls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://icnet1hls.wns.live/hls/stream-740393.ts",
+  "checked": "2026-09-30T19:48:48Z",
+  "first_seen": "2026-09-30T19:48:48Z",
+  "last_ok": "2026-09-30T19:48:48Z",
+  "fails": 0
+ },
+ "https://icnet2hls.wns.live/hls/stream.m3u8": {
+  "url": "https://icnet2hls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://icnet2hls.wns.live/hls/stream-51728.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://ip2stream.iranpress.com/hls/ip2.m3u8": {
+  "url": "https://ip2stream.iranpress.com/hls/ip2.m3u8",
+  "status": "ok",
+  "segment": "https://ip2stream.iranpress.com/hls/ip2_high-67068.ts",
+  "checked": "2026-09-30T19:48:48Z",
+  "first_seen": "2026-09-30T19:48:48Z",
+  "last_ok": "2026-09-30T19:48:48Z",
+  "fails": 0
+ },
+ "https://iptv.almahditv.com/almahditv/playlist.m3u8": {
+  "url": "https://iptv.almahditv.com/almahditv/playlist.m3u8",
+  "status": "ok",
+  "segment": "https://iptv.almahditv.com/almahditv/playlist_src/1790797694920.ts",
+  "checked": "2026-09-30T19:48:49Z",
+  "first_seen": "2026-09-30T19:48:49Z",
+  "last_ok": "2026-09-30T19:48:49Z",
+  "fails": 0
+ },
+ "https://iptv.mihantv.com/mihantv/playlist.m3u8": {
+  "url": "https://iptv.mihantv.com/mihantv/playlist.m3u8",
+  "status": "ok",
+  "segment": "https://iptv.mihantv.com/mihantv/playlist_src/1790797693755.ts",
+  "checked": "2026-09-30T19:48:49Z",
+  "first_seen": "2026-09-30T19:48:49Z",
+  "last_ok": "2026-09-30T19:48:49Z",
+  "fails": 0
+ },
+ "https://iptv.tapesh.tv/tapesh/playlist.m3u8": {
+  "url": "https://iptv.tapesh.tv/tapesh/playlist.m3u8",
+  "status": "ok",
+  "segment": "https://iptv.tapesh.tv/tapesh/playlist_src/1790797692545.ts",
+  "checked": "2026-09-30T19:48:49Z",
+  "first_seen": "2026-09-30T19:48:49Z",
+  "last_ok": "2026-09-30T19:48:49Z",
+  "fails": 0
+ },
+ "https://iptv.tapesh.tv/tapeshiran/playlist.m3u8": {
+  "url": "https://iptv.tapesh.tv/tapeshiran/playlist.m3u8",
+  "status": "http-404",
+  "segment": "",
+  "checked": "2026-09-30T19:48:48Z",
+  "first_seen": "2026-09-30T19:48:48Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://iran613hls.wns.live/hls/stream.m3u8": {
+  "url": "https://iran613hls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://iran613hls.wns.live/hls/stream-590875.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://iranaryai.pahlavimonarchy.online/iranearyaeesd/index.m3u8": {
+  "url": "https://iranaryai.pahlavimonarchy.online/iranearyaeesd/index.m3u8",
+  "status": "http-0",
+  "segment": "",
+  "checked": "2026-09-30T19:48:52Z",
+  "first_seen": "2026-09-30T19:48:52Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://iranefardalive.com/stream/live.m3u8": {
+  "url": "https://iranefardalive.com/stream/live.m3u8",
+  "status": "segment-404",
+  "segment": "",
+  "checked": "2026-09-30T19:48:48Z",
+  "first_seen": "2026-09-30T19:48:48Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://irhls.persiana.live/hls/stream.m3u8": {
+  "url": "https://irhls.persiana.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://irhls.persiana.live/hls/stream-1992375.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://irwhls.wns.live/hls/stream.m3u8": {
+  "url": "https://irwhls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://irwhls.wns.live/hls/stream-1856192.ts",
+  "checked": "2026-09-30T19:48:47Z",
+  "first_seen": "2026-09-30T19:48:47Z",
+  "last_ok": "2026-09-30T19:48:47Z",
+  "fails": 0
+ },
+ "https://itnhls.wns.live/hls/stream.m3u8": {
+  "url": "https://itnhls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://itnhls.wns.live/hls/stream-768289.ts",
+  "checked": "2026-09-30T19:48:48Z",
+  "first_seen": "2026-09-30T19:48:48Z",
+  "last_ok": "2026-09-30T19:48:48Z",
+  "fails": 0
+ },
+ "https://itthls.wns.live/hls/stream.m3u8": {
+  "url": "https://itthls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://itthls.wns.live/hls/stream-600502.ts",
+  "checked": "2026-09-30T19:48:48Z",
+  "first_seen": "2026-09-30T19:48:48Z",
+  "last_ok": "2026-09-30T19:48:48Z",
+  "fails": 0
+ },
+ "https://junhls.persiana.live/hls/stream.m3u8": {
+  "url": "https://junhls.persiana.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://junhls.persiana.live/hls/stream-95116.ts",
+  "checked": "2026-09-30T19:48:48Z",
+  "first_seen": "2026-09-30T19:48:48Z",
+  "last_ok": "2026-09-30T19:48:48Z",
+  "fails": 0
+ },
+ "https://kjhls.wns.live/hls/stream.m3u8": {
+  "url": "https://kjhls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://kjhls.wns.live/hls/stream-603214.ts",
+  "checked": "2026-09-30T19:48:48Z",
+  "first_seen": "2026-09-30T19:48:48Z",
+  "last_ok": "2026-09-30T19:48:48Z",
+  "fails": 0
+ },
+ "https://korhls.persiana.live/hls/stream.m3u8": {
+  "url": "https://korhls.persiana.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://korhls.persiana.live/hls/stream-505759.ts",
+  "checked": "2026-09-30T19:48:48Z",
+  "first_seen": "2026-09-30T19:48:48Z",
+  "last_ok": "2026-09-30T19:48:48Z",
+  "fails": 0
+ },
+ "https://latinohls.persiana.live/hls/stream.m3u8": {
+  "url": "https://latinohls.persiana.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://latinohls.persiana.live/hls/stream-1609517.ts",
+  "checked": "2026-09-30T19:48:48Z",
+  "first_seen": "2026-09-30T19:48:48Z",
+  "last_ok": "2026-09-30T19:48:48Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1101.telewebion.net/ek/azarbayjangharbi/live/576p/index.m3u8": {
+  "url": "https://live-aburayhan1101.telewebion.net/ek/azarbayjangharbi/live/576p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1101.telewebion.net/ek/azarbayjangharbi/live/576p/51534170507a38317a64686f4e414b3b7ac953ecf7d7d59b0622d7c5991624d724b8-ekran_live20250701_20260930193849_1790796800629504_000203228_0000000760000.ts",
+  "checked": "2026-09-30T19:48:48Z",
+  "first_seen": "2026-09-30T19:48:48Z",
+  "last_ok": "2026-09-30T19:48:48Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1101.telewebion.net/ek/ilam/live/576p/index.m3u8": {
+  "url": "https://live-aburayhan1101.telewebion.net/ek/ilam/live/576p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1101.telewebion.net/ek/ilam/live/576p/51534170507a38317a64686f4e41dabad91a3b69ca937565026bf1d732ff3dcc123d-ekran_live20250701_20260930193820_1790796617474656_000262260_0000002000000.ts",
+  "checked": "2026-09-30T19:48:48Z",
+  "first_seen": "2026-09-30T19:48:48Z",
+  "last_ok": "2026-09-30T19:48:48Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1101.telewebion.net/ek/jahanbin/live/576p/index.m3u8": {
+  "url": "https://live-aburayhan1101.telewebion.net/ek/jahanbin/live/576p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1101.telewebion.net/ek/jahanbin/live/576p/51534170507a38317a64686f4e412956dac5c8391be5c300b037b67408d76e291f97-ekran_live20250701_20260930193846_1790796336291216_000457592_0000002000000.ts",
+  "checked": "2026-09-30T19:48:48Z",
+  "first_seen": "2026-09-30T19:48:48Z",
+  "last_ok": "2026-09-30T19:48:48Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1101.telewebion.net/ek/khavaran/live/1080p/index.m3u8": {
+  "url": "https://live-aburayhan1101.telewebion.net/ek/khavaran/live/1080p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1101.telewebion.net/ek/khavaran/live/1080p/51534170507a38317a64686f4e411e7f7e678203f276405a703f251d315d5c8c20db-ekran_live20250701_20260930193846_1790794743238027_000726620_0000002000000.ts",
+  "checked": "2026-09-30T19:48:48Z",
+  "first_seen": "2026-09-30T19:48:48Z",
+  "last_ok": "2026-09-30T19:48:48Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1101.telewebion.net/ek/salamat/live/576p/index.m3u8": {
+  "url": "https://live-aburayhan1101.telewebion.net/ek/salamat/live/576p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1101.telewebion.net/ek/salamat/live/576p/51534170507a38317a64686f4e413533509dae1e48663509c4fdf40ab031d3d97e1c-ekran_live20250701_20260930181830_1790791599123218_000271472_0000002000000.ts",
+  "checked": "2026-09-30T19:48:49Z",
+  "first_seen": "2026-09-30T19:48:49Z",
+  "last_ok": "2026-09-30T19:48:49Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1101.telewebion.net/ek/semnan/live/576p/index.m3u8": {
+  "url": "https://live-aburayhan1101.telewebion.net/ek/semnan/live/576p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1101.telewebion.net/ek/semnan/live/576p/51534170507a38317a64686f4e4108d1d258b7dd81832cc3d5ae03a068b14b9fb5bd-ekran_live20250701_20260930193847_1790796322603068_000429580_0000002000000.ts",
+  "checked": "2026-09-30T19:48:48Z",
+  "first_seen": "2026-09-30T19:48:48Z",
+  "last_ok": "2026-09-30T19:48:48Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1101.telewebion.net/na/labbayk/live/720p/index.m3u8": {
+  "url": "https://live-aburayhan1101.telewebion.net/na/labbayk/live/720p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1101.telewebion.net/na/labbayk/live/720p/51534170507a38317a64686f4e41a62725f4ecc1e0ee14706138ec1080fb429ca4f6-nama_live20250701_20260930194237_1790753958424100_000763280_0000002400000.ts",
+  "checked": "2026-09-30T19:48:48Z",
+  "first_seen": "2026-09-30T19:48:48Z",
+  "last_ok": "2026-09-30T19:48:48Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1102.telewebion.net/ek/dena/live/1080p/index.m3u8": {
+  "url": "https://live-aburayhan1102.telewebion.net/ek/dena/live/1080p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1102.telewebion.net/ek/dena/live/1080p/51534170507a38317a64686f4e410639d9fbbccd52e31ad7902798682cd9026068a8-ekran_live20250701_20260930193846_1790796238700347_000765348_0000002000000.ts",
+  "checked": "2026-09-30T19:48:48Z",
+  "first_seen": "2026-09-30T19:48:48Z",
+  "last_ok": "2026-09-30T19:48:48Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1102.telewebion.net/ek/hdtest/live/1080p/index.m3u8": {
+  "url": "https://live-aburayhan1102.telewebion.net/ek/hdtest/live/1080p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1102.telewebion.net/ek/hdtest/live/1080p/51534170507a38317a64686f4e41728d0f304ed539c88ea02dff59c2befaaa7ead8e-ekran_live20250701_20260930184846_1789562684651649_000600096_0000002000000.ts",
+  "checked": "2026-09-30T19:48:49Z",
+  "first_seen": "2026-09-30T19:48:49Z",
+  "last_ok": "2026-09-30T19:48:49Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1102.telewebion.net/ek/khorasanrazavi/live/1080p/index.m3u8": {
+  "url": "https://live-aburayhan1102.telewebion.net/ek/khorasanrazavi/live/1080p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1102.telewebion.net/ek/khorasanrazavi/live/1080p/51534170507a38317a64686f4e41ff9371bf1c9e158d06d9c69af1616c4efbb3d07f-ekran_live20250701_20260930193847_1790794737190613_000260944_0000002000000.ts",
+  "checked": "2026-09-30T19:48:49Z",
+  "first_seen": "2026-09-30T19:48:49Z",
+  "last_ok": "2026-09-30T19:48:49Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1102.telewebion.net/ek/sahand/live/576p/index.m3u8": {
+  "url": "https://live-aburayhan1102.telewebion.net/ek/sahand/live/576p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1102.telewebion.net/ek/sahand/live/576p/51534170507a38317a64686f4e4115070afc9589d7efa9d0b1bb6e8445beed00d44b-ekran_live20250701_20260930193837_1790796617216129_000262260_0000002000000.ts",
+  "checked": "2026-09-30T19:48:48Z",
+  "first_seen": "2026-09-30T19:48:48Z",
+  "last_ok": "2026-09-30T19:48:48Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1102.telewebion.net/ek/zagros/live/576p/index.m3u8": {
+  "url": "https://live-aburayhan1102.telewebion.net/ek/zagros/live/576p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1102.telewebion.net/ek/zagros/live/576p/51534170507a38317a64686f4e418887f9c76448068f35193a4cb8e1f680bf097f34-ekran_live20250701_20260930193846_1790796320041489_000532980_0000003040000.ts",
+  "checked": "2026-09-30T19:48:49Z",
+  "first_seen": "2026-09-30T19:48:49Z",
+  "last_ok": "2026-09-30T19:48:49Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1102.telewebion.net/na/iribu/live/720p/index.m3u8": {
+  "url": "https://live-aburayhan1102.telewebion.net/na/iribu/live/720p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1102.telewebion.net/na/iribu/live/720p/51534170507a38317a64686f4e411a1b362e3d35d5f29b1691d93536c415b1fa5e7a-nama_live20250701_20260930194247_1790753950078574_000598780_0000002400000.ts",
+  "checked": "2026-09-30T19:48:48Z",
+  "first_seen": "2026-09-30T19:48:48Z",
+  "last_ok": "2026-09-30T19:48:48Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1103.telewebion.net/ek/bushehr/live/576p/index.m3u8": {
+  "url": "https://live-aburayhan1103.telewebion.net/ek/bushehr/live/576p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1103.telewebion.net/ek/bushehr/live/576p/51534170507a38317a64686f4e41776ebf5c90b68aeb435b18e3423f9bb2ecf96060-ekran_live20250701_20260930193845_1790796800673437_000347424_0000002000000.ts",
+  "checked": "2026-09-30T19:48:49Z",
+  "first_seen": "2026-09-30T19:48:49Z",
+  "last_ok": "2026-09-30T19:48:49Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1103.telewebion.net/ek/eshragh/live/1080p/index.m3u8": {
+  "url": "https://live-aburayhan1103.telewebion.net/ek/eshragh/live/1080p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1103.telewebion.net/ek/eshragh/live/1080p/51534170507a38317a64686f4e41d7248e0db0b8ab209019e454a3d76d986c904c05-ekran_live20250701_20260930193848_1790796233877496_000418112_0000002000000.ts",
+  "checked": "2026-09-30T19:48:49Z",
+  "first_seen": "2026-09-30T19:48:49Z",
+  "last_ok": "2026-09-30T19:48:49Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1103.telewebion.net/ek/sina/live/576p/index.m3u8": {
+  "url": "https://live-aburayhan1103.telewebion.net/ek/sina/live/576p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1103.telewebion.net/ek/sina/live/576p/51534170507a38317a64686f4e4134b4bbbf350488434f2e9a453f7c235e5205f79c-ekran_live20250701_20260930193848_1790796310647978_000354944_0000002000000.ts",
+  "checked": "2026-09-30T19:48:49Z",
+  "first_seen": "2026-09-30T19:48:49Z",
+  "last_ok": "2026-09-30T19:48:49Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1103.telewebion.net/ek/tehran/live/1080p/index.m3u8": {
+  "url": "https://live-aburayhan1103.telewebion.net/ek/tehran/live/1080p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1103.telewebion.net/ek/tehran/live/1080p/51534170507a38317a64686f4e412e2594c8fc2c7a46d7d12ff8bc67078c23aa865c-ekran_live20250701_20260930184848_1788181579471142_000576032_0000002000000.ts",
+  "checked": "2026-09-30T19:48:49Z",
+  "first_seen": "2026-09-30T19:48:49Z",
+  "last_ok": "2026-09-30T19:48:49Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1103.telewebion.net/ek/tv3/live/108050p/index.m3u8": {
+  "url": "https://live-aburayhan1103.telewebion.net/ek/tv3/live/108050p/index.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:49Z",
+  "first_seen": "2026-09-30T19:48:49Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://live-aburayhan1104.telewebion.net/ek/aflak/live/576p/index.m3u8": {
+  "url": "https://live-aburayhan1104.telewebion.net/ek/aflak/live/576p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1104.telewebion.net/ek/aflak/live/576p/51534170507a38317a64686f4e41e37d78ce6f2a38a0a084af9dae321d52875f7490-ekran_live20250701_20260930193846_1790796616436940_000592200_0000003320000.ts",
+  "checked": "2026-09-30T19:48:49Z",
+  "first_seen": "2026-09-30T19:48:49Z",
+  "last_ok": "2026-09-30T19:48:49Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1104.telewebion.net/ek/alborz/live/1080p/index.m3u8": {
+  "url": "https://live-aburayhan1104.telewebion.net/ek/alborz/live/1080p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1104.telewebion.net/ek/alborz/live/1080p/51534170507a38317a64686f4e41990a5a7e21e8b7b12054aed3aea7d9cf7ede0ab8-ekran_live20250701_20260930193848_1790796235571459_000725680_0000002000000.ts",
+  "checked": "2026-09-30T19:48:49Z",
+  "first_seen": "2026-09-30T19:48:49Z",
+  "last_ok": "2026-09-30T19:48:49Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1104.telewebion.net/ek/kawthar/live/576p/index.m3u8": {
+  "url": "https://live-aburayhan1104.telewebion.net/ek/kawthar/live/576p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1104.telewebion.net/ek/kawthar/live/576p/51534170507a38317a64686f4e4160c8ae8f3512fd239a6f92f788ba9cef9673df5e-ekran_live20250701_20260930194346_1790768705618064_000208680_0000001640000.ts",
+  "checked": "2026-09-30T19:48:49Z",
+  "first_seen": "2026-09-30T19:48:49Z",
+  "last_ok": "2026-09-30T19:48:49Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1104.telewebion.net/ek/nasim/live/1080p/index.m3u8": {
+  "url": "https://live-aburayhan1104.telewebion.net/ek/nasim/live/1080p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1104.telewebion.net/ek/nasim/live/1080p/51534170507a38317a64686f4e410aa6fa9dd6bc5588f150a386e27739ce9c134030-ekran_live20250701_20260930184846_1789388674835456_000651608_0000002000000.ts",
+  "checked": "2026-09-30T19:48:49Z",
+  "first_seen": "2026-09-30T19:48:49Z",
+  "last_ok": "2026-09-30T19:48:49Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1104.telewebion.net/ek/qazvin/live/576p/index.m3u8": {
+  "url": "https://live-aburayhan1104.telewebion.net/ek/qazvin/live/576p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1104.telewebion.net/ek/qazvin/live/576p/51534170507a38317a64686f4e41702a926be5e328f4a1e03cf7d49a1c659dca88fc-ekran_live20250701_20260930193848_1790796325450079_000383144_0000002000000.ts",
+  "checked": "2026-09-30T19:48:49Z",
+  "first_seen": "2026-09-30T19:48:49Z",
+  "last_ok": "2026-09-30T19:48:49Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1104.telewebion.net/ek/taban/live/576p/index.m3u8": {
+  "url": "https://live-aburayhan1104.telewebion.net/ek/taban/live/576p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1104.telewebion.net/ek/taban/live/576p/51534170507a38317a64686f4e41948c7e241953da46dab4759ef2834628047db738-ekran_live20250701_20260930193846_1790796335479835_000241580_0000002000000.ts",
+  "checked": "2026-09-30T19:48:49Z",
+  "first_seen": "2026-09-30T19:48:49Z",
+  "last_ok": "2026-09-30T19:48:49Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1104.telewebion.net/ek/tv2/live/1080p/index.m3u8": {
+  "url": "https://live-aburayhan1104.telewebion.net/ek/tv2/live/1080p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1104.telewebion.net/ek/tv2/live/1080p/51534170507a38317a64686f4e4178be32bf4332f0f49dc02ebed06f251b7181bf3a-ekran_live20250701_20260930184848_1790578439584847_000732072_0000002000000.ts",
+  "checked": "2026-09-30T19:48:50Z",
+  "first_seen": "2026-09-30T19:48:50Z",
+  "last_ok": "2026-09-30T19:48:50Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1105.telewebion.net/ek/aftab/live/1080p/index.m3u8": {
+  "url": "https://live-aburayhan1105.telewebion.net/ek/aftab/live/1080p/index.m3u8",
+  "status": "http-404",
+  "segment": "",
+  "checked": "2026-09-30T19:48:49Z",
+  "first_seen": "2026-09-30T19:48:49Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://live-aburayhan1105.telewebion.net/ek/atrak/live/576p/index.m3u8": {
+  "url": "https://live-aburayhan1105.telewebion.net/ek/atrak/live/576p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1105.telewebion.net/ek/atrak/live/576p/51534170507a38317a64686f4e41a4eea25f91a408597c83a2ef7817c92b956d462a-ekran_live20250701_20260930193837_1790796303990227_000368856_0000002000000.ts",
+  "checked": "2026-09-30T19:48:49Z",
+  "first_seen": "2026-09-30T19:48:49Z",
+  "last_ok": "2026-09-30T19:48:49Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1105.telewebion.net/ek/faratar/live/2160p/index.m3u8": {
+  "url": "https://live-aburayhan1105.telewebion.net/ek/faratar/live/2160p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1105.telewebion.net/ek/faratar/live/2160p/51534170507a38317a64686f4e419a3caddce20888d32d31c496cbfd349d34a1caf4-ekran_live20250701_20260930174847_1790485274477581_004598480_0000002000000.ts",
+  "checked": "2026-09-30T19:48:50Z",
+  "first_seen": "2026-09-30T19:48:50Z",
+  "last_ok": "2026-09-30T19:48:50Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1105.telewebion.net/ek/irinn2/live/1080p/index.m3u8": {
+  "url": "https://live-aburayhan1105.telewebion.net/ek/irinn2/live/1080p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1105.telewebion.net/ek/irinn2/live/1080p/51534170507a38317a64686f4e41703c3b57d281e74abf10a5b5ff58a0f3fe71c19d-ekran_live20250701_20260930181818_1790791601426627_000689772_0000002000000.ts",
+  "checked": "2026-09-30T19:48:50Z",
+  "first_seen": "2026-09-30T19:48:50Z",
+  "last_ok": "2026-09-30T19:48:50Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1105.telewebion.net/ek/sport1/live/108050p/index.m3u8": {
+  "url": "https://live-aburayhan1105.telewebion.net/ek/sport1/live/108050p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1105.telewebion.net/ek/sport1/live/108050p/51534170507a38317a64686f4e41d5d806dc9d66fcc5a4e17a2219c698eaf8188a77-ekran_live20250701_20260930174848_1790751406738227_001287236_0000002000000.ts",
+  "checked": "2026-09-30T19:48:50Z",
+  "first_seen": "2026-09-30T19:48:50Z",
+  "last_ok": "2026-09-30T19:48:50Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1106.telewebion.net/ek/esfahan/live/1080p/index.m3u8": {
+  "url": "https://live-aburayhan1106.telewebion.net/ek/esfahan/live/1080p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1106.telewebion.net/ek/esfahan/live/1080p/51534170507a38317a64686f4e41514f1ccabefef90a02b61ea869f930ca0a9ab321-ekran_live20250701_20260930193839_1790796936193295_000718536_0000002000000.ts",
+  "checked": "2026-09-30T19:48:49Z",
+  "first_seen": "2026-09-30T19:48:49Z",
+  "last_ok": "2026-09-30T19:48:49Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1106.telewebion.net/ek/irinn/live/1080p/index.m3u8": {
+  "url": "https://live-aburayhan1106.telewebion.net/ek/irinn/live/1080p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1106.telewebion.net/ek/irinn/live/1080p/51534170507a38317a64686f4e419d5feaadc5db5f0b0cbd5b5a076ba9102ac1367b-ekran_live20250701_20260930184847_1789476208967220_000752564_0000002000000.ts",
+  "checked": "2026-09-30T19:48:50Z",
+  "first_seen": "2026-09-30T19:48:50Z",
+  "last_ok": "2026-09-30T19:48:50Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1106.telewebion.net/ek/tabarestan/live/576p/index.m3u8": {
+  "url": "https://live-aburayhan1106.telewebion.net/ek/tabarestan/live/576p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1106.telewebion.net/ek/tabarestan/live/576p/51534170507a38317a64686f4e41fb556658b5dff786b24dd21e9c5808c237f7a073-ekran_live20250701_20260930193848_1790796614391199_000371112_0000002000000.ts",
+  "checked": "2026-09-30T19:48:50Z",
+  "first_seen": "2026-09-30T19:48:50Z",
+  "last_ok": "2026-09-30T19:48:50Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1106.telewebion.net/na/palestine/live/720p/index.m3u8": {
+  "url": "https://live-aburayhan1106.telewebion.net/na/palestine/live/720p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1106.telewebion.net/na/palestine/live/720p/51534170507a38317a64686f4e410586b06ff529d8565e340a240d04735dff1a94c6-nama_live20250701_20260930193950_1790796782021696_000579792_0000002400000.ts",
+  "checked": "2026-09-30T19:48:50Z",
+  "first_seen": "2026-09-30T19:48:50Z",
+  "last_ok": "2026-09-30T19:48:50Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1107.telewebion.net/ek/fars/live/1080p/index.m3u8": {
+  "url": "https://live-aburayhan1107.telewebion.net/ek/fars/live/1080p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1107.telewebion.net/ek/fars/live/1080p/51534170507a38317a64686f4e41427301e1b03a0f7da8fe1fbadc254a5550df9483-ekran_live20250701_20260930193848_1790796300915672_000980232_0000002000000.ts",
+  "checked": "2026-09-30T19:48:50Z",
+  "first_seen": "2026-09-30T19:48:50Z",
+  "last_ok": "2026-09-30T19:48:50Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1107.telewebion.net/ek/omid/live/1080p/index.m3u8": {
+  "url": "https://live-aburayhan1107.telewebion.net/ek/omid/live/1080p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1107.telewebion.net/ek/omid/live/1080p/51534170507a38317a64686f4e415b541ee1b53c3992d2c2439d8fdadeb73c1ed2e2-ekran_live20250701_20260930184848_1790768679864399_000592012_0000002000000.ts",
+  "checked": "2026-09-30T19:48:50Z",
+  "first_seen": "2026-09-30T19:48:50Z",
+  "last_ok": "2026-09-30T19:48:50Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1107.telewebion.net/ek/pooya/live/1080p/index.m3u8": {
+  "url": "https://live-aburayhan1107.telewebion.net/ek/pooya/live/1080p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1107.telewebion.net/ek/pooya/live/1080p/51534170507a38317a64686f4e4105e84462ccb366235802d7fd8a441ecb598636b4-ekran_live20250701_20260930184848_1789562687537958_000780576_0000002000000.ts",
+  "checked": "2026-09-30T19:48:50Z",
+  "first_seen": "2026-09-30T19:48:50Z",
+  "last_ok": "2026-09-30T19:48:50Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1107.telewebion.net/ek/tv4/live/576p/index.m3u8": {
+  "url": "https://live-aburayhan1107.telewebion.net/ek/tv4/live/576p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1107.telewebion.net/ek/tv4/live/576p/51534170507a38317a64686f4e410984c55ede71c8fe29d64fbffc282f82e38c69e4-ekran_live20250701_20260930181819_1790789675533124_000396492_0000002000000.ts",
+  "checked": "2026-09-30T19:48:50Z",
+  "first_seen": "2026-09-30T19:48:50Z",
+  "last_ok": "2026-09-30T19:48:50Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1107.telewebion.net/na/tv1plus/live/1080p/index.m3u8": {
+  "url": "https://live-aburayhan1107.telewebion.net/na/tv1plus/live/1080p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1107.telewebion.net/na/tv1plus/live/1080p/51534170507a38317a64686f4e4163fd772c8fb84ef621ae91ef6ad8cc130fffd3df-nama_live20250701_20260930194340_1790753956659851_000752000_0000002000000.ts",
+  "checked": "2026-09-30T19:48:50Z",
+  "first_seen": "2026-09-30T19:48:50Z",
+  "last_ok": "2026-09-30T19:48:50Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1108.telewebion.net/ek/baran/live/1080p/index.m3u8": {
+  "url": "https://live-aburayhan1108.telewebion.net/ek/baran/live/1080p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1108.telewebion.net/ek/baran/live/1080p/51534170507a38317a64686f4e41cecf77afc1ab115b9ef38eaf9d629244e0a343a1-ekran_live20250701_20260930193849_1790794745950732_000696540_0000002000000.ts",
+  "checked": "2026-09-30T19:48:50Z",
+  "first_seen": "2026-09-30T19:48:50Z",
+  "last_ok": "2026-09-30T19:48:50Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1108.telewebion.net/ek/mahabad/live/1080p/index.m3u8": {
+  "url": "https://live-aburayhan1108.telewebion.net/ek/mahabad/live/1080p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1108.telewebion.net/ek/mahabad/live/1080p/51534170507a38317a64686f4e4126c0d94aa46f39d63aa2071d0c89bc7ba216d23d-ekran_live20250701_20260930193848_1790796363358602_000684132_0000002000000.ts",
+  "checked": "2026-09-30T19:48:50Z",
+  "first_seen": "2026-09-30T19:48:50Z",
+  "last_ok": "2026-09-30T19:48:50Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1108.telewebion.net/ek/quran/live/1080p/index.m3u8": {
+  "url": "https://live-aburayhan1108.telewebion.net/ek/quran/live/1080p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1108.telewebion.net/ek/quran/live/1080p/51534170507a38317a64686f4e41d6f14a483328f9b41a86382387fb0733ba544d83-ekran_live20250701_20260930184847_1789562689665561_000670596_0000002000000.ts",
+  "checked": "2026-09-30T19:48:50Z",
+  "first_seen": "2026-09-30T19:48:50Z",
+  "last_ok": "2026-09-30T19:48:50Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1109.telewebion.net/ek/abadan/live/576p/index.m3u8": {
+  "url": "https://live-aburayhan1109.telewebion.net/ek/abadan/live/576p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1109.telewebion.net/ek/abadan/live/576p/51534170507a38317a64686f4e410c0929840b58ad94a1778f35cccda91af4d6675e-ekran_live20250701_20260930193849_1790796800626732_000330504_0000002000000.ts",
+  "checked": "2026-09-30T19:48:50Z",
+  "first_seen": "2026-09-30T19:48:50Z",
+  "last_ok": "2026-09-30T19:48:50Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1109.telewebion.net/ek/hamoon/live/1080p/index.m3u8": {
+  "url": "https://live-aburayhan1109.telewebion.net/ek/hamoon/live/1080p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1109.telewebion.net/ek/hamoon/live/1080p/51534170507a38317a64686f4e41eb6047011fae9b36f2a9790bb30d10fa15a023a9-ekran_live20250701_20260930193848_1790794745072767_000367164_0000002000000.ts",
+  "checked": "2026-09-30T19:48:50Z",
+  "first_seen": "2026-09-30T19:48:50Z",
+  "last_ok": "2026-09-30T19:48:50Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1109.telewebion.net/ek/kish/live/576p/index.m3u8": {
+  "url": "https://live-aburayhan1109.telewebion.net/ek/kish/live/576p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1109.telewebion.net/ek/kish/live/576p/51534170507a38317a64686f4e41ba70d27d47dd5c715807564da7bc427a750d90e8-ekran_live20250701_20260930193850_1790796355385978_000285572_0000002000000.ts",
+  "checked": "2026-09-30T19:48:50Z",
+  "first_seen": "2026-09-30T19:48:50Z",
+  "last_ok": "2026-09-30T19:48:50Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1109.telewebion.net/ek/varzesh/live/108050p/index.m3u8": {
+  "url": "https://live-aburayhan1109.telewebion.net/ek/varzesh/live/108050p/index.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:50Z",
+  "first_seen": "2026-09-30T19:48:50Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://live-aburayhan1109.telewebion.net/ek/velayat/live/720p/index.m3u8": {
+  "url": "https://live-aburayhan1109.telewebion.net/ek/velayat/live/720p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1109.telewebion.net/ek/velayat/live/720p/51534170507a38317a64686f4e413efd782a82be19a72dcebb32a20bfc5f1755b95a-ekran_live20250701_20260930180724_1790753959979611_000544260_0000002400000.ts",
+  "checked": "2026-09-30T19:48:50Z",
+  "first_seen": "2026-09-30T19:48:50Z",
+  "last_ok": "2026-09-30T19:48:50Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1110.telewebion.net/ek/amouzesh/live/576p/index.m3u8": {
+  "url": "https://live-aburayhan1110.telewebion.net/ek/amouzesh/live/576p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1110.telewebion.net/ek/amouzesh/live/576p/51534170507a38317a64686f4e41817bc038bfbeececcb1eb4c04a03281250b86e7d-ekran_live20250701_20260930184850_1790751461808218_000331820_0000002000000.ts",
+  "checked": "2026-09-30T19:48:50Z",
+  "first_seen": "2026-09-30T19:48:50Z",
+  "last_ok": "2026-09-30T19:48:50Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1110.telewebion.net/ek/kerman/live/1080p/index.m3u8": {
+  "url": "https://live-aburayhan1110.telewebion.net/ek/kerman/live/1080p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1110.telewebion.net/ek/kerman/live/1080p/51534170507a38317a64686f4e413d3701d5698039c6b62c3ef58167ec52d429104f-ekran_live20250701_20260930193849_1790796233152899_001049980_0000002000000.ts",
+  "checked": "2026-09-30T19:48:50Z",
+  "first_seen": "2026-09-30T19:48:50Z",
+  "last_ok": "2026-09-30T19:48:50Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1110.telewebion.net/ek/mostanad/live/1080p/index.m3u8": {
+  "url": "https://live-aburayhan1110.telewebion.net/ek/mostanad/live/1080p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1110.telewebion.net/ek/mostanad/live/1080p/51534170507a38317a64686f4e413b1bb067edd917b28951884416ad339ce5218b33-ekran_live20250701_20260930184848_1789566571126824_000548020_0000002000000.ts",
+  "checked": "2026-09-30T19:48:50Z",
+  "first_seen": "2026-09-30T19:48:50Z",
+  "last_ok": "2026-09-30T19:48:50Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1111.telewebion.net/ek/kordestan/live/1080p/index.m3u8": {
+  "url": "https://live-aburayhan1111.telewebion.net/ek/kordestan/live/1080p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1111.telewebion.net/ek/kordestan/live/1080p/51534170507a38317a64686f4e41738322c547e0886f0067bccdeef4b8c65789c6cc-ekran_live20250701_20260930193848_1790794742831041_000694660_0000002000000.ts",
+  "checked": "2026-09-30T19:48:50Z",
+  "first_seen": "2026-09-30T19:48:50Z",
+  "last_ok": "2026-09-30T19:48:50Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1111.telewebion.net/ek/namayesh/live/1080p/index.m3u8": {
+  "url": "https://live-aburayhan1111.telewebion.net/ek/namayesh/live/1080p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1111.telewebion.net/ek/namayesh/live/1080p/51534170507a38317a64686f4e4124d1069d496f24091de1c9cb1f7f214b3738a39e-ekran_live20250701_20260930184849_1789577760381794_000805580_0000002000000.ts",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "2026-09-30T19:48:51Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1111.telewebion.net/ek/razavi/live/720p/index.m3u8": {
+  "url": "https://live-aburayhan1111.telewebion.net/ek/razavi/live/720p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1111.telewebion.net/ek/razavi/live/720p/51534170507a38317a64686f4e4125b2939aa24ef788981a29cd2db18a0790f208cd-ekran_live20250701_20260930193537_1790796870317516_000751060_0000002400000.ts",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "2026-09-30T19:48:51Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1111.telewebion.net/ek/sabz/live/576p/index.m3u8": {
+  "url": "https://live-aburayhan1111.telewebion.net/ek/sabz/live/576p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1111.telewebion.net/ek/sabz/live/576p/51534170507a38317a64686f4e41f70821d469d896aeabf8d7878dbd0f9172782431-ekran_live20250701_20260930193847_1790796299895031_000261884_0000002000000.ts",
+  "checked": "2026-09-30T19:48:50Z",
+  "first_seen": "2026-09-30T19:48:50Z",
+  "last_ok": "2026-09-30T19:48:50Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1111.telewebion.net/ek/tv1/live/1080p/index.m3u8": {
+  "url": "https://live-aburayhan1111.telewebion.net/ek/tv1/live/1080p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1111.telewebion.net/ek/tv1/live/1080p/51534170507a38317a64686f4e41d60a0a3934799f094ce06255ec781ab80cf6edab-ekran_live20250701_20260930184850_1789562688298868_000531852_0000002000000.ts",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "2026-09-30T19:48:51Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1111.telewebion.net/na/habib/live/720p/index.m3u8": {
+  "url": "https://live-aburayhan1111.telewebion.net/na/habib/live/720p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1111.telewebion.net/na/habib/live/720p/51534170507a38317a64686f4e4174c28cd2e62e4821bfb6efe2963f57273ca7405f-nama_live20250701_20260930183647_1790753959025697_000803700_0000002400000.ts",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "2026-09-30T19:48:51Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1111.telewebion.net/na/makran/live/1080p/index.m3u8": {
+  "url": "https://live-aburayhan1111.telewebion.net/na/makran/live/1080p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1111.telewebion.net/na/makran/live/1080p/51534170507a38317a64686f4e411334d69e5c6cf465cc312c43f93fcbab16b3027b-nama_live20250701_20260930194755_1790797055458060_000492372_0000002000000.ts",
+  "checked": "2026-09-30T19:48:50Z",
+  "first_seen": "2026-09-30T19:48:50Z",
+  "last_ok": "2026-09-30T19:48:50Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1112.telewebion.net/ek/khalijefars/live/576p/index.m3u8": {
+  "url": "https://live-aburayhan1112.telewebion.net/ek/khalijefars/live/576p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1112.telewebion.net/ek/khalijefars/live/576p/51534170507a38317a64686f4e4134b07d130caa757384634170d58f011356445c12-ekran_live20250701_20260930193843_1790796801497095_000362276_0000002000000.ts",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "2026-09-30T19:48:51Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1112.telewebion.net/ek/ofogh/live/1080p/index.m3u8": {
+  "url": "https://live-aburayhan1112.telewebion.net/ek/ofogh/live/1080p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1112.telewebion.net/ek/ofogh/live/1080p/51534170507a38317a64686f4e418d8cd3c9109c6c352ccef842ebba66f7f8810a82-ekran_live20250701_20260930184848_1790768678364707_000737148_0000002000000.ts",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "2026-09-30T19:48:51Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1112.telewebion.net/ek/sport2/live/108050p/index.m3u8": {
+  "url": "https://live-aburayhan1112.telewebion.net/ek/sport2/live/108050p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1112.telewebion.net/ek/sport2/live/108050p/51534170507a38317a64686f4e412e0eac7b9d2e4d368bc349ff596afa94b34653d4-ekran_live20250701_20260930174849_1790774700398281_001376160_0000002000000.ts",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "2026-09-30T19:48:51Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1113.telewebion.net/ek/khoozestan/live/576p/index.m3u8": {
+  "url": "https://live-aburayhan1113.telewebion.net/ek/khoozestan/live/576p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1113.telewebion.net/ek/khoozestan/live/576p/51534170507a38317a64686f4e41a6f6bdeaceb73035e8719f7152df77ece9bc001e-ekran_live20250701_20260930193849_1790796616327087_000435972_0000002000000.ts",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "2026-09-30T19:48:51Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1113.telewebion.net/ek/noor/live/576p/index.m3u8": {
+  "url": "https://live-aburayhan1113.telewebion.net/ek/noor/live/576p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1113.telewebion.net/ek/noor/live/576p/51534170507a38317a64686f4e41afb0e96d0512b6cbb768f3e1379979e03594ac01-ekran_live20250701_20260930193848_1790796801104477_000275608_0000002000000.ts",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "2026-09-30T19:48:51Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1113.telewebion.net/ek/sabalan/live/576p/index.m3u8": {
+  "url": "https://live-aburayhan1113.telewebion.net/ek/sabalan/live/576p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1113.telewebion.net/ek/sabalan/live/576p/51534170507a38317a64686f4e4150b8edc54006ad4888d743667ee533683240f7af-ekran_live20250701_20260930193827_1790796650595474_000256620_0000002000000.ts",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "2026-09-30T19:48:51Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1113.telewebion.net/ek/sport3/live/108050p/index.m3u8": {
+  "url": "https://live-aburayhan1113.telewebion.net/ek/sport3/live/108050p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1113.telewebion.net/ek/sport3/live/108050p/51534170507a38317a64686f4e413b68c06e970bbe8b73828ad10dd62b98e0d97c58-ekran_live20250701_20260930174849_1790751404655994_001278964_0000002000000.ts",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "2026-09-30T19:48:51Z",
+  "fails": 0
+ },
+ "https://live-aburayhan1113.telewebion.net/na/golkhane/live/720p/index.m3u8": {
+  "url": "https://live-aburayhan1113.telewebion.net/na/golkhane/live/720p/index.m3u8",
+  "status": "ok",
+  "segment": "https://live-aburayhan1113.telewebion.net/na/golkhane/live/720p/51534170507a38317a64686f4e41f6198797197eeb16765e764244d4fa8ab2079800-nama_live20250701_20260930194239_1790753956765032_000472632_0000002400000.ts",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "2026-09-30T19:48:51Z",
+  "fails": 0
+ },
+ "https://live.asil.tv/asiltv/index.m3u8": {
+  "url": "https://live.asil.tv/asiltv/index.m3u8",
+  "status": "ok",
+  "segment": "https://live.asil.tv/asiltv/tracks-v1a1/2026/09/30/19/48/26-06000.ts",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "2026-09-30T19:48:51Z",
+  "fails": 0
+ },
+ "https://live.imamhossaintv.com/live/ih1.m3u8": {
+  "url": "https://live.imamhossaintv.com/live/ih1.m3u8",
+  "status": "ok",
+  "segment": "https://ak.imamhussein.live/imhtv1live/imhtv1.smil/imhtv1publish/imhtv1_source/l_242_62106867_42163.ts",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "2026-09-30T19:48:51Z",
+  "fails": 0
+ },
+ "https://live.imamhossaintv.com/live/ih6.m3u8": {
+  "url": "https://live.imamhossaintv.com/live/ih6.m3u8",
+  "status": "ok",
+  "segment": "https://ak.imamhussein.live/imhtv6live/imhtv6.smil/imhtv6publish/imhtv6_source/l_443_63523792_10587.ts",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "2026-09-30T19:48:51Z",
+  "fails": 0
+ },
+ "https://live.pars-israel.com/tmp_hls/iptv/index.m3u8": {
+  "url": "https://live.pars-israel.com/tmp_hls/iptv/index.m3u8",
+  "status": "ok",
+  "segment": "https://live.pars-israel.com/tmp_hls/iptv/c2ae27ca48b2_video1_seg434504.mp4",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "2026-09-30T19:48:51Z",
+  "fails": 0
+ },
+ "https://live.presstv.co.uk/hls/hispantv.m3u8": {
+  "url": "https://live.presstv.co.uk/hls/hispantv.m3u8",
+  "status": "ok",
+  "segment": "https://live.presstv.co.uk/hls/hispantv_5_482/270619.ts",
+  "checked": "2026-09-30T19:48:52Z",
+  "first_seen": "2026-09-30T19:48:52Z",
+  "last_ok": "2026-09-30T19:48:52Z",
+  "fails": 0
+ },
+ "https://live.presstv.co.uk/hls/ifilm2_4_482/index.m3u8": {
+  "url": "https://live.presstv.co.uk/hls/ifilm2_4_482/index.m3u8",
+  "status": "ok",
+  "segment": "https://live.presstv.co.uk/hls/ifilm2_4_482/34343.ts",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "2026-09-30T19:48:51Z",
+  "fails": 0
+ },
+ "https://live.presstv.co.uk/hls/ifilmar_4_482/index.m3u8": {
+  "url": "https://live.presstv.co.uk/hls/ifilmar_4_482/index.m3u8",
+  "status": "ok",
+  "segment": "https://live.presstv.co.uk/hls/ifilmar_4_482/271008.ts",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "2026-09-30T19:48:51Z",
+  "fails": 0
+ },
+ "https://live.presstv.co.uk/hls/ifilmen_4_482/index.m3u8": {
+  "url": "https://live.presstv.co.uk/hls/ifilmen_4_482/index.m3u8",
+  "status": "ok",
+  "segment": "https://live.presstv.co.uk/hls/ifilmen_4_482/270877.ts",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "2026-09-30T19:48:51Z",
+  "fails": 0
+ },
+ "https://live.presstv.co.uk/hls/ifilmfa_4_482/index.m3u8": {
+  "url": "https://live.presstv.co.uk/hls/ifilmfa_4_482/index.m3u8",
+  "status": "ok",
+  "segment": "https://live.presstv.co.uk/hls/ifilmfa_4_482/34166.ts",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "2026-09-30T19:48:51Z",
+  "fails": 0
+ },
+ "https://live.presstv.co.uk/hls/presstv.m3u8": {
+  "url": "https://live.presstv.co.uk/hls/presstv.m3u8",
+  "status": "ok",
+  "segment": "https://live.presstv.co.uk/hls/presstv_5_482/270576.ts",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "2026-09-30T19:48:51Z",
+  "fails": 0
+ },
+ "https://live.presstv.ir/hls/ifilm2.m3u8": {
+  "url": "https://live.presstv.ir/hls/ifilm2.m3u8",
+  "status": "http-404",
+  "segment": "",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://live.presstv.ir/hls/ifilmar.m3u8": {
+  "url": "https://live.presstv.ir/hls/ifilmar.m3u8",
+  "status": "http-404",
+  "segment": "",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://live.presstv.ir/hls/ifilmen.m3u8": {
+  "url": "https://live.presstv.ir/hls/ifilmen.m3u8",
+  "status": "http-404",
+  "segment": "",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://live.presstv.ir/hls/ifilmfa.m3u8": {
+  "url": "https://live.presstv.ir/hls/ifilmfa.m3u8",
+  "status": "http-404",
+  "segment": "",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://live.presstv.ir/hls/presstv.m3u8": {
+  "url": "https://live.presstv.ir/hls/presstv.m3u8",
+  "status": "ok",
+  "segment": "https://live.presstv.ir/hls/presstv_5_482/270576.ts",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "2026-09-30T19:48:51Z",
+  "fails": 0
+ },
+ "https://live.presstv.ir/hls/presstv_5_482/index.m3u8": {
+  "url": "https://live.presstv.ir/hls/presstv_5_482/index.m3u8",
+  "status": "ok",
+  "segment": "https://live.presstv.ir/hls/presstv_5_482/270576.ts",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "2026-09-30T19:48:51Z",
+  "fails": 0
+ },
+ "https://live.yourtime.tv/hls/stream.m3u8": {
+  "url": "https://live.yourtime.tv/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://live.yourtime.tv/hls/stream-2644493.ts",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "2026-09-30T19:48:51Z",
+  "fails": 0
+ },
+ "https://live2.alalam.ir/alalam.m3u8": {
+  "url": "https://live2.alalam.ir/alalam.m3u8",
+  "status": "ok",
+  "segment": "https://live2.alalam.ir/live/Alalam/58718.ts",
+  "checked": "2026-09-30T19:48:56Z",
+  "first_seen": "2026-09-30T19:48:56Z",
+  "last_ok": "2026-09-30T19:48:56Z",
+  "fails": 0
+ },
+ "https://live2.alalam.ir/live/Alalam/index.m3u8": {
+  "url": "https://live2.alalam.ir/live/Alalam/index.m3u8",
+  "status": "ok",
+  "segment": "https://live2.alalam.ir/live/Alalam/58718.ts",
+  "checked": "2026-09-30T19:48:55Z",
+  "first_seen": "2026-09-30T19:48:55Z",
+  "last_ok": "2026-09-30T19:48:55Z",
+  "fails": 0
+ },
+ "https://live2.snn.ir/hls/snn2_hd720/index.m3u8": {
+  "url": "https://live2.snn.ir/hls/snn2_hd720/index.m3u8",
+  "status": "http-404",
+  "segment": "",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://live4.presstv.ir/live/mp4:presstvfr/playlist.m3u8": {
+  "url": "https://live4.presstv.ir/live/mp4:presstvfr/playlist.m3u8",
+  "status": "ok",
+  "segment": "https://live4.presstv.ir/live/mp4:presstvfr/media_w828132507_195083.ts",
+  "checked": "2026-09-30T19:48:53Z",
+  "first_seen": "2026-09-30T19:48:53Z",
+  "last_ok": "2026-09-30T19:48:53Z",
+  "fails": 0
+ },
+ "https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8": {
+  "url": "https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8",
+  "status": "ok",
+  "segment": "https://live4.presstv.ir/live/smil:presstvfr.smil/media_w2033169707_b360000_200714.ts",
+  "checked": "2026-09-30T19:48:53Z",
+  "first_seen": "2026-09-30T19:48:53Z",
+  "last_ok": "2026-09-30T19:48:53Z",
+  "fails": 0
+ },
+ "https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8": {
+  "url": "https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8",
+  "status": "ok",
+  "segment": "https://livefa.marjaeyattv.com/mtv_fa/playlist05/689927.ts",
+  "checked": "2026-09-30T19:48:52Z",
+  "first_seen": "2026-09-30T19:48:52Z",
+  "last_ok": "2026-09-30T19:48:52Z",
+  "fails": 0
+ },
+ "https://livestream.5centscdn.com/channelonehd/0d0dd9d8b4933ea5f0a3a9495707c004.sdp/playlist.m3u8": {
+  "url": "https://livestream.5centscdn.com/channelonehd/0d0dd9d8b4933ea5f0a3a9495707c004.sdp/playlist.m3u8",
+  "status": "ok",
+  "segment": "https://livestream.5centscdn.com/channelonehd/0d0dd9d8b4933ea5f0a3a9495707c004.sdp/l_2821411_882631764_147105.ts",
+  "checked": "2026-09-30T19:48:52Z",
+  "first_seen": "2026-09-30T19:48:52Z",
+  "last_ok": "2026-09-30T19:48:52Z",
+  "fails": 0
+ },
+ "https://livestream.5centscdn.com/nahadeazadi/14a66ff6dca989d3a2eb0dc8cdb50892.sdp/chunks.m3u8": {
+  "url": "https://livestream.5centscdn.com/nahadeazadi/14a66ff6dca989d3a2eb0dc8cdb50892.sdp/chunks.m3u8",
+  "status": "ok",
+  "segment": "https://livestream.5centscdn.com/nahadeazadi/14a66ff6dca989d3a2eb0dc8cdb50892.sdp/l_2821399_882637870_147106.ts",
+  "checked": "2026-09-30T19:48:52Z",
+  "first_seen": "2026-09-30T19:48:52Z",
+  "last_ok": "2026-09-30T19:48:52Z",
+  "fails": 0
+ },
+ "https://livestream.5centscdn.com/parstvtvweb1/e8ac8f595b3003ea3d22178c05c67593.sdp/playlist.m3u8": {
+  "url": "https://livestream.5centscdn.com/parstvtvweb1/e8ac8f595b3003ea3d22178c05c67593.sdp/playlist.m3u8",
+  "status": "ok",
+  "segment": "https://livestream.5centscdn.com/parstvtvweb1/e8ac8f595b3003ea3d22178c05c67593.sdp/l_67578_78043944_13007.ts",
+  "checked": "2026-09-30T19:48:52Z",
+  "first_seen": "2026-09-30T19:48:52Z",
+  "last_ok": "2026-09-30T19:48:52Z",
+  "fails": 0
+ },
+ "https://livestream.5centscdn.com/pwocchurchweb1/cebac1e921182acff008ab1222f0c916.sdp/playlist.m3u8": {
+  "url": "https://livestream.5centscdn.com/pwocchurchweb1/cebac1e921182acff008ab1222f0c916.sdp/playlist.m3u8",
+  "status": "ok",
+  "segment": "https://livestream.5centscdn.com/pwocchurchweb1/cebac1e921182acff008ab1222f0c916.sdp/l_5968_157669636_26278.ts",
+  "checked": "2026-09-30T19:48:52Z",
+  "first_seen": "2026-09-30T19:48:52Z",
+  "last_ok": "2026-09-30T19:48:52Z",
+  "fails": 0
+ },
+ "https://media.parvizshahbazi.com/ganjehozour/Main_tv/playlist.m3u8": {
+  "url": "https://media.parvizshahbazi.com/ganjehozour/Main_tv/playlist.m3u8",
+  "status": "ok",
+  "segment": "https://media.parvizshahbazi.com/ganjehozour/Main_tv/l_2357_79759026_13293.ts",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "2026-09-30T19:48:51Z",
+  "fails": 0
+ },
+ "https://media.streambrothers.com:1936/8276/8276/playlist.m3u8": {
+  "url": "https://media.streambrothers.com:1936/8276/8276/playlist.m3u8",
+  "status": "ok",
+  "segment": "https://media.streambrothers.com:1936/8276/8276/media_w430590395_5761.ts",
+  "checked": "2026-09-30T19:48:53Z",
+  "first_seen": "2026-09-30T19:48:53Z",
+  "last_ok": "2026-09-30T19:48:53Z",
+  "fails": 0
+ },
+ "https://mediamtx.elitelatrade.com/live/stream/main_stream.m3u8": {
+  "url": "https://mediamtx.elitelatrade.com/live/stream/main_stream.m3u8",
+  "status": "ok",
+  "segment": "https://mediamtx.elitelatrade.com/live/stream/f1b5bbb26843_main_seg11400.ts",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "2026-09-30T19:48:51Z",
+  "fails": 0
+ },
+ "https://mellihls.wns.live/hls/stream.m3u8": {
+  "url": "https://mellihls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://mellihls.wns.live/hls/stream-49667.ts",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "2026-09-30T19:48:51Z",
+  "fails": 0
+ },
+ "https://metafilmhls.wns.live/hls/stream.m3u8": {
+  "url": "https://metafilmhls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://metafilmhls.wns.live/hls/stream-91275.ts",
+  "checked": "2026-09-30T19:48:51Z",
+  "first_seen": "2026-09-30T19:48:51Z",
+  "last_ok": "2026-09-30T19:48:51Z",
+  "fails": 0
+ },
+ "https://moviethls.wns.live/hls/stream.m3u8": {
+  "url": "https://moviethls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://moviethls.wns.live/hls/stream-91278.ts",
+  "checked": "2026-09-30T19:48:52Z",
+  "first_seen": "2026-09-30T19:48:52Z",
+  "last_ok": "2026-09-30T19:48:52Z",
+  "fails": 0
+ },
+ "https://mtchls.wns.live/hls/stream.m3u8": {
+  "url": "https://mtchls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://mtchls.wns.live/hls/stream-632342.ts",
+  "checked": "2026-09-30T19:48:52Z",
+  "first_seen": "2026-09-30T19:48:52Z",
+  "last_ok": "2026-09-30T19:48:52Z",
+  "fails": 0
+ },
+ "https://musichls.persiana.live/hls/stream.m3u8": {
+  "url": "https://musichls.persiana.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://musichls.persiana.live/hls/stream-590736.ts",
+  "checked": "2026-09-30T19:48:52Z",
+  "first_seen": "2026-09-30T19:48:52Z",
+  "last_ok": "2026-09-30T19:48:52Z",
+  "fails": 0
+ },
+ "https://ncdn.telewebion.ir/abadan/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/abadan/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:54Z",
+  "first_seen": "2026-09-30T19:48:54Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/aflak/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/aflak/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:54Z",
+  "first_seen": "2026-09-30T19:48:54Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/aftab/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/aftab/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:54Z",
+  "first_seen": "2026-09-30T19:48:54Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/alborz/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/alborz/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:54Z",
+  "first_seen": "2026-09-30T19:48:54Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:54Z",
+  "first_seen": "2026-09-30T19:48:54Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/ara/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/ara/live/playlist.m3u8",
+  "status": "http-200",
+  "segment": "",
+  "checked": "2026-09-30T19:48:53Z",
+  "first_seen": "2026-09-30T19:48:53Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/atrak/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/atrak/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:54Z",
+  "first_seen": "2026-09-30T19:48:54Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:54Z",
+  "first_seen": "2026-09-30T19:48:54Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/baenergy/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/baenergy/live/playlist.m3u8",
+  "status": "http-200",
+  "segment": "",
+  "checked": "2026-09-30T19:48:53Z",
+  "first_seen": "2026-09-30T19:48:53Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/baran/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/baran/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:54Z",
+  "first_seen": "2026-09-30T19:48:54Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/bushehr/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/bushehr/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:54Z",
+  "first_seen": "2026-09-30T19:48:54Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/dena/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/dena/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:54Z",
+  "first_seen": "2026-09-30T19:48:54Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/esfahan/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/esfahan/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:54Z",
+  "first_seen": "2026-09-30T19:48:54Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/eshragh/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/eshragh/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:54Z",
+  "first_seen": "2026-09-30T19:48:54Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:55Z",
+  "first_seen": "2026-09-30T19:48:55Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/fars/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/fars/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:54Z",
+  "first_seen": "2026-09-30T19:48:54Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/golkhane/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/golkhane/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:54Z",
+  "first_seen": "2026-09-30T19:48:54Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/habib/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/habib/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:56Z",
+  "first_seen": "2026-09-30T19:48:56Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/hamoon/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/hamoon/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:56Z",
+  "first_seen": "2026-09-30T19:48:56Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:56Z",
+  "first_seen": "2026-09-30T19:48:56Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/ifilm/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/ifilm/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:56Z",
+  "first_seen": "2026-09-30T19:48:56Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/ilam/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/ilam/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:56Z",
+  "first_seen": "2026-09-30T19:48:56Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/iribu/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/iribu/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:56Z",
+  "first_seen": "2026-09-30T19:48:56Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/irinn/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/irinn/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:57Z",
+  "first_seen": "2026-09-30T19:48:57Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:57Z",
+  "first_seen": "2026-09-30T19:48:57Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/jahanbin/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/jahanbin/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:57Z",
+  "first_seen": "2026-09-30T19:48:57Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/javaneh/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/javaneh/live/playlist.m3u8",
+  "status": "http-200",
+  "segment": "",
+  "checked": "2026-09-30T19:48:56Z",
+  "first_seen": "2026-09-30T19:48:56Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/kerman/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/kerman/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:57Z",
+  "first_seen": "2026-09-30T19:48:57Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/khalijefars/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/khalijefars/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:57Z",
+  "first_seen": "2026-09-30T19:48:57Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/khavaran/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/khavaran/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:57Z",
+  "first_seen": "2026-09-30T19:48:57Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/khoozestan/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/khoozestan/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:57Z",
+  "first_seen": "2026-09-30T19:48:57Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/khorasanrazavi/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/khorasanrazavi/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:57Z",
+  "first_seen": "2026-09-30T19:48:57Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/kish/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/kish/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:57Z",
+  "first_seen": "2026-09-30T19:48:57Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/kordestan/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/kordestan/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:57Z",
+  "first_seen": "2026-09-30T19:48:57Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/labbayk/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/labbayk/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:57Z",
+  "first_seen": "2026-09-30T19:48:57Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/mahabad/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/mahabad/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:57Z",
+  "first_seen": "2026-09-30T19:48:57Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:58Z",
+  "first_seen": "2026-09-30T19:48:58Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/namayesh/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/namayesh/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:58Z",
+  "first_seen": "2026-09-30T19:48:58Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/nasim/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/nasim/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:59Z",
+  "first_seen": "2026-09-30T19:48:59Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/nava/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/nava/live/playlist.m3u8",
+  "status": "http-200",
+  "segment": "",
+  "checked": "2026-09-30T19:48:58Z",
+  "first_seen": "2026-09-30T19:48:58Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/nesfejahan/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/nesfejahan/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:59Z",
+  "first_seen": "2026-09-30T19:48:59Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/noor/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/noor/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:59Z",
+  "first_seen": "2026-09-30T19:48:59Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/ofogh/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/ofogh/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:59Z",
+  "first_seen": "2026-09-30T19:48:59Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/omid/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/omid/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:59Z",
+  "first_seen": "2026-09-30T19:48:59Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/palestine/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/palestine/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:59Z",
+  "first_seen": "2026-09-30T19:48:59Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/pooya/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/pooya/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:59Z",
+  "first_seen": "2026-09-30T19:48:59Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/qazvin/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/qazvin/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:59Z",
+  "first_seen": "2026-09-30T19:48:59Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/quran/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/quran/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/razavi/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/razavi/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/sabalan/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/sabalan/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/sabz/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/sabz/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:59Z",
+  "first_seen": "2026-09-30T19:48:59Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/sahand/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/sahand/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:59Z",
+  "first_seen": "2026-09-30T19:48:59Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/salamat/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/salamat/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/sarbedaran/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/sarbedaran/live/playlist.m3u8",
+  "status": "http-200",
+  "segment": "",
+  "checked": "2026-09-30T19:48:59Z",
+  "first_seen": "2026-09-30T19:48:59Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/semnan/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/semnan/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:59Z",
+  "first_seen": "2026-09-30T19:48:59Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/sepehr/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/sepehr/live/playlist.m3u8",
+  "status": "http-200",
+  "segment": "",
+  "checked": "2026-09-30T19:48:59Z",
+  "first_seen": "2026-09-30T19:48:59Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/sina/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/sina/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:59Z",
+  "first_seen": "2026-09-30T19:48:59Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/taban/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/taban/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/tabarestan/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/tabarestan/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/tehran/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/tehran/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:49:01Z",
+  "first_seen": "2026-09-30T19:49:01Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/tekyemadahi/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/tekyemadahi/live/playlist.m3u8",
+  "status": "http-404",
+  "segment": "",
+  "checked": "2026-09-30T19:48:59Z",
+  "first_seen": "2026-09-30T19:48:59Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/tv1/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/tv1/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:49:02Z",
+  "first_seen": "2026-09-30T19:49:02Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/tv1plus/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/tv1plus/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:49:01Z",
+  "first_seen": "2026-09-30T19:49:01Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/tv2/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/tv2/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:49:02Z",
+  "first_seen": "2026-09-30T19:49:02Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/tv3/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/tv3/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:49:02Z",
+  "first_seen": "2026-09-30T19:49:02Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/tv4/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/tv4/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:49:02Z",
+  "first_seen": "2026-09-30T19:49:02Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:49:02Z",
+  "first_seen": "2026-09-30T19:49:02Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/velayat/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/velayat/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:49:02Z",
+  "first_seen": "2026-09-30T19:49:02Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://ncdn.telewebion.ir/zagros/live/playlist.m3u8": {
+  "url": "https://ncdn.telewebion.ir/zagros/live/playlist.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:49:02Z",
+  "first_seen": "2026-09-30T19:49:02Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://nethls.wns.live/hls/stream.m3u8": {
+  "url": "https://nethls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://nethls.wns.live/hls/stream-2320386.ts",
+  "checked": "2026-09-30T19:48:59Z",
+  "first_seen": "2026-09-30T19:48:59Z",
+  "last_ok": "2026-09-30T19:48:59Z",
+  "fails": 0
+ },
+ "https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8": {
+  "url": "https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8",
+  "status": "ok",
+  "segment": "https://nl.livekadeh.com/hls2/alwilayah_tv-1790797698803.ts",
+  "checked": "2026-09-30T19:48:59Z",
+  "first_seen": "2026-09-30T19:48:59Z",
+  "last_ok": "2026-09-30T19:48:59Z",
+  "fails": 0
+ },
+ "https://nl.livekadeh.com/hls2/velayattv.m3u8": {
+  "url": "https://nl.livekadeh.com/hls2/velayattv.m3u8",
+  "status": "ok",
+  "segment": "https://nl.livekadeh.com/hls2/velayattv-1790797699427.ts",
+  "checked": "2026-09-30T19:48:59Z",
+  "first_seen": "2026-09-30T19:48:59Z",
+  "last_ok": "2026-09-30T19:48:59Z",
+  "fails": 0
+ },
+ "https://northtelecom.b-cdn.net/hodhodtv.m3u8": {
+  "url": "https://northtelecom.b-cdn.net/hodhodtv.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:48:59Z",
+  "first_seen": "2026-09-30T19:48:59Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://noshls.persiana.live/hls/stream.m3u8": {
+  "url": "https://noshls.persiana.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://noshls.persiana.live/hls/stream-1179358.ts",
+  "checked": "2026-09-30T19:48:59Z",
+  "first_seen": "2026-09-30T19:48:59Z",
+  "last_ok": "2026-09-30T19:48:59Z",
+  "fails": 0
+ },
+ "https://oitnhls.wns.live/hls/stream.m3u8": {
+  "url": "https://oitnhls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://oitnhls.wns.live/hls/stream-13540.ts",
+  "checked": "2026-09-30T19:48:59Z",
+  "first_seen": "2026-09-30T19:48:59Z",
+  "last_ok": "2026-09-30T19:48:59Z",
+  "fails": 0
+ },
+ "https://onehls.persiana.live/hls/stream.m3u8": {
+  "url": "https://onehls.persiana.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://onehls.persiana.live/hls/stream-90461.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://phd2hls.persiana.live/hls/stream.m3u8": {
+  "url": "https://phd2hls.persiana.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://phd2hls.persiana.live/hls/stream-684352.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://player.kalemeh.tv/live/ngrp:kalemeh_all/playlist.m3u8": {
+  "url": "https://player.kalemeh.tv/live/ngrp:kalemeh_all/playlist.m3u8",
+  "status": "ok",
+  "segment": "https://player.kalemeh.tv/live/ngrp:kalemeh_all/media_w1054848563_b1296000_85371.ts",
+  "checked": "2026-09-30T19:49:01Z",
+  "first_seen": "2026-09-30T19:49:01Z",
+  "last_ok": "2026-09-30T19:49:01Z",
+  "fails": 0
+ },
+ "https://pleonhls.wns.live/hls/stream.m3u8": {
+  "url": "https://pleonhls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://pleonhls.wns.live/hls/stream-195109.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://pmchls.wns.live/hls/stream.m3u8": {
+  "url": "https://pmchls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://pmchls.wns.live/hls/stream-213784.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://pmcrohls.wns.live/hls/stream.m3u8": {
+  "url": "https://pmcrohls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://pmcrohls.wns.live/hls/stream-197293.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://podhls.persiana.live/hls/stream.m3u8": {
+  "url": "https://podhls.persiana.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://podhls.persiana.live/hls/stream-91277.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://ptravelhls.persiana.live/hls/stream.m3u8": {
+  "url": "https://ptravelhls.persiana.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://ptravelhls.persiana.live/hls/stream-474487.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://pulsehls.wns.live/hls/stream.m3u8": {
+  "url": "https://pulsehls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://pulsehls.wns.live/hls/stream-724399.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://radio.khatereh.online:5443/LiveApp/streams/jWF37YKCgZ0FSYTR863687974499636.m3u8": {
+  "url": "https://radio.khatereh.online:5443/LiveApp/streams/jWF37YKCgZ0FSYTR863687974499636.m3u8",
+  "status": "ok",
+  "segment": "https://radio.khatereh.online:5443/LiveApp/streams/jWF37YKCgZ0FSYTR863687974499636000009458.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://raphls.persiana.live/hls/stream.m3u8": {
+  "url": "https://raphls.persiana.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://raphls.persiana.live/hls/stream-744075.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://rdejhls.wns.live/hls/stream.m3u8": {
+  "url": "https://rdejhls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://rdejhls.wns.live/hls/stream-763030.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://rferl-ingest.akamaized.net/hls/live/2121768/tvmc01/playlist.m3u8": {
+  "url": "https://rferl-ingest.akamaized.net/hls/live/2121768/tvmc01/playlist.m3u8",
+  "status": "ok",
+  "segment": "https://rferl-ingest.akamaized.net/hls/live/2121768/tvmc01/20260714T092013/playlist_0576/06776/playlist_0576_00076.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://rjtvhls.wns.live/hls/stream.m3u8": {
+  "url": "https://rjtvhls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://rjtvhls.wns.live/hls/stream-152520.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://ronhls.wns.live/hls/stream.m3u8": {
+  "url": "https://ronhls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://ronhls.wns.live/hls/stream-612313.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://s1-cloud.irib.ir/securelive3/saharazarsd/saharazarsd.m3u8": {
+  "url": "https://s1-cloud.irib.ir/securelive3/saharazarsd/saharazarsd.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://s1-cloud.irib.ir/securelive3/saharbalksd/saharbalksd.m3u8": {
+  "url": "https://s1-cloud.irib.ir/securelive3/saharbalksd/saharbalksd.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://s1-cloud.irib.ir/securelive3/saharkurdsd/saharkurdsd.m3u8": {
+  "url": "https://s1-cloud.irib.ir/securelive3/saharkurdsd/saharkurdsd.m3u8",
+  "status": "geo",
+  "segment": "",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://s1-cloud.irib.ir/securelive3/saharurdusd/saharurdusd.m3u8": {
+  "url": "https://s1-cloud.irib.ir/securelive3/saharurdusd/saharurdusd.m3u8",
+  "status": "ok",
+  "segment": "https://s1-cloud.irib.ir/securelive3/saharurdusd/576p_2026-09-30_22-18-49.ts",
+  "checked": "2026-09-30T19:49:01Z",
+  "first_seen": "2026-09-30T19:49:01Z",
+  "last_ok": "2026-09-30T19:49:01Z",
+  "fails": 0
+ },
+ "https://sat7phls.wns.live/hls/stream.m3u8": {
+  "url": "https://sat7phls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://sat7phls.wns.live/hls/stream-606002.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://scihls.persiana.live/hls/stream.m3u8": {
+  "url": "https://scihls.persiana.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://scihls.persiana.live/hls/stream-1405001.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://setarehhls.wns.live/hls/stream.m3u8": {
+  "url": "https://setarehhls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://setarehhls.wns.live/hls/stream-602451.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://setmixhls.persiana.live/hls/stream.m3u8": {
+  "url": "https://setmixhls.persiana.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://setmixhls.persiana.live/hls/stream-91278.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://sh7hls.wns.live/hls/stream.m3u8": {
+  "url": "https://sh7hls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://sh7hls.wns.live/hls/stream-10768.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8": {
+  "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8",
+  "status": "ok",
+  "segment": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/video/1080p2400kbps/segment_EzHN35FIz6_993645_seg.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://simaytv.akamaized.net/hls/live/a162cb6c-3be1-4e57-87dc-a75a50b3b8d9/simayhls/index.m3u8": {
+  "url": "https://simaytv.akamaized.net/hls/live/a162cb6c-3be1-4e57-87dc-a75a50b3b8d9/simayhls/index.m3u8",
+  "status": "ok",
+  "segment": "https://simaytv.akamaized.net/hls/live/a162cb6c-3be1-4e57-87dc-a75a50b3b8d9/simayhls/44/161171785080000.mp4",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://slonehls.wns.live/hls/stream.m3u8": {
+  "url": "https://slonehls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://slonehls.wns.live/hls/stream-108683.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://sltwohls.wns.live/hls/stream.m3u8": {
+  "url": "https://sltwohls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://sltwohls.wns.live/hls/stream-94572.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8": {
+  "url": "https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8",
+  "status": "ok",
+  "segment": "https://softverse.b-cdn.net/Assirat/assiratobs/media_503.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://sonhls.persiana.live/hls/stream.m3u8": {
+  "url": "https://sonhls.persiana.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://sonhls.persiana.live/hls/stream-644071.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://stream.novin.live/hls/playlist.m3u8": {
+  "url": "https://stream.novin.live/hls/playlist.m3u8",
+  "status": "ok",
+  "segment": "https://stream.novin.live/hls/playlist-9090.ts",
+  "checked": "2026-09-30T19:49:01Z",
+  "first_seen": "2026-09-30T19:49:01Z",
+  "last_ok": "2026-09-30T19:49:01Z",
+  "fails": 0
+ },
+ "https://streamer1.connectto.com/HIGHVISION_WEB_1205/playlist.m3u8": {
+  "url": "https://streamer1.connectto.com/HIGHVISION_WEB_1205/playlist.m3u8",
+  "status": "segment-404",
+  "segment": "",
+  "checked": "2026-09-30T19:49:37Z",
+  "first_seen": "2026-09-30T19:49:37Z",
+  "last_ok": "",
+  "fails": 1
+ },
+ "https://streaminglive.co.il:3730/live/raniamranilive.m3u8": {
+  "url": "https://streaminglive.co.il:3730/live/raniamranilive.m3u8",
+  "status": "ok",
+  "segment": "https://streaminglive.co.il:3730/live/raniamranilive-19136.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://t2hls.wns.live/hls/stream.m3u8": {
+  "url": "https://t2hls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://t2hls.wns.live/hls/stream-91280.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://tgn.bozztv.com/cus01/ucur1/Payvand/playlist.m3u8": {
+  "url": "https://tgn.bozztv.com/cus01/ucur1/Payvand/playlist.m3u8",
+  "status": "ok",
+  "segment": "https://tgn.bozztv.com/cus01/ucur1/Payvand/tracks-v1a1/2026/09/30/19/48/40-05005.ts?nimblesessionid=1863288543",
+  "checked": "2026-09-30T19:49:02Z",
+  "first_seen": "2026-09-30T19:49:02Z",
+  "last_ok": "2026-09-30T19:49:02Z",
+  "fails": 0
+ },
+ "https://toonixhls.wns.live/hls/stream.m3u8": {
+  "url": "https://toonixhls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://toonixhls.wns.live/hls/stream-196397.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://turkhls.persiana.live/hls/stream.m3u8": {
+  "url": "https://turkhls.persiana.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://turkhls.persiana.live/hls/stream-91278.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://tv.iraniancongress.com/stream/tv.m3u8": {
+  "url": "https://tv.iraniancongress.com/stream/tv.m3u8",
+  "status": "ok",
+  "segment": "https://tv.iraniancongress.com/stream/tv_499.ts",
+  "checked": "2026-09-30T19:49:01Z",
+  "first_seen": "2026-09-30T19:49:01Z",
+  "last_ok": "2026-09-30T19:49:01Z",
+  "fails": 0
+ },
+ "https://tv.irna.ir/live/stream/index.m3u8": {
+  "url": "https://tv.irna.ir/live/stream/index.m3u8",
+  "status": "ok",
+  "segment": "https://tv.irna.ir/live/stream/1790797678204.ts",
+  "checked": "2026-09-30T19:49:01Z",
+  "first_seen": "2026-09-30T19:49:01Z",
+  "last_ok": "2026-09-30T19:49:01Z",
+  "fails": 0
+ },
+ "https://twohls.persiana.live/hls/stream.m3u8": {
+  "url": "https://twohls.persiana.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://twohls.persiana.live/hls/stream-605963.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8": {
+  "url": "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8",
+  "status": "ok",
+  "segment": "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/media_w1504128586_2666.ts",
+  "checked": "2026-09-30T19:49:02Z",
+  "first_seen": "2026-09-30T19:49:02Z",
+  "last_ok": "2026-09-30T19:49:02Z",
+  "fails": 0
+ },
+ "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8": {
+  "url": "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8",
+  "status": "ok",
+  "segment": "https://uni6rtmp.tulix.tv/ucur1/Payvand/tracks-v1a1/2026/09/30/19/48/40-05005.ts",
+  "checked": "2026-09-30T19:49:01Z",
+  "first_seen": "2026-09-30T19:49:01Z",
+  "last_ok": "2026-09-30T19:49:01Z",
+  "fails": 0
+ },
+ "https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8": {
+  "url": "https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8",
+  "status": "ok",
+  "segment": "https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/20260827T094625/playlist_1080/02973/playlist_1080_00065.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://voyhls.persiana.live/hls/stream.m3u8": {
+  "url": "https://voyhls.persiana.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://voyhls.persiana.live/hls/stream-233710.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/mobile_wifi_main_hd_abr_v2.m3u8": {
+  "url": "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/mobile_wifi_main_hd_abr_v2.m3u8",
+  "status": "ok",
+  "segment": "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/466351699.ts",
+  "checked": "2026-09-30T19:49:01Z",
+  "first_seen": "2026-09-30T19:49:01Z",
+  "last_ok": "2026-09-30T19:49:01Z",
+  "fails": 0
+ },
+ "https://wmtvhls.wns.live/hls/stream.m3u8": {
+  "url": "https://wmtvhls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://wmtvhls.wns.live/hls/stream-781023.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ },
+ "https://zedhls.wns.live/hls/stream.m3u8": {
+  "url": "https://zedhls.wns.live/hls/stream.m3u8",
+  "status": "ok",
+  "segment": "https://zedhls.wns.live/hls/stream-388390.ts",
+  "checked": "2026-09-30T19:49:00Z",
+  "first_seen": "2026-09-30T19:49:00Z",
+  "last_ok": "2026-09-30T19:49:00Z",
+  "fails": 0
+ }
+}

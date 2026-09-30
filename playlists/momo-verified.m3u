@@ -128,7 +128,7 @@ https://live-aburayhan1106.telewebion.net/na/palestine/live/720p/index.m3u8
 https://live.presstv.co.uk/hls/presstv.m3u8
 #EXTINF:-1 tvg-id="PressTVFrench.ir" tvg-name="Press TV French" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/PressTVFrench.ir.png" group-title="IRIB International Services" tvg-language="fra" tvg-quality="SD",Press TV French | پرس تی‌وی فرانسه
 https://live4.presstv.ir/live/mp4:presstvfr/playlist.m3u8
-#EXTINF:-1 tvg-id="SaharUrdu.ir" tvg-name="Sahar TV Urdu" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/SaharUrdu.ir.png" group-title="IRIB International Services" tvg-language="urd" tvg-quality="SD",Sahar TV Urdu | سحر اردو [IR]
+#EXTINF:-1 tvg-id="SaharUrdu.ir" tvg-name="Sahar TV Urdu" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/SaharUrdu.ir.png" group-title="IRIB International Services" tvg-language="urd" tvg-quality="SD",Sahar TV Urdu | سحر اردو
 https://s1-cloud.irib.ir/securelive3/saharurdusd/saharurdusd.m3u8
 #EXTINF:-1 tvg-id="AzadiTV.ir" tvg-name="Azadi TV" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/AzadiTV.ir.png" group-title="Satellite · News & Current Affairs" tvg-language="fas" tvg-quality="HD",Azadi TV | آزادی
 https://wmtvhls.wns.live/hls/stream.m3u8

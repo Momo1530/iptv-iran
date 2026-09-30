@@ -1,5 +1,5 @@
 #EXTM3U
-# Deine IPTV — alle Kanäle (1 Stream je Kanal)
+# Deine IPTV — ohne geo-blockierte Sender
 #EXTINF:-1 tvg-id="GolkhaneTv.ir" tvg-name="Golkhane" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/GolkhaneTv.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="HD",Golkhane | شبکه گلخانه
 https://live-aburayhan1113.telewebion.net/na/golkhane/live/720p/index.m3u8
 #EXTINF:-1 tvg-id="iFilmPersian.ir" tvg-name="iFilm" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/iFilmPersian.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="FHD",iFilm | آی‌فیلم
@@ -30,16 +30,12 @@ https://live-aburayhan1111.telewebion.net/ek/tv1/live/1080p/index.m3u8
 https://live-aburayhan1107.telewebion.net/na/tv1plus/live/1080p/index.m3u8
 #EXTINF:-1 tvg-id="IRIB2.ir" tvg-name="IRIB TV2" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IRIB2.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="FHD",IRIB TV2 | شبکه دو
 https://live-aburayhan1104.telewebion.net/ek/tv2/live/1080p/index.m3u8
-#EXTINF:-1 tvg-id="IRIB3.ir" tvg-name="IRIB TV3" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IRIB3.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="FHD",IRIB TV3 | شبکه سه [IR]
-https://live-aburayhan1103.telewebion.net/ek/tv3/live/108050p/index.m3u8
 #EXTINF:-1 tvg-id="IRIB4.ir" tvg-name="IRIB TV4" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IRIB4.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="SD",IRIB TV4 | شبکه چهار
 https://live-aburayhan1107.telewebion.net/ek/tv4/live/576p/index.m3u8
 #EXTINF:-1 tvg-id="TehranTV.ir" tvg-name="IRIB TV5 (Tehran)" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/TehranTV.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="FHD",IRIB TV5 (Tehran) | شبکه پنج (تهران)
 https://live-aburayhan1103.telewebion.net/ek/tehran/live/1080p/index.m3u8
 #EXTINF:-1 tvg-id="IRIBUHD.ir" tvg-name="IRIB UHD" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IRIBUHD.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="4K",IRIB UHD | شبکه فراگیر (UHD)
 https://live-aburayhan1105.telewebion.net/ek/faratar/live/2160p/index.m3u8
-#EXTINF:-1 tvg-id="VarzeshTV.ir" tvg-name="IRIB Varzesh" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/VarzeshTV.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="FHD",IRIB Varzesh | شبکه ورزش [IR]
-https://live-aburayhan1109.telewebion.net/ek/varzesh/live/108050p/index.m3u8
 #EXTINF:-1 tvg-id="IRINN.ir" tvg-name="IRINN" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IRINN.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="FHD",IRINN | شبکه خبر
 https://live-aburayhan1106.telewebion.net/ek/irinn/live/1080p/index.m3u8
 #EXTINF:-1 tvg-id="IRINN2.ir" tvg-name="IRINN 2" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IRINN2.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="FHD",IRINN 2 | شبکه خبر ۲
@@ -134,13 +130,7 @@ https://live-aburayhan1106.telewebion.net/na/palestine/live/720p/index.m3u8
 https://live.presstv.co.uk/hls/presstv.m3u8
 #EXTINF:-1 tvg-id="PressTVFrench.ir" tvg-name="Press TV French" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/PressTVFrench.ir.png" group-title="IRIB International Services" tvg-language="fra" tvg-quality="SD",Press TV French | پرس تی‌وی فرانسه
 https://live4.presstv.ir/live/mp4:presstvfr/playlist.m3u8
-#EXTINF:-1 tvg-id="SaharAzeri.ir" tvg-name="Sahar TV Azeri" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/SaharAzeri.ir.png" group-title="IRIB International Services" tvg-language="aze" tvg-quality="SD",Sahar TV Azeri | سحر آذری [IR]
-https://s1-cloud.irib.ir/securelive3/saharazarsd/saharazarsd.m3u8
-#EXTINF:-1 tvg-id="SaharBalkan.ir" tvg-name="Sahar TV Balkan" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/SaharBalkan.ir.png" group-title="IRIB International Services" tvg-language="bos" tvg-quality="SD",Sahar TV Balkan | سحر بالکان [IR]
-https://s1-cloud.irib.ir/securelive3/saharbalksd/saharbalksd.m3u8
-#EXTINF:-1 tvg-id="SaharKurdi.ir" tvg-name="Sahar TV Kurdish" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/SaharKurdi.ir.png" group-title="IRIB International Services" tvg-language="kur" tvg-quality="SD",Sahar TV Kurdish | سحر کردی [IR]
-https://s1-cloud.irib.ir/securelive3/saharkurdsd/saharkurdsd.m3u8
-#EXTINF:-1 tvg-id="SaharUrdu.ir" tvg-name="Sahar TV Urdu" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/SaharUrdu.ir.png" group-title="IRIB International Services" tvg-language="urd" tvg-quality="SD",Sahar TV Urdu | سحر اردو [IR]
+#EXTINF:-1 tvg-id="SaharUrdu.ir" tvg-name="Sahar TV Urdu" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/SaharUrdu.ir.png" group-title="IRIB International Services" tvg-language="urd" tvg-quality="SD",Sahar TV Urdu | سحر اردو
 https://s1-cloud.irib.ir/securelive3/saharurdusd/saharurdusd.m3u8
 #EXTINF:-1 tvg-id="AzadiTV.ir" tvg-name="Azadi TV" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/AzadiTV.ir.png" group-title="Satellite · News & Current Affairs" tvg-language="fas" tvg-quality="HD",Azadi TV | آزادی
 https://wmtvhls.wns.live/hls/stream.m3u8
@@ -442,15 +432,9 @@ https://avr.host247.net/live/WiseHumanTv/playlist.m3u8
 https://ncdn.telewebion.ir/ara/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Energy.ir@SD" tvg-name="Energy" group-title="Other",Energy
 https://ncdn.telewebion.ir/baenergy/live/playlist.m3u8
-#EXTINF:-1 tvg-id="HodHodFarsiTV.ir@SD" tvg-name="HodHod Farsi TV (1080p)" group-title="Other",HodHod Farsi TV (1080p) [IR]
-https://northtelecom.b-cdn.net/hodhodtv.m3u8
 #EXTINF:-1 tvg-id="MohabatTV.ir@SD" tvg-name="Mohabat TV (540p)" group-title="Other",Mohabat TV (540p)
 http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="nesfejahan" tvg-name="Nesfejahan" group-title="Other",Nesfejahan [IR]
-https://ncdn.telewebion.ir/nesfejahan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SarbedaranTV.ir@SD" tvg-name="Sarbedaran" group-title="Other",Sarbedaran
 https://ncdn.telewebion.ir/sarbedaran/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SepehrTV.ir@SD" tvg-name="Sepehr" group-title="Other",Sepehr
 https://ncdn.telewebion.ir/sepehr/live/playlist.m3u8
-#EXTINF:-1 tvg-id="tv1-plus-not-24-7" tvg-name="TV1 Plus [Not 24/7]" group-title="Other",TV1 Plus [Not 24/7] [IR]
-https://ncdn.telewebion.ir/tv1plus/live/playlist.m3u8

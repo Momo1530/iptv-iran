@@ -26,5 +26,5 @@ https://s1-cloud.irib.ir/securelive3/saharazarsd/saharazarsd.m3u8
 https://s1-cloud.irib.ir/securelive3/saharbalksd/saharbalksd.m3u8
 #EXTINF:-1 tvg-id="SaharKurdi.ir" tvg-name="Sahar TV Kurdish" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/SaharKurdi.ir.png" group-title="IRIB International Services" tvg-language="kur" tvg-quality="SD",Sahar TV Kurdish | سحر کردی [IR]
 https://s1-cloud.irib.ir/securelive3/saharkurdsd/saharkurdsd.m3u8
-#EXTINF:-1 tvg-id="SaharUrdu.ir" tvg-name="Sahar TV Urdu" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/SaharUrdu.ir.png" group-title="IRIB International Services" tvg-language="urd" tvg-quality="SD",Sahar TV Urdu | سحر اردو [IR]
+#EXTINF:-1 tvg-id="SaharUrdu.ir" tvg-name="Sahar TV Urdu" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/SaharUrdu.ir.png" group-title="IRIB International Services" tvg-language="urd" tvg-quality="SD",Sahar TV Urdu | سحر اردو
 https://s1-cloud.irib.ir/securelive3/saharurdusd/saharurdusd.m3u8

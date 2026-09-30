@@ -48,7 +48,7 @@ verified_only: false
 #   true  = raus. Sinnvoll OHNE iranisches VPN — die Sender laufen sonst
 #           ohnehin nicht. Bleiben nur in den Kategorie-Listen erhalten.
 #   false = bleiben drin, mit [IR] im Namen markiert.
-drop_geo: false
+drop_geo: true
 
 # ── Eigene Kanäle ────────────────────────────────────────────────────
 # Werden IMMER behalten und stehen ganz oben in der Liste.

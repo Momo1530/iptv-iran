@@ -175,10 +175,14 @@ def main():
         used[base] = n
         c["id"] = base if n == 1 else f"{base}-{n}"
 
-    # Geo-blockierte im Namen markieren
+    # Geo-blockierte im Namen markieren.
+    # Achtung: manche Quellen schreiben "[IR]" schon selbst ins Label (aus
+    # ihrer eigenen Sicht). Diese Fremdmarkierung wird zuerst entfernt,
+    # damit nur UNSER Prüfergebnis zählt — sonst steht [IR] an Sendern,
+    # die hier nachweislich laufen.
     for c in final:
-        if c["status"] == "geo" and "[IR]" not in (c.get("label") or ""):
-            c["label"] = (c.get("label") or c["name"]) + " [IR]"
+        label = re.sub(r"\s*\[IR\]\s*", " ", c.get("label") or c["name"]).strip()
+        c["label"] = f"{label} [IR]" if c["status"] == "geo" else label
 
     n = lib.write_m3u(final, lib.PLAYLISTS / "momo.m3u",
                       "Deine IPTV — alle Kanäle (1 Stream je Kanal)")

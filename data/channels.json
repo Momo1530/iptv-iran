@@ -747,7 +747,7 @@
   "url": "https://live2.alalam.ir/live/Alalam/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
-  "status": "ok"
+  "status": "segment-404"
  },
  {
   "id": "AlKawtharTV.ir",
@@ -815,16 +815,16 @@
   "status": "ok"
  },
  {
-  "id": "IranPress.ir",
+  "id": "IranPress.ir@SD",
   "name": "Iran Press",
-  "label": "Iran Press | ایران پرس",
-  "logo": "https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IranPress.ir.jpg",
+  "label": "Iran Press",
+  "logo": "",
   "group": "IRIB International Services",
-  "language": "fas;eng",
-  "quality": "SD",
-  "url": "https://ip2stream.iranpress.com/hls/ip2.m3u8",
+  "language": "",
+  "quality": "",
+  "url": "https://live.presstv.ir/hls/presstv_5_482/index.m3u8",
   "synthetic_id": false,
-  "source": "shayanline",
+  "source": "iptv-org",
   "status": "ok"
  },
  {
@@ -1072,7 +1072,7 @@
   "url": "https://iranefardalive.com/stream/live.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
-  "status": "ok"
+  "status": "segment-404"
  },
  {
   "id": "IranWire.us",
@@ -2840,7 +2840,7 @@
   "url": "https://avr.host247.net/live/WiseHumanTv/playlist.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
-  "status": "ok"
+  "status": "http-404"
  },
  {
   "id": "AraTV.ir@SD",

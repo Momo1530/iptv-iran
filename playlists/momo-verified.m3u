@@ -122,8 +122,6 @@ https://live-aburayhan1101.telewebion.net/ek/azarbayjangharbi/live/576p/index.m3
 https://live-aburayhan1104.telewebion.net/ek/taban/live/576p/index.m3u8
 #EXTINF:-1 tvg-id="ZagrosTV.ir" tvg-name="Zagros" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/ZagrosTV.ir.png" group-title="IRIB Provincial Networks" tvg-language="fas" tvg-quality="SD",Zagros | شبکه زاگرس
 https://live-aburayhan1102.telewebion.net/ek/zagros/live/576p/index.m3u8
-#EXTINF:-1 tvg-id="AlAlam.ir" tvg-name="Al Alam" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/AlAlam.ir.png" group-title="IRIB International Services" tvg-language="ara" tvg-quality="SD",Al Alam | العالم
-https://live2.alalam.ir/live/Alalam/index.m3u8
 #EXTINF:-1 tvg-id="AlKawtharTV.ir" tvg-name="Al-Kawthar TV" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/AlKawtharTV.ir.png" group-title="IRIB International Services" tvg-language="ara" tvg-quality="SD",Al-Kawthar TV | شبکه الکوثر
 https://live-aburayhan1104.telewebion.net/ek/kawthar/live/576p/index.m3u8
 #EXTINF:-1 tvg-id="HispanTV.ir" tvg-name="HispanTV" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/HispanTV.ir.jpg" group-title="IRIB International Services" tvg-language="spa" tvg-quality="SD",HispanTV | هیسپان تی‌وی
@@ -164,6 +162,8 @@ https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIO
 https://hls.irannrtv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="IranTVIsrael.il" tvg-name="Iran TV Israel" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IranTVIsrael.il.png" group-title="Satellite · News & Current Affairs" tvg-language="fas" tvg-quality="HD",Iran TV Israel | ایران تی‌وی اسرائیل
 https://streaminglive.co.il:3730/live/raniamranilive.m3u8
+#EXTINF:-1 tvg-id="IraneFardaTV.uk" tvg-name="IraneFarda TV" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IraneFardaTV.uk.png" group-title="Satellite · News & Current Affairs" tvg-language="fas" tvg-quality="HD",IraneFarda TV | ایران فردا
+https://iranefardalive.com/stream/live.m3u8
 #EXTINF:-1 tvg-id="IranWire.us" tvg-name="IranWire" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IranWire.us.png" group-title="Satellite · News & Current Affairs" tvg-language="fas" tvg-quality="HD",IranWire | ایران‌وایر
 https://irwhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="IRNATV.ir" tvg-name="IRNA TV" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IRNATV.ir.png" group-title="Satellite · News & Current Affairs" tvg-language="fas",IRNA TV | ایرنا
@@ -276,8 +276,6 @@ https://ronhls.wns.live/hls/stream.m3u8
 https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8
 #EXTINF:-1 tvg-id="HomePlus.ir" tvg-name="HomePlus" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/HomePlus.ir.png" group-title="Satellite · General & Variety" tvg-language="fas" tvg-quality="HD",HomePlus | هوم پلاس
 https://homeplushls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="IranIndependent.us" tvg-name="Iran Independent" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IranIndependent.us.png" group-title="Satellite · General & Variety" tvg-language="fas",Iran Independent | ایران ایندیپندنت
-https://mediamtx.elitelatrade.com/live/stream/main_stream.m3u8
 #EXTINF:-1 tvg-id="TVITN.ir" tvg-name="ITN" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/TVITN.ir.png" group-title="Satellite · General & Variety" tvg-language="fas" tvg-quality="SD",ITN | آی‌تی‌ان
 https://itnhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="KhaterehTV.us" tvg-name="Khatereh TV" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/KhaterehTV.us.png" group-title="Satellite · General & Variety" tvg-language="fas" tvg-quality="FHD",Khatereh TV | خاطره

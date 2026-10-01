@@ -4,15 +4,15 @@
 https://cp11.adabmedia.com/hls2/tv3test.m3u8
 #EXTINF:-1 tvg-id="VarzeshTV.ir" tvg-name="IRIB Varzesh" group-title="IRIB National Networks" tvg-quality="HD",IRIB Varzesh
 https://cp11.adabmedia.com/hls2/varzeshtest.m3u8
-#EXTINF:-1 tvg-id="custom-3" tvg-name="Adel · خانه‌ای برای همیشه" group-title="Adel",Adel · خانه‌ای برای همیشه
+#EXTINF:-1 tvg-id="adel-1" tvg-name="Adel · خانه‌ای برای همیشه!" group-title="Adel" tvg-language="fa",Adel · خانه‌ای برای همیشه!
 https://s3.ir-thr-at1.arvanstorage.ir/site-videos/Amin/full%20live6..mp4
-#EXTINF:-1 tvg-id="custom-4" tvg-name="Adel · Highlights Real Madrid 2-1 Inter" group-title="Adel",Adel · Highlights Real Madrid 2-1 Inter
+#EXTINF:-1 tvg-id="adel-2" tvg-name="Highlights: رئال مادرید ۲-۱ اینتر · (Adel)" group-title="Adel" tvg-language="fa",Highlights: رئال مادرید ۲-۱ اینتر · (Adel)
 https://s3.ir-thr-at1.arvanstorage.ir/site-videos/Hossein/inter-real.mp4
-#EXTINF:-1 tvg-id="custom-5" tvg-name="Adel · Spiel komplett Spanien–Argentinien" group-title="Adel",Adel · Spiel komplett Spanien–Argentinien
+#EXTINF:-1 tvg-id="adel-3" tvg-name="Spiel komplett: اسپانیا و آرژانتین (Adel)" group-title="Adel" tvg-language="fa",Spiel komplett: اسپانیا و آرژانتین (Adel)
 https://s3.ir-thr-at1.arvanstorage.ir/site-videos/Hossein/%E2%80%8Cspa%20arg.mp4
-#EXTINF:-1 tvg-id="custom-6" tvg-name="Adel · Highlights Spanien 1-0 Argentinien (WM-Finale)" group-title="Adel",Adel · Highlights Spanien 1-0 Argentinien (WM-Finale)
+#EXTINF:-1 tvg-id="adel-4" tvg-name="Highlights: اسپانیا ۱-۰ آرژانتین · (Adel)" group-title="Adel" tvg-language="fa",Highlights: اسپانیا ۱-۰ آرژانتین · (Adel)
 https://s3.ir-thr-at1.arvanstorage.ir/site-videos/Hossein/Spain-Argentina%20with%20cup%20new.mp4
-#EXTINF:-1 tvg-id="custom-7" tvg-name="Adel · Spiel komplett England–Argentinien" group-title="Adel",Adel · Spiel komplett England–Argentinien
+#EXTINF:-1 tvg-id="adel-5" tvg-name="Spiel komplett: انگلیس و آرژانتین (Adel)" group-title="Adel" tvg-language="fa",Spiel komplett: انگلیس و آرژانتین (Adel)
 https://s3.ir-thr-at1.arvanstorage.ir/site-videos/Hossein/arg%20eng%20full.mp4
 #EXTINF:-1 tvg-id="GolkhaneTv.ir" tvg-name="Golkhane" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/GolkhaneTv.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="HD",Golkhane | شبکه گلخانه
 https://live-aburayhan1113.telewebion.net/na/golkhane/live/720p/index.m3u8

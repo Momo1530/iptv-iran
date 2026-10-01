@@ -37,6 +37,9 @@ jobs:
       - name: Kandidaten sammeln
         run: python scripts/sources.py
 
+      - name: Adel-Sendungen sammeln
+        run: cd scripts && python adel.py
+
       - name: Streams prüfen
         run: python scripts/probe.py
 

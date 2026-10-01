@@ -163,6 +163,24 @@ def main():
             "status": "ok",
         })
 
+    # Adel-Sendungen aus data/adel.json (wird von scripts/adel.py befüllt,
+    # jeden Montag neu — football360.ir löscht ältere Folgen).
+    adel = lib.read_json(lib.DATA / "adel.json", []) or []
+    for i, cu in enumerate(adel, 1):
+        if not cu.get("url"):
+            continue
+        own.append({
+            "id": f"adel-{i}",
+            "name": cu.get("name") or f"Adel {i}",
+            "label": cu.get("name") or "",
+            "logo": "",
+            "group": "Adel",
+            "language": "fa",
+            "quality": "",
+            "url": cu["url"],
+            "status": "ok",
+        })
+
     # Eigene Kanäle VERDRÄNGEN die generische Version desselben Kanals.
     # Sonst stünde IRIB TV3 zweimal in der Liste: einmal mit der
     # geo-blockierten Telewebion-URL, einmal mit der laufenden custom-URL.

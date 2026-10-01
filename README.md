@@ -19,6 +19,17 @@ Direkt-Link in jeden IPTV-Player einfügen (VLC, Kodi, TiviMate, IPTV Smarters, 
 **Ohne iranisches VPN?** Dann `drop_geo: true` in der Config setzen — die gesperrten Sender
 verschwinden aus `momo.m3u`, es bleiben ~219 Kanäle übrig, die alle direkt laufen.
 
+## 🎬 Filme & Serien (CZ/SK)
+
+Eigene Listen aus einer Kurzlink-Quelle — jeden Montag neu aufgelöst und getestet.
+Nur Titel, bei denen wirklich Video-Bytes fließen, kommen in die Playlist.
+`[E01]`-Erkennung trennt Filme von Serienfolgen.
+
+| Playlist | Inhalt | Link |
+|---|---|---|
+| **Filme** | 310 abspielbare Filme | `https://raw.githubusercontent.com/Momo1530/iptv-iran/main/playlists/filmy.m3u` |
+| **Serien** | 205 Serienfolgen | `https://raw.githubusercontent.com/Momo1530/iptv-iran/main/playlists/serialy.m3u` |
+
 **Nach Kategorie** — `playlists/categories/<name>.m3u`:
 
 | Gruppe | Datei |

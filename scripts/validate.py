@@ -34,6 +34,29 @@ def main():
             problems.append(f"{name}: doppelte Kanal-IDs {sorted(dupids)[:5]}")
         print(f"  {name}: {len(items)} Kanäle, {len(set(urls))} eindeutige URLs")
 
+    # Optionale Zusatz-Playlists (nur prüfen, wenn schon gebaut)
+    for name in ("filmy.m3u", "serialy.m3u"):
+        p = lib.PLAYLISTS / name
+        if not p.exists():
+            continue
+        text = p.read_text(encoding="utf-8")
+        if not text.startswith("#EXTM3U"):
+            problems.append(f"{name}: kein #EXTM3U-Header")
+            continue
+        items = lib.parse_m3u(text)
+        urls = [i["url"] for i in items]
+        bad = [u for u in urls if not u.startswith("http")]
+        if bad:
+            problems.append(f"{name}: {len(bad)} ungültige URLs")
+        dup = {u for u in urls if urls.count(u) > 1}
+        if dup:
+            problems.append(f"{name}: {len(dup)} doppelte URLs")
+        ids = [i["id"] for i in items]
+        dupids = {i for i in ids if ids.count(i) > 1}
+        if dupids:
+            problems.append(f"{name}: doppelte IDs {sorted(dupids)[:5]}")
+        print(f"  {name}: {len(items)} Titel, {len(set(urls))} eindeutige URLs")
+
     if problems:
         for p in problems:
             print("✗", p)

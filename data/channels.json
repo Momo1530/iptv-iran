@@ -870,16 +870,16 @@
   "status": "ok"
  },
  {
-  "id": "IranPress.ir@SD",
+  "id": "IranPress.ir",
   "name": "Iran Press",
-  "label": "Iran Press",
-  "logo": "",
+  "label": "Iran Press | ایران پرس",
+  "logo": "https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IranPress.ir.jpg",
   "group": "IRIB International Services",
-  "language": "",
-  "quality": "",
-  "url": "https://live.presstv.ir/hls/presstv_5_482/index.m3u8",
+  "language": "fas;eng",
+  "quality": "SD",
+  "url": "https://ip2stream.iranpress.com/hls/ip2.m3u8",
   "synthetic_id": false,
-  "source": "iptv-org",
+  "source": "shayanline",
   "status": "ok"
  },
  {
@@ -1127,7 +1127,7 @@
   "url": "https://iranefardalive.com/stream/live.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
-  "status": "ok"
+  "status": "segment-404"
  },
  {
   "id": "IranWire.us",
@@ -1894,7 +1894,7 @@
   "url": "https://mediamtx.elitelatrade.com/live/stream/main_stream.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
-  "status": "segment-404"
+  "status": "ok"
  },
  {
   "id": "TVITN.ir",

@@ -69,6 +69,27 @@ custom:
     url: "https://cp11.adabmedia.com/hls2/varzeshtest.m3u8"
     group: "IRIB National Networks"
     quality: "HD"
+
+  # ── Adel (عادل فردوسی‌پور) ─────────────────────────────────────────
+  # Quellen: football360.ir (VODs über arvanstorage, direkt abspielbar).
+  # Der 24/7-TV-Kanal liegt hinter aparatsport.com und ist hart
+  # Iran-geo-blockiert (403 "VPN Error", IPv6 + Proxies erfolglos).
+  # Die Sendungen hier laufen dagegen ohne VPN.
+  - name: "Adel · خانه‌ای برای همیشه"
+    url: "https://s3.ir-thr-at1.arvanstorage.ir/site-videos/Amin/full%20live6..mp4"
+    group: "Adel"
+  - name: "Adel · Highlights Real Madrid 2-1 Inter"
+    url: "https://s3.ir-thr-at1.arvanstorage.ir/site-videos/Hossein/inter-real.mp4"
+    group: "Adel"
+  - name: "Adel · Spiel komplett Spanien–Argentinien"
+    url: "https://s3.ir-thr-at1.arvanstorage.ir/site-videos/Hossein/%E2%80%8Cspa%20arg.mp4"
+    group: "Adel"
+  - name: "Adel · Highlights Spanien 1-0 Argentinien (WM-Finale)"
+    url: "https://s3.ir-thr-at1.arvanstorage.ir/site-videos/Hossein/Spain-Argentina%20with%20cup%20new.mp4"
+    group: "Adel"
+  - name: "Adel · Spiel komplett England–Argentinien"
+    url: "https://s3.ir-thr-at1.arvanstorage.ir/site-videos/Hossein/arg%20eng%20full.mp4"
+    group: "Adel"
   # - name: "Mein Sender"
   #   url: "https://example.com/stream.m3u8"
   #   logo: "https://example.com/logo.png"
@@ -82,6 +103,7 @@ overrides: {}
 # ── Reihenfolge der Gruppen in der fertigen Playlist ─────────────────
 group_order:
   - "Eigene"
+  - "Adel"
   - "IRIB National Networks"
   - "IRIB Provincial Networks"
   - "IRIB International Services"

@@ -22,6 +22,61 @@
   "status": "ok"
  },
  {
+  "id": "custom-3",
+  "name": "Adel · خانه‌ای برای همیشه",
+  "label": "Adel · خانه‌ای برای همیشه",
+  "logo": "",
+  "group": "Adel",
+  "language": "",
+  "quality": "",
+  "url": "https://s3.ir-thr-at1.arvanstorage.ir/site-videos/Amin/full%20live6..mp4",
+  "status": "ok"
+ },
+ {
+  "id": "custom-4",
+  "name": "Adel · Highlights Real Madrid 2-1 Inter",
+  "label": "Adel · Highlights Real Madrid 2-1 Inter",
+  "logo": "",
+  "group": "Adel",
+  "language": "",
+  "quality": "",
+  "url": "https://s3.ir-thr-at1.arvanstorage.ir/site-videos/Hossein/inter-real.mp4",
+  "status": "ok"
+ },
+ {
+  "id": "custom-5",
+  "name": "Adel · Spiel komplett Spanien–Argentinien",
+  "label": "Adel · Spiel komplett Spanien–Argentinien",
+  "logo": "",
+  "group": "Adel",
+  "language": "",
+  "quality": "",
+  "url": "https://s3.ir-thr-at1.arvanstorage.ir/site-videos/Hossein/%E2%80%8Cspa%20arg.mp4",
+  "status": "ok"
+ },
+ {
+  "id": "custom-6",
+  "name": "Adel · Highlights Spanien 1-0 Argentinien (WM-Finale)",
+  "label": "Adel · Highlights Spanien 1-0 Argentinien (WM-Finale)",
+  "logo": "",
+  "group": "Adel",
+  "language": "",
+  "quality": "",
+  "url": "https://s3.ir-thr-at1.arvanstorage.ir/site-videos/Hossein/Spain-Argentina%20with%20cup%20new.mp4",
+  "status": "ok"
+ },
+ {
+  "id": "custom-7",
+  "name": "Adel · Spiel komplett England–Argentinien",
+  "label": "Adel · Spiel komplett England–Argentinien",
+  "logo": "",
+  "group": "Adel",
+  "language": "",
+  "quality": "",
+  "url": "https://s3.ir-thr-at1.arvanstorage.ir/site-videos/Hossein/arg%20eng%20full.mp4",
+  "status": "ok"
+ },
+ {
   "id": "GolkhaneTv.ir",
   "name": "Golkhane",
   "label": "Golkhane | شبکه گلخانه",
@@ -30,7 +85,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://live-aburayhan1113.telewebion.net/na/golkhane/live/720p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -43,7 +97,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live.presstv.co.uk/hls/ifilmfa_4_482/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -56,7 +109,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://live-aburayhan1110.telewebion.net/ek/amouzesh/live/576p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -69,7 +121,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live-aburayhan1110.telewebion.net/ek/mostanad/live/1080p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -82,7 +133,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live-aburayhan1111.telewebion.net/ek/namayesh/live/1080p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -95,7 +145,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live-aburayhan1104.telewebion.net/ek/nasim/live/1080p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -108,7 +157,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live-aburayhan1112.telewebion.net/ek/ofogh/live/1080p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -121,7 +169,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live-aburayhan1107.telewebion.net/ek/omid/live/1080p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -134,7 +181,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live-aburayhan1107.telewebion.net/ek/pooya/live/1080p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -147,7 +193,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live-aburayhan1108.telewebion.net/ek/quran/live/1080p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -160,7 +205,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://live-aburayhan1101.telewebion.net/ek/salamat/live/576p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -173,7 +217,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live-aburayhan1102.telewebion.net/ek/hdtest/live/1080p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -186,7 +229,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live-aburayhan1111.telewebion.net/ek/tv1/live/1080p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -199,7 +241,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live-aburayhan1107.telewebion.net/na/tv1plus/live/1080p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -212,7 +253,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live-aburayhan1104.telewebion.net/ek/tv2/live/1080p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -225,7 +265,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://live-aburayhan1107.telewebion.net/ek/tv4/live/576p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -238,7 +277,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live-aburayhan1103.telewebion.net/ek/tehran/live/1080p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -251,7 +289,6 @@
   "language": "fas",
   "quality": "4K",
   "url": "https://live-aburayhan1105.telewebion.net/ek/faratar/live/2160p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -264,7 +301,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live-aburayhan1106.telewebion.net/ek/irinn/live/1080p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -277,7 +313,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live-aburayhan1105.telewebion.net/ek/irinn2/live/1080p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -290,7 +325,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://live-aburayhan1102.telewebion.net/na/iribu/live/720p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -303,7 +337,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://live-aburayhan1109.telewebion.net/ek/abadan/live/576p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -316,7 +349,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://live-aburayhan1104.telewebion.net/ek/aflak/live/576p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -329,7 +361,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live-aburayhan1105.telewebion.net/ek/aftab/live/1080p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "http-404"
  },
@@ -342,7 +373,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live-aburayhan1104.telewebion.net/ek/alborz/live/1080p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -355,7 +385,6 @@
   "language": "fas;kmz;kur",
   "quality": "SD",
   "url": "https://live-aburayhan1105.telewebion.net/ek/atrak/live/576p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -368,7 +397,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live-aburayhan1108.telewebion.net/ek/baran/live/1080p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -381,7 +409,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://live-aburayhan1103.telewebion.net/ek/bushehr/live/576p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -394,7 +421,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live-aburayhan1102.telewebion.net/ek/dena/live/1080p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -407,7 +433,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live-aburayhan1103.telewebion.net/ek/eshragh/live/1080p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -420,7 +445,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live-aburayhan1107.telewebion.net/ek/fars/live/1080p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -433,7 +457,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://live-aburayhan1103.telewebion.net/ek/sina/live/576p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -446,7 +469,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live-aburayhan1109.telewebion.net/ek/hamoon/live/1080p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -459,7 +481,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://live-aburayhan1101.telewebion.net/ek/ilam/live/576p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -472,7 +493,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live-aburayhan1106.telewebion.net/ek/esfahan/live/1080p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -485,7 +505,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://live-aburayhan1101.telewebion.net/ek/jahanbin/live/576p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -498,7 +517,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live-aburayhan1110.telewebion.net/ek/kerman/live/1080p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -511,7 +529,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://live-aburayhan1112.telewebion.net/ek/khalijefars/live/576p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -524,7 +541,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live-aburayhan1101.telewebion.net/ek/khavaran/live/1080p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -537,7 +553,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live-aburayhan1102.telewebion.net/ek/khorasanrazavi/live/1080p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -550,7 +565,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://live-aburayhan1113.telewebion.net/ek/khoozestan/live/576p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -563,7 +577,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://live-aburayhan1109.telewebion.net/ek/kish/live/576p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -576,7 +589,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live-aburayhan1111.telewebion.net/ek/kordestan/live/1080p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -589,7 +601,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live-aburayhan1108.telewebion.net/ek/mahabad/live/1080p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -602,7 +613,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live-aburayhan1111.telewebion.net/na/makran/live/1080p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -615,7 +625,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://live-aburayhan1113.telewebion.net/ek/noor/live/576p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -628,7 +637,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://live-aburayhan1104.telewebion.net/ek/qazvin/live/576p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -641,7 +649,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://live-aburayhan1113.telewebion.net/ek/sabalan/live/576p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -654,7 +661,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://live-aburayhan1111.telewebion.net/ek/sabz/live/576p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -667,7 +673,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://live-aburayhan1102.telewebion.net/ek/sahand/live/576p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -680,7 +685,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://live-aburayhan1101.telewebion.net/ek/semnan/live/576p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -693,7 +697,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://live-aburayhan1106.telewebion.net/ek/tabarestan/live/576p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -706,7 +709,6 @@
   "language": "fas;aze;tur;kur;fas",
   "quality": "SD",
   "url": "https://live-aburayhan1101.telewebion.net/ek/azarbayjangharbi/live/576p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -719,7 +721,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://live-aburayhan1104.telewebion.net/ek/taban/live/576p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -732,7 +733,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://live-aburayhan1102.telewebion.net/ek/zagros/live/576p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -745,7 +745,6 @@
   "language": "ara",
   "quality": "SD",
   "url": "https://live2.alalam.ir/live/Alalam/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -758,7 +757,6 @@
   "language": "ara",
   "quality": "SD",
   "url": "https://live-aburayhan1104.telewebion.net/ek/kawthar/live/576p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -771,7 +769,6 @@
   "language": "spa",
   "quality": "SD",
   "url": "https://live.presstv.co.uk/hls/hispantv.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -784,7 +781,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://live.presstv.co.uk/hls/ifilm2_4_482/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -797,7 +793,6 @@
   "language": "ara",
   "quality": "SD",
   "url": "https://live.presstv.co.uk/hls/ifilmar_4_482/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -810,7 +805,6 @@
   "language": "eng",
   "quality": "SD",
   "url": "https://live.presstv.co.uk/hls/ifilmen_4_482/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -823,7 +817,6 @@
   "language": "",
   "quality": "",
   "url": "https://live.presstv.ir/hls/presstv_5_482/index.m3u8",
-  "synthetic_id": false,
   "source": "iptv-org",
   "status": "ok"
  },
@@ -836,7 +829,6 @@
   "language": "ara;fas",
   "quality": "HD",
   "url": "https://live-aburayhan1106.telewebion.net/na/palestine/live/720p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -849,7 +841,6 @@
   "language": "eng",
   "quality": "HD",
   "url": "https://live.presstv.co.uk/hls/presstv.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -862,7 +853,6 @@
   "language": "fra",
   "quality": "SD",
   "url": "https://live4.presstv.ir/live/mp4:presstvfr/playlist.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -875,7 +865,6 @@
   "language": "aze",
   "quality": "SD",
   "url": "https://s1-cloud.irib.ir/securelive3/saharazarsd/saharazarsd.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "geo"
  },
@@ -888,7 +877,6 @@
   "language": "bos",
   "quality": "SD",
   "url": "https://s1-cloud.irib.ir/securelive3/saharbalksd/saharbalksd.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "geo"
  },
@@ -901,7 +889,6 @@
   "language": "kur",
   "quality": "SD",
   "url": "https://s1-cloud.irib.ir/securelive3/saharkurdsd/saharkurdsd.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "geo"
  },
@@ -914,7 +901,6 @@
   "language": "urd",
   "quality": "SD",
   "url": "https://s1-cloud.irib.ir/securelive3/saharurdusd/saharurdusd.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -927,7 +913,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://wmtvhls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -940,7 +925,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/mobile_wifi_main_hd_abr_v2.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -953,7 +937,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://livestream.5centscdn.com/channelonehd/0d0dd9d8b4933ea5f0a3a9495707c004.sdp/playlist.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -966,7 +949,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://choghls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -979,7 +961,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://rdejhls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -992,7 +973,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://media.streambrothers.com:1936/8276/8276/playlist.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1005,7 +985,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://gatvhls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1018,7 +997,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1031,7 +1009,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://hls.irannrtv.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1044,7 +1021,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://streaminglive.co.il:3730/live/raniamranilive.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1057,7 +1033,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://iranaryai.pahlavimonarchy.online/iranearyaeesd/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "http-0"
  },
@@ -1070,7 +1045,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://iranefardalive.com/stream/live.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "segment-404"
  },
@@ -1083,7 +1057,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://irwhls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1096,7 +1069,6 @@
   "language": "fas",
   "quality": "",
   "url": "https://tv.irna.ir/live/stream/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1109,7 +1081,6 @@
   "language": "heb",
   "quality": "SD",
   "url": "https://live.pars-israel.com/tmp_hls/iptv/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1122,7 +1093,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://kjhls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1135,7 +1105,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://mellihls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1148,7 +1117,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://iptv.mihantv.com/mihantv/playlist.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1161,7 +1129,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://livestream.5centscdn.com/nahadeazadi/14a66ff6dca989d3a2eb0dc8cdb50892.sdp/chunks.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1174,7 +1141,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://tv.iraniancongress.com/stream/tv.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1187,7 +1153,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://livestream.5centscdn.com/parstvtvweb1/e8ac8f595b3003ea3d22178c05c67593.sdp/playlist.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1200,7 +1165,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://pleonhls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1213,7 +1177,6 @@
   "language": "fas",
   "quality": "",
   "url": "https://pulsehls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1226,7 +1189,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://rferl-ingest.akamaized.net/hls/live/2121768/tvmc01/playlist.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1239,7 +1201,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://setarehhls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1252,7 +1213,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://hlspackager.akamaized.net/live/DB/ALTERNATIVE_SHORAI_TV/HLS/ALTERNATIVE_SHORAI_TV.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1265,7 +1225,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://simaytv.akamaized.net/hls/live/a162cb6c-3be1-4e57-87dc-a75a50b3b8d9/simayhls/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1278,7 +1237,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://live2.snn.ir/hls/snn2_hd720/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "http-404"
  },
@@ -1291,7 +1249,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1304,7 +1261,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://zedhls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1317,7 +1273,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://fighthls.persiana.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1330,7 +1285,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live-aburayhan1105.telewebion.net/ek/sport1/live/108050p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1343,7 +1297,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live-aburayhan1112.telewebion.net/ek/sport2/live/108050p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1356,7 +1309,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live-aburayhan1113.telewebion.net/ek/sport3/live/108050p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1369,7 +1321,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://hls.247box.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1382,7 +1333,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://familyhls.4utv.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1395,7 +1345,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://hls.4utv.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1408,7 +1357,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://afrafhls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1421,7 +1369,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://araxhls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1434,7 +1381,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://familyhls.avatv.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1447,7 +1393,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://avaserieshls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1460,7 +1405,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://bravoohls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1473,7 +1417,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://cafefhls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1486,7 +1429,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://clshls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1499,7 +1441,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://fxtvhls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1512,7 +1453,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://moviethls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1525,7 +1465,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://gcinemahls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1538,7 +1477,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://icchls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1551,7 +1489,6 @@
   "language": "fas",
   "quality": "",
   "url": "https://iran613hls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1564,7 +1501,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://hls.maahtv.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1577,7 +1513,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1590,7 +1525,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://metafilmhls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1603,7 +1537,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://chinahls.persiana.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1616,7 +1549,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://cinehls.persiana.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1629,7 +1561,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://comedyhls.persiana.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1642,7 +1573,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://familyhls.persiana.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1655,7 +1585,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://irhls.persiana.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1668,7 +1597,6 @@
   "language": "fas;kor",
   "quality": "SD",
   "url": "https://korhls.persiana.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1681,7 +1609,6 @@
   "language": "fas;spa",
   "quality": "SD",
   "url": "https://latinohls.persiana.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1694,7 +1621,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://phd2hls.persiana.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1707,7 +1633,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://euhls.persiana.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1720,7 +1645,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://onehls.persiana.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1733,7 +1657,6 @@
   "language": "fas;tur",
   "quality": "SD",
   "url": "https://turkhls.persiana.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1746,7 +1669,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://slonehls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1759,7 +1681,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://sltwohls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1772,7 +1693,6 @@
   "language": "",
   "quality": "",
   "url": "https://ncdn.telewebion.ir/nava/live/playlist.m3u8",
-  "synthetic_id": false,
   "source": "iptv-org",
   "status": "http-200"
  },
@@ -1785,7 +1705,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://arkhls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1798,7 +1717,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://ronhls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1811,7 +1729,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1824,7 +1741,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://homeplushls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1837,7 +1753,6 @@
   "language": "fas",
   "quality": "",
   "url": "https://mediamtx.elitelatrade.com/live/stream/main_stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1850,7 +1765,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://itnhls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1863,7 +1777,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://radio.khatereh.online:5443/LiveApp/streams/jWF37YKCgZ0FSYTR863687974499636.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1876,7 +1789,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://mtchls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1889,7 +1801,6 @@
   "language": "fas",
   "quality": "",
   "url": "https://4afghls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1902,7 +1813,6 @@
   "language": "fas",
   "quality": "",
   "url": "https://nethls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1915,7 +1825,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://stream.novin.live/hls/playlist.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1928,7 +1837,6 @@
   "language": "fas;eng",
   "quality": "SD",
   "url": "https://oitnhls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1941,7 +1849,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://hls.oxir.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1954,7 +1861,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://twohls.persiana.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1967,7 +1873,6 @@
   "language": "fas",
   "quality": "",
   "url": "http://porchooneh.com/hls/live1/stream1.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1980,7 +1885,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://hls.ravitv.com/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -1993,7 +1897,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://arvhls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2006,7 +1909,6 @@
   "language": "fas",
   "quality": "",
   "url": "https://iptv.tapesh.tv/tapeshiran/playlist.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "http-404"
  },
@@ -2019,7 +1921,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://iptv.tapesh.tv/tapesh/playlist.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2032,7 +1933,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2045,7 +1945,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://live.yourtime.tv/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2058,7 +1957,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://toonixhls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2071,7 +1969,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://junhls.persiana.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2084,7 +1981,6 @@
   "language": "",
   "quality": "",
   "url": "https://ncdn.telewebion.ir/javaneh/live/playlist.m3u8",
-  "synthetic_id": false,
   "source": "iptv-org",
   "status": "http-200"
  },
@@ -2097,7 +1993,6 @@
   "language": "kur;fas",
   "quality": "SD",
   "url": "https://4kuhls.persiana.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2110,7 +2005,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://itthls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2123,7 +2017,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2136,7 +2029,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://hls.avang.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2149,7 +2041,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://streamer1.connectto.com/HIGHVISION_WEB_1205/playlist.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2162,7 +2053,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://hls.navahang.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2175,7 +2065,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://sonhls.persiana.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2188,7 +2077,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://musichls.persiana.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2201,7 +2089,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://noshls.persiana.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2214,7 +2101,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://raphls.persiana.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2227,7 +2113,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://setmixhls.persiana.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2240,7 +2125,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://pmchls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2253,7 +2137,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://pmcrohls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2266,7 +2149,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://rjtvhls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2279,7 +2161,6 @@
   "language": "fas",
   "quality": "",
   "url": "https://hls.sunmusic.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2292,7 +2173,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://t2hls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2305,7 +2185,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://cafetradehls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2318,7 +2197,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://eplhls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2331,7 +2209,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2344,7 +2221,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://scihls.persiana.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2357,7 +2233,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://podhls.persiana.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2370,7 +2245,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://ptravelhls.persiana.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2383,7 +2257,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://voyhls.persiana.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2396,7 +2269,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://hls.tmtv.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2409,7 +2281,6 @@
   "language": "ara",
   "quality": "SD",
   "url": "https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2422,7 +2293,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://iptv.almahditv.com/almahditv/playlist.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2435,7 +2305,6 @@
   "language": "ara",
   "quality": "SD",
   "url": "https://live.asil.tv/asiltv/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2448,7 +2317,6 @@
   "language": "ara",
   "quality": "FHD",
   "url": "https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2461,7 +2329,6 @@
   "language": "ara;fas",
   "quality": "HD",
   "url": "https://live-aburayhan1111.telewebion.net/na/habib/live/720p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2474,7 +2341,6 @@
   "language": "ara",
   "quality": "FHD",
   "url": "https://bucharest.zeuscdn724.com/lb0/H1/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2487,7 +2353,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live.imamhossaintv.com/live/ih1.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2500,7 +2365,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://live.imamhossaintv.com/live/ih6.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2513,7 +2377,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://live-aburayhan1101.telewebion.net/na/labbayk/live/720p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2526,7 +2389,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2539,7 +2401,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2552,7 +2413,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://hls.keshishhamid.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2565,7 +2425,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://tgn.bozztv.com/cus01/ucur1/Payvand/playlist.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2578,7 +2437,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://avr.host247.net/live/rasoulallahtv/playlist.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2591,7 +2449,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://live-aburayhan1111.telewebion.net/ek/razavi/live/720p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2604,7 +2461,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://ncdn.telewebion.ir/tekyemadahi/live/playlist.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "http-404"
  },
@@ -2617,7 +2473,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://live-aburayhan1109.telewebion.net/ek/velayat/live/720p/index.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2630,7 +2485,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://nl.livekadeh.com/hls2/velayattv.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2643,7 +2497,6 @@
   "language": "fas;heb",
   "quality": "SD",
   "url": "https://derakhtzhls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2656,7 +2509,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://icnet1hls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2669,7 +2521,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://icnet2hls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2682,7 +2533,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://ic3hls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2695,7 +2545,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://player.kalemeh.tv/live/ngrp:kalemeh_all/playlist.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2708,7 +2557,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "https://cdn3.wowza.com/5/aVJETlF0UFdmYTFu/LWPP/ngrp:persia.stream_all/playlist.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2721,7 +2569,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://5ad386ff92705.streamlock.net/live_transcodermh/ngrp:mohabat.stream_all/playlist.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2734,7 +2581,6 @@
   "language": "fas;eng",
   "quality": "HD",
   "url": "https://livestream.5centscdn.com/pwocchurchweb1/cebac1e921182acff008ab1222f0c916.sdp/playlist.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2747,7 +2593,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://hls.rahenejat.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "http-404"
  },
@@ -2760,7 +2605,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://sat7phls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2773,7 +2617,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://sh7hls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2786,7 +2629,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://hls.nejat.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2799,7 +2641,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://hls.erfanhalgheh.live/hls/stream.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2812,7 +2653,6 @@
   "language": "fas",
   "quality": "FHD",
   "url": "https://media.parvizshahbazi.com/ganjehozour/Main_tv/playlist.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2825,7 +2665,6 @@
   "language": "fas",
   "quality": "HD",
   "url": "http://iran620.com:1935/live/IranJewishTv/playlist.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
  },
@@ -2838,7 +2677,6 @@
   "language": "far",
   "quality": "FHD",
   "url": "https://avr.host247.net/live/WiseHumanTv/playlist.m3u8",
-  "synthetic_id": false,
   "source": "shayanline",
   "status": "http-404"
  },
@@ -2851,7 +2689,6 @@
   "language": "",
   "quality": "",
   "url": "https://ncdn.telewebion.ir/ara/live/playlist.m3u8",
-  "synthetic_id": false,
   "source": "iptv-org",
   "status": "http-200"
  },
@@ -2864,7 +2701,6 @@
   "language": "",
   "quality": "",
   "url": "https://ncdn.telewebion.ir/baenergy/live/playlist.m3u8",
-  "synthetic_id": false,
   "source": "iptv-org",
   "status": "http-200"
  },
@@ -2877,7 +2713,6 @@
   "language": "",
   "quality": "",
   "url": "https://northtelecom.b-cdn.net/hodhodtv.m3u8",
-  "synthetic_id": false,
   "source": "iptv-org",
   "status": "geo"
  },
@@ -2890,7 +2725,6 @@
   "language": "",
   "quality": "",
   "url": "http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8",
-  "synthetic_id": false,
   "source": "iptv-org",
   "status": "http-0"
  },
@@ -2903,7 +2737,6 @@
   "language": "",
   "quality": "",
   "url": "https://ncdn.telewebion.ir/nesfejahan/live/playlist.m3u8",
-  "synthetic_id": true,
   "source": "iptv-org",
   "status": "geo"
  },
@@ -2916,7 +2749,6 @@
   "language": "",
   "quality": "",
   "url": "https://ncdn.telewebion.ir/sarbedaran/live/playlist.m3u8",
-  "synthetic_id": false,
   "source": "iptv-org",
   "status": "http-200"
  },
@@ -2929,7 +2761,6 @@
   "language": "",
   "quality": "",
   "url": "https://ncdn.telewebion.ir/sepehr/live/playlist.m3u8",
-  "synthetic_id": false,
   "source": "iptv-org",
   "status": "http-200"
  },
@@ -2942,7 +2773,6 @@
   "language": "",
   "quality": "",
   "url": "https://ncdn.telewebion.ir/tv1plus/live/playlist.m3u8",
-  "synthetic_id": true,
   "source": "iptv-org",
   "status": "geo"
  }

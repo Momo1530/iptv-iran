@@ -43,9 +43,6 @@ jobs:
       - name: Playlists bauen
         run: python scripts/build.py
 
-      - name: Film- & Serienlisten bauen
-        run: cd scripts && python filmy.py
-
       - name: Ergebnis validieren
         run: python scripts/validate.py
 

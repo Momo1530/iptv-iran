@@ -23,6 +23,28 @@
  },
  {
   "id": "adel-1",
+  "name": "Highlights: بارسلونا ۱-۲ رئال مادرید · (Adel)",
+  "label": "Highlights: بارسلونا ۱-۲ رئال مادرید · (Adel)",
+  "logo": "",
+  "group": "Adel",
+  "language": "fa",
+  "quality": "",
+  "url": "https://s3.ir-thr-at1.arvanstorage.ir/site-videos/Hossein/el%20classico%20ful.mp4",
+  "status": "ok"
+ },
+ {
+  "id": "adel-2",
+  "name": "Highlights: پاری‌سن‌ژرمن ۴-۲ بارسلونا · (Adel)",
+  "label": "Highlights: پاری‌سن‌ژرمن ۴-۲ بارسلونا · (Adel)",
+  "logo": "",
+  "group": "Adel",
+  "language": "fa",
+  "quality": "",
+  "url": "https://s3.ir-thr-at1.arvanstorage.ir/site-videos/Hossein/full%20HL.mp4",
+  "status": "ok"
+ },
+ {
+  "id": "adel-3",
   "name": "Highlights: لیورپول ۰-۳ منچسترسیتی · (Adel)",
   "label": "Highlights: لیورپول ۰-۳ منچسترسیتی · (Adel)",
   "logo": "",
@@ -33,28 +55,6 @@
   "status": "ok"
  },
  {
-  "id": "adel-2",
-  "name": "Highlights: رئال مادرید ۲-۱ اینتر · (Adel)",
-  "label": "Highlights: رئال مادرید ۲-۱ اینتر · (Adel)",
-  "logo": "",
-  "group": "Adel",
-  "language": "fa",
-  "quality": "",
-  "url": "https://s3.ir-thr-at1.arvanstorage.ir/site-videos/Hossein/inter-real.mp4",
-  "status": "ok"
- },
- {
-  "id": "adel-3",
-  "name": "Spiel komplett: اسپانیا و آرژانتین (Adel)",
-  "label": "Spiel komplett: اسپانیا و آرژانتین (Adel)",
-  "logo": "",
-  "group": "Adel",
-  "language": "fa",
-  "quality": "",
-  "url": "https://s3.ir-thr-at1.arvanstorage.ir/site-videos/Hossein/%E2%80%8Cspa%20arg.mp4",
-  "status": "ok"
- },
- {
   "id": "GolkhaneTv.ir",
   "name": "Golkhane",
   "label": "Golkhane | شبکه گلخانه",
@@ -62,7 +62,7 @@
   "group": "IRIB National Networks",
   "language": "fas",
   "quality": "HD",
-  "url": "https://live-aburayhan1106.telewebion.net/na/golkhane/live/720p/index.m3u8",
+  "url": "https://live-aburayhan1104.telewebion.net/na/golkhane/live/720p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -88,7 +88,7 @@
   "group": "IRIB National Networks",
   "language": "fas",
   "quality": "SD",
-  "url": "https://live-aburayhan1104.telewebion.net/ek/amouzesh/live/576p/index.m3u8",
+  "url": "https://live-aburayhan1106.telewebion.net/ek/amouzesh/live/576p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -101,7 +101,7 @@
   "group": "IRIB National Networks",
   "language": "fas",
   "quality": "FHD",
-  "url": "https://live-aburayhan1103.telewebion.net/ek/mostanad/live/1080p/index.m3u8",
+  "url": "https://live-aburayhan1109.telewebion.net/ek/mostanad/live/1080p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -114,7 +114,7 @@
   "group": "IRIB National Networks",
   "language": "fas",
   "quality": "FHD",
-  "url": "https://live-aburayhan1111.telewebion.net/ek/namayesh/live/1080p/index.m3u8",
+  "url": "https://live-aburayhan1102.telewebion.net/ek/namayesh/live/1080p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -127,7 +127,7 @@
   "group": "IRIB National Networks",
   "language": "fas",
   "quality": "FHD",
-  "url": "https://live-aburayhan1108.telewebion.net/ek/nasim/live/1080p/index.m3u8",
+  "url": "https://live-aburayhan1110.telewebion.net/ek/nasim/live/1080p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -140,7 +140,7 @@
   "group": "IRIB National Networks",
   "language": "fas",
   "quality": "FHD",
-  "url": "https://live-aburayhan1105.telewebion.net/ek/ofogh/live/1080p/index.m3u8",
+  "url": "https://live-aburayhan1101.telewebion.net/ek/ofogh/live/1080p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -153,7 +153,7 @@
   "group": "IRIB National Networks",
   "language": "fas",
   "quality": "FHD",
-  "url": "https://live-aburayhan1110.telewebion.net/ek/omid/live/1080p/index.m3u8",
+  "url": "https://live-aburayhan1104.telewebion.net/ek/omid/live/1080p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -166,7 +166,7 @@
   "group": "IRIB National Networks",
   "language": "fas",
   "quality": "FHD",
-  "url": "https://live-aburayhan1105.telewebion.net/ek/pooya/live/1080p/index.m3u8",
+  "url": "https://live-aburayhan1113.telewebion.net/ek/pooya/live/1080p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -179,7 +179,7 @@
   "group": "IRIB National Networks",
   "language": "fas",
   "quality": "FHD",
-  "url": "https://live-aburayhan1104.telewebion.net/ek/quran/live/1080p/index.m3u8",
+  "url": "https://live-aburayhan1106.telewebion.net/ek/quran/live/1080p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -192,7 +192,7 @@
   "group": "IRIB National Networks",
   "language": "fas",
   "quality": "SD",
-  "url": "https://live-aburayhan1104.telewebion.net/ek/salamat/live/576p/index.m3u8",
+  "url": "https://live-aburayhan1101.telewebion.net/ek/salamat/live/576p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -205,7 +205,7 @@
   "group": "IRIB National Networks",
   "language": "fas",
   "quality": "FHD",
-  "url": "https://live-aburayhan1103.telewebion.net/ek/hdtest/live/1080p/index.m3u8",
+  "url": "https://live-aburayhan1108.telewebion.net/ek/hdtest/live/1080p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -218,7 +218,7 @@
   "group": "IRIB National Networks",
   "language": "fas",
   "quality": "FHD",
-  "url": "https://live-aburayhan1105.telewebion.net/ek/tv1/live/1080p/index.m3u8",
+  "url": "https://live-aburayhan1104.telewebion.net/ek/tv1/live/1080p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -231,10 +231,10 @@
   "group": "IRIB National Networks",
   "language": "fas",
   "quality": "FHD",
-  "url": "https://live-aburayhan1103.telewebion.net/na/tv1plus/live/1080p/index.m3u8",
+  "url": "https://live-aburayhan1109.telewebion.net/ek/tv1plus/live/1080p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
-  "status": "http-404"
+  "status": "ok"
  },
  {
   "id": "IRIB2.ir",
@@ -244,7 +244,7 @@
   "group": "IRIB National Networks",
   "language": "fas",
   "quality": "FHD",
-  "url": "https://live-aburayhan1113.telewebion.net/ek/tv2/live/1080p/index.m3u8",
+  "url": "https://live-aburayhan1101.telewebion.net/ek/tv2/live/1080p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -257,7 +257,7 @@
   "group": "IRIB National Networks",
   "language": "fas",
   "quality": "SD",
-  "url": "https://live-aburayhan1112.telewebion.net/ek/tv4/live/576p/index.m3u8",
+  "url": "https://live-aburayhan1108.telewebion.net/ek/tv4/live/576p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -270,7 +270,7 @@
   "group": "IRIB National Networks",
   "language": "fas",
   "quality": "FHD",
-  "url": "https://live-aburayhan1109.telewebion.net/ek/tehran/live/1080p/index.m3u8",
+  "url": "https://live-aburayhan1102.telewebion.net/ek/tehran/live/1080p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -283,7 +283,7 @@
   "group": "IRIB National Networks",
   "language": "fas",
   "quality": "4K",
-  "url": "https://live-aburayhan1101.telewebion.net/ek/faratar/live/2160p/index.m3u8",
+  "url": "https://live-aburayhan1102.telewebion.net/ek/faratar/live/1440p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -322,7 +322,7 @@
   "group": "IRIB National Networks",
   "language": "fas",
   "quality": "HD",
-  "url": "https://live-aburayhan1106.telewebion.net/na/iribu/live/720p/index.m3u8",
+  "url": "https://live-aburayhan1111.telewebion.net/na/iribu/live/720p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -348,7 +348,7 @@
   "group": "IRIB Provincial Networks",
   "language": "fas",
   "quality": "SD",
-  "url": "https://live-aburayhan1111.telewebion.net/ek/aflak/live/576p/index.m3u8",
+  "url": "https://live-aburayhan1112.telewebion.net/ek/aflak/live/576p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -374,9 +374,9 @@
   "group": "IRIB Provincial Networks",
   "language": "fas",
   "quality": "FHD",
-  "url": "https://live-aburayhan1106.telewebion.ir/ek/alborz/live/1080p/index.m3u8",
+  "url": "https://live-aburayhan1103.telewebion.net/ek/alborz/live/1080p/index.m3u8",
   "synthetic_id": false,
-  "source": "shayanline-all",
+  "source": "shayanline",
   "status": "ok"
  },
  {
@@ -387,7 +387,7 @@
   "group": "IRIB Provincial Networks",
   "language": "fas;kmz;kur",
   "quality": "SD",
-  "url": "https://live-aburayhan1108.telewebion.net/ek/atrak/live/576p/index.m3u8",
+  "url": "https://live-aburayhan1104.telewebion.net/ek/atrak/live/576p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -426,7 +426,7 @@
   "group": "IRIB Provincial Networks",
   "language": "fas",
   "quality": "FHD",
-  "url": "https://live-aburayhan1106.telewebion.net/ek/dena/live/1080p/index.m3u8",
+  "url": "https://live-aburayhan1110.telewebion.net/ek/dena/live/1080p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -451,10 +451,10 @@
   "logo": "https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/FarsTV.ir.png",
   "group": "IRIB Provincial Networks",
   "language": "fas",
-  "quality": "SD",
-  "url": "https://live-aburayhan1108.telewebion.net/ek/fars/live/240p/index.m3u8",
+  "quality": "FHD",
+  "url": "https://live-aburayhan1103.telewebion.net/ek/fars/live/1080p/index.m3u8",
   "synthetic_id": false,
-  "source": "shayanline-all",
+  "source": "shayanline",
   "status": "ok"
  },
  {
@@ -465,7 +465,7 @@
   "group": "IRIB Provincial Networks",
   "language": "fas",
   "quality": "SD",
-  "url": "https://live-aburayhan1111.telewebion.net/ek/sina/live/576p/index.m3u8",
+  "url": "https://live-aburayhan1109.telewebion.net/ek/sina/live/576p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -478,7 +478,7 @@
   "group": "IRIB Provincial Networks",
   "language": "fas",
   "quality": "FHD",
-  "url": "https://live-aburayhan1109.telewebion.net/ek/hamoon/live/1080p/index.m3u8",
+  "url": "https://live-aburayhan1113.telewebion.net/ek/hamoon/live/1080p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -491,7 +491,7 @@
   "group": "IRIB Provincial Networks",
   "language": "fas",
   "quality": "SD",
-  "url": "https://live-aburayhan1111.telewebion.net/ek/ilam/live/576p/index.m3u8",
+  "url": "https://live-aburayhan1104.telewebion.net/ek/ilam/live/576p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -504,7 +504,7 @@
   "group": "IRIB Provincial Networks",
   "language": "fas",
   "quality": "FHD",
-  "url": "https://live-aburayhan1108.telewebion.net/ek/esfahan/live/1080p/index.m3u8",
+  "url": "https://live-aburayhan1104.telewebion.net/ek/esfahan/live/1080p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -530,7 +530,7 @@
   "group": "IRIB Provincial Networks",
   "language": "fas",
   "quality": "FHD",
-  "url": "https://live-aburayhan1112.telewebion.net/ek/kerman/live/1080p/index.m3u8",
+  "url": "https://live-aburayhan1110.telewebion.net/ek/kerman/live/1080p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -556,7 +556,7 @@
   "group": "IRIB Provincial Networks",
   "language": "fas",
   "quality": "FHD",
-  "url": "https://live-aburayhan1112.telewebion.net/ek/khavaran/live/1080p/index.m3u8",
+  "url": "https://live-aburayhan1102.telewebion.net/ek/khavaran/live/1080p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -569,7 +569,7 @@
   "group": "IRIB Provincial Networks",
   "language": "fas",
   "quality": "FHD",
-  "url": "https://live-aburayhan1111.telewebion.net/ek/khorasanrazavi/live/1080p/index.m3u8",
+  "url": "https://live-aburayhan1107.telewebion.net/ek/khorasanrazavi/live/1080p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -582,7 +582,7 @@
   "group": "IRIB Provincial Networks",
   "language": "fas",
   "quality": "SD",
-  "url": "https://live-aburayhan1102.telewebion.net/ek/khoozestan/live/576p/index.m3u8",
+  "url": "https://live-aburayhan1110.telewebion.net/ek/khoozestan/live/576p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -595,7 +595,7 @@
   "group": "IRIB Provincial Networks",
   "language": "fas",
   "quality": "SD",
-  "url": "https://live-aburayhan1104.telewebion.net/ek/kish/live/576p/index.m3u8",
+  "url": "https://live-aburayhan1106.telewebion.net/ek/kish/live/576p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -608,7 +608,7 @@
   "group": "IRIB Provincial Networks",
   "language": "fas",
   "quality": "FHD",
-  "url": "https://live-aburayhan1110.telewebion.net/ek/kordestan/live/1080p/index.m3u8",
+  "url": "https://live-aburayhan1102.telewebion.net/ek/kordestan/live/1080p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -621,7 +621,7 @@
   "group": "IRIB Provincial Networks",
   "language": "fas",
   "quality": "FHD",
-  "url": "https://live-aburayhan1106.telewebion.net/ek/mahabad/live/1080p/index.m3u8",
+  "url": "https://live-aburayhan1110.telewebion.net/ek/mahabad/live/1080p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -646,10 +646,10 @@
   "logo": "https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/NoorTV.ir.png",
   "group": "IRIB Provincial Networks",
   "language": "fas",
-  "quality": "SD",
-  "url": "https://live-aburayhan1113.telewebion.net/ek/noor/live/240p/index.m3u8",
+  "quality": "FHD",
+  "url": "https://live-aburayhan1101.telewebion.net/ek/noor/live/1080p/index.m3u8",
   "synthetic_id": false,
-  "source": "shayanline-all",
+  "source": "shayanline",
   "status": "ok"
  },
  {
@@ -686,7 +686,7 @@
   "group": "IRIB Provincial Networks",
   "language": "fas",
   "quality": "SD",
-  "url": "https://live-aburayhan1113.telewebion.net/ek/sabz/live/576p/index.m3u8",
+  "url": "https://live-aburayhan1105.telewebion.net/ek/sabz/live/576p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -738,7 +738,7 @@
   "group": "IRIB Provincial Networks",
   "language": "fas;aze;tur;kur;fas",
   "quality": "SD",
-  "url": "https://live-aburayhan1105.telewebion.net/ek/azarbayjangharbi/live/576p/index.m3u8",
+  "url": "https://live-aburayhan1113.telewebion.net/ek/azarbayjangharbi/live/576p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -764,20 +764,7 @@
   "group": "IRIB Provincial Networks",
   "language": "fas",
   "quality": "SD",
-  "url": "https://live-aburayhan1113.telewebion.net/ek/zagros/live/576p/index.m3u8",
-  "synthetic_id": false,
-  "source": "shayanline",
-  "status": "ok"
- },
- {
-  "id": "AlAlam.ir",
-  "name": "Al Alam",
-  "label": "Al Alam | العالم",
-  "logo": "https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/AlAlam.ir.png",
-  "group": "IRIB International Services",
-  "language": "ara",
-  "quality": "SD",
-  "url": "https://live2.alalam.ir/live/Alalam/index.m3u8",
+  "url": "https://live-aburayhan1106.telewebion.net/ek/zagros/live/576p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -790,7 +777,7 @@
   "group": "IRIB International Services",
   "language": "ara",
   "quality": "SD",
-  "url": "https://live-aburayhan1102.telewebion.net/ek/kawthar/live/576p/index.m3u8",
+  "url": "https://live-aburayhan1109.telewebion.net/ek/kawthar/live/576p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -868,10 +855,10 @@
   "group": "IRIB International Services",
   "language": "ara;fas",
   "quality": "HD",
-  "url": "https://live-aburayhan1101.telewebion.net/na/palestine/live/720p/index.m3u8",
+  "url": "https://live-aburayhan1109.telewebion.net/na/palestine/live/720p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
-  "status": "segment-404"
+  "status": "ok"
  },
  {
   "id": "PressTV.ir",
@@ -902,7 +889,7 @@
  {
   "id": "SaharAzeri.ir",
   "name": "Sahar TV Azeri",
-  "label": "Sahar TV Azeri | سحر آذری [IR]",
+  "label": "Sahar TV Azeri | سحر آذری",
   "logo": "https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/SaharAzeri.ir.png",
   "group": "IRIB International Services",
   "language": "aze",
@@ -910,12 +897,12 @@
   "url": "https://s1-cloud.irib.ir/securelive3/saharazarsd/saharazarsd.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
-  "status": "geo"
+  "status": "http-0"
  },
  {
   "id": "SaharBalkan.ir",
   "name": "Sahar TV Balkan",
-  "label": "Sahar TV Balkan | سحر بالکان [IR]",
+  "label": "Sahar TV Balkan | سحر بالکان",
   "logo": "https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/SaharBalkan.ir.png",
   "group": "IRIB International Services",
   "language": "bos",
@@ -923,12 +910,12 @@
   "url": "https://s1-cloud.irib.ir/securelive3/saharbalksd/saharbalksd.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
-  "status": "geo"
+  "status": "http-0"
  },
  {
   "id": "SaharKurdi.ir",
   "name": "Sahar TV Kurdish",
-  "label": "Sahar TV Kurdish | سحر کردی [IR]",
+  "label": "Sahar TV Kurdish | سحر کردی",
   "logo": "https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/SaharKurdi.ir.png",
   "group": "IRIB International Services",
   "language": "kur",
@@ -936,7 +923,7 @@
   "url": "https://s1-cloud.irib.ir/securelive3/saharkurdsd/saharkurdsd.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
-  "status": "geo"
+  "status": "http-0"
  },
  {
   "id": "SaharUrdu.ir",
@@ -949,7 +936,7 @@
   "url": "https://s1-cloud.irib.ir/securelive3/saharurdusd/saharurdusd.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
-  "status": "ok"
+  "status": "http-0"
  },
  {
   "id": "AzadiTV.ir",
@@ -1027,7 +1014,7 @@
   "url": "https://media.streambrothers.com:1936/8276/8276/playlist.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
-  "status": "ok"
+  "status": "segment-404"
  },
  {
   "id": "GordAfaridTV.us",
@@ -1092,7 +1079,7 @@
   "url": "https://iranaryai.pahlavimonarchy.online/iranearyaeesd/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
-  "status": "http-441"
+  "status": "http-0"
  },
  {
   "id": "IraneFardaTV.uk",
@@ -1303,19 +1290,6 @@
   "status": "ok"
  },
  {
-  "id": "SNNTV.ir",
-  "name": "SNN TV",
-  "label": "SNN TV | اس‌ان‌ان",
-  "logo": "https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/SNNTV.ir.png",
-  "group": "Satellite · News & Current Affairs",
-  "language": "fas",
-  "quality": "SD",
-  "url": "https://live2.snn.ir/hls/snn2_hd720/index.m3u8",
-  "synthetic_id": false,
-  "source": "shayanline",
-  "status": "http-404"
- },
- {
   "id": "VoATVPersian.us",
   "name": "VOA Persian",
   "label": "VOA Persian | صدای آمریکا فارسی",
@@ -1485,19 +1459,6 @@
   "status": "ok"
  },
  {
-  "id": "BravoFarsiTV.ir",
-  "name": "Bravo Farsi TV",
-  "label": "Bravo Farsi TV | براوو فارسی",
-  "logo": "https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/BravoFarsiTV.ir.png",
-  "group": "Satellite · Film & Series",
-  "language": "fas",
-  "quality": "SD",
-  "url": "https://bravoohls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
-  "source": "shayanline",
-  "status": "ok"
- },
- {
   "id": "CafeFilm.ir",
   "name": "Cafe Film",
   "label": "Cafe Film | کافه فیلم",
@@ -1574,19 +1535,6 @@
   "synthetic_id": false,
   "source": "shayanline",
   "status": "http-404"
- },
- {
-  "id": "IranComedy.ir",
-  "name": "Iran Comedy",
-  "label": "Iran Comedy | ایران کمدی",
-  "logo": "https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IranComedy.ir.png",
-  "group": "Satellite · Film & Series",
-  "language": "fas",
-  "quality": "",
-  "url": "https://iran613hls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
-  "source": "shayanline",
-  "status": "ok"
  },
  {
   "id": "MaahTV.my",
@@ -1706,19 +1654,6 @@
   "status": "ok"
  },
  {
-  "id": "PersianaLatino.fr",
-  "name": "Persiana Latino",
-  "label": "Persiana Latino | پرشیانا لاتین",
-  "logo": "https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/PersianaLatino.fr.png",
-  "group": "Satellite · Film & Series",
-  "language": "fas;spa",
-  "quality": "SD",
-  "url": "https://latinohls.persiana.live/hls/stream.m3u8",
-  "synthetic_id": false,
-  "source": "shayanline",
-  "status": "ok"
- },
- {
   "id": "PersianaMedical.fr",
   "name": "Persiana Medical",
   "label": "Persiana Medical | پرشیانا پزشکی",
@@ -1823,19 +1758,6 @@
   "status": "ok"
  },
  {
-  "id": "DatisTV.ir",
-  "name": "Datis TV",
-  "label": "Datis TV | داتیس",
-  "logo": "",
-  "group": "Satellite · General & Variety",
-  "language": "fas",
-  "quality": "HD",
-  "url": "https://ronhls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
-  "source": "shayanline",
-  "status": "ok"
- },
- {
   "id": "GEMPixel.tr",
   "name": "GEM Pixel",
   "label": "GEM Pixel | جم پیکسل",
@@ -1846,7 +1768,7 @@
   "url": "https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
-  "status": "http-525"
+  "status": "http-0"
  },
  {
   "id": "HomePlus.ir",
@@ -1914,19 +1836,6 @@
   "status": "ok"
  },
  {
-  "id": "NavidTV.ir",
-  "name": "Navid TV",
-  "label": "Navid TV | نوید",
-  "logo": "https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/NavidTV.ir.png",
-  "group": "Satellite · General & Variety",
-  "language": "fas",
-  "quality": "",
-  "url": "https://4afghls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
-  "source": "shayanline",
-  "status": "ok"
- },
- {
   "id": "NetTV.us",
   "name": "Net TV",
   "label": "Net TV | نت",
@@ -1974,19 +1883,6 @@
   "language": "fas",
   "quality": "SD",
   "url": "https://hls.oxir.live/hls/stream.m3u8",
-  "synthetic_id": false,
-  "source": "shayanline",
-  "status": "ok"
- },
- {
-  "id": "PersianaReality.fr",
-  "name": "Persiana Reality",
-  "label": "Persiana Reality | پرشیانا ریالیتی",
-  "logo": "https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/PersianaReality.fr.png",
-  "group": "Satellite · General & Variety",
-  "language": "fas",
-  "quality": "HD",
-  "url": "https://twohls.persiana.live/hls/stream.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -2135,19 +2031,6 @@
   "status": "ok"
  },
  {
-  "id": "4Music.fr",
-  "name": "4 Music",
-  "label": "4 Music | فور موزیک",
-  "logo": "https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/4Music.fr.png",
-  "group": "Satellite · Music",
-  "language": "fas",
-  "quality": "HD",
-  "url": "https://itthls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
-  "source": "shayanline",
-  "status": "ok"
- },
- {
   "id": "AFNTV.ir",
   "name": "AFN TV",
   "label": "AFN TV | ای‌اف‌ان",
@@ -2181,7 +2064,7 @@
   "group": "Satellite · Music",
   "language": "fas",
   "quality": "SD",
-  "url": "https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8",
+  "url": "https://streamer1.connectto.com/HIGHVISION_WEB_1205/playlist.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -2330,32 +2213,6 @@
   "status": "ok"
  },
  {
-  "id": "CafeTradeTV.ir",
-  "name": "Cafe Trade TV",
-  "label": "Culture & Lifestyle | ماهواره‌ای · مستند، فرهنگ و سبک زندگی\" tvg-language=\"fas\" tvg-quality=\"SD\",Cafe Trade TV | کافه ترید",
-  "logo": "https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/CafeTradeTV.ir.png",
-  "group": "Satellite · Factual, Culture & Lifestyle",
-  "language": "fas",
-  "quality": "SD",
-  "url": "https://cafetradehls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
-  "source": "shayanline",
-  "status": "ok"
- },
- {
-  "id": "EPlanetTV.ir",
-  "name": "E Planet TV",
-  "label": "Culture & Lifestyle | ماهواره‌ای · مستند، فرهنگ و سبک زندگی\" tvg-language=\"fas\" tvg-quality=\"HD\",E Planet TV | ای‌پلنت",
-  "logo": "https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/EPlanetTV.ir.png",
-  "group": "Satellite · Factual, Culture & Lifestyle",
-  "language": "fas",
-  "quality": "HD",
-  "url": "https://eplhls.wns.live/hls/stream.m3u8",
-  "synthetic_id": false,
-  "source": "shayanline",
-  "status": "ok"
- },
- {
   "id": "PayamJavanTV.us",
   "name": "Payam Javan TV",
   "label": "Culture & Lifestyle | ماهواره‌ای · مستند، فرهنگ و سبک زندگی\" tvg-language=\"fas\" tvg-quality=\"SD\",Payam Javan TV | پیام جوان",
@@ -2421,19 +2278,6 @@
   "status": "ok"
  },
  {
-  "id": "TMTV.us",
-  "name": "TM TV",
-  "label": "Culture & Lifestyle | ماهواره‌ای · مستند، فرهنگ و سبک زندگی\" tvg-language=\"fas\" tvg-quality=\"SD\",TM TV | تی‌ام",
-  "logo": "https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/TMTV.us.png",
-  "group": "Satellite · Factual, Culture & Lifestyle",
-  "language": "fas",
-  "quality": "SD",
-  "url": "https://hls.tmtv.live/hls/stream.m3u8",
-  "synthetic_id": false,
-  "source": "shayanline",
-  "status": "ok"
- },
- {
   "id": "AlWilayah.ir",
   "name": "Al Wilayah",
   "label": "Al Wilayah | شبکه الولایه",
@@ -2453,7 +2297,7 @@
   "logo": "https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/AlMahdiTV.us.png",
   "group": "Religious · Islamic",
   "language": "fas",
-  "quality": "SD",
+  "quality": "FHD",
   "url": "https://iptv.almahditv.com/almahditv/playlist.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
@@ -2509,7 +2353,7 @@
   "url": "https://bucharest.zeuscdn724.com/lb0/H1/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
-  "status": "segment-404"
+  "status": "ok"
  },
  {
   "id": "ImamHusseinTV1.iq",
@@ -2519,7 +2363,7 @@
   "group": "Religious · Islamic",
   "language": "fas",
   "quality": "FHD",
-  "url": "https://ak.imamhussein.live/imhtv1live/imhtv1.smil/imhtv1publish/imhtv1_source/chunks.m3u8",
+  "url": "https://live.imamhossaintv.com/live/ih1.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -2545,7 +2389,7 @@
   "group": "Religious · Islamic",
   "language": "fas",
   "quality": "HD",
-  "url": "https://live-aburayhan1107.telewebion.net/na/labbayk/live/720p/index.m3u8",
+  "url": "https://live-aburayhan1102.telewebion.net/na/labbayk/live/720p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -2597,7 +2441,7 @@
   "group": "Religious · Islamic",
   "language": "fas",
   "quality": "HD",
-  "url": "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8",
+  "url": "https://tgn.bozztv.com/cus01/ucur1/Payvand/playlist.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -2623,7 +2467,7 @@
   "group": "Religious · Islamic",
   "language": "fas",
   "quality": "HD",
-  "url": "https://live-aburayhan1111.telewebion.net/ek/razavi/live/720p/index.m3u8",
+  "url": "https://live-aburayhan1102.telewebion.net/ek/razavi/live/720p/index.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
@@ -2726,7 +2570,7 @@
   "logo": "https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/KalemehTV.uk.png",
   "group": "Religious · Christian",
   "language": "fas",
-  "quality": "HD",
+  "quality": "FHD",
   "url": "https://player.kalemeh.tv/live/ngrp:kalemeh_all/playlist.m3u8",
   "synthetic_id": false,
   "source": "shayanline",
@@ -2770,19 +2614,6 @@
   "synthetic_id": false,
   "source": "shayanline",
   "status": "ok"
- },
- {
-  "id": "RaheNejatTV.us",
-  "name": "Rahe Nejat TV",
-  "label": "Rahe Nejat TV | راه نجات",
-  "logo": "https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/RaheNejatTV.us.png",
-  "group": "Religious · Christian",
-  "language": "fas",
-  "quality": "SD",
-  "url": "https://hls.rahenejat.live/hls/stream.m3u8",
-  "synthetic_id": false,
-  "source": "shayanline",
-  "status": "http-404"
  },
  {
   "id": "Sat7Pars.cy",
@@ -2965,6 +2796,19 @@
   "synthetic_id": false,
   "source": "iptv-org",
   "status": "http-200"
+ },
+ {
+  "id": "SNNTV.ir@SD",
+  "name": "SNN TV [Not 24/7]",
+  "label": "SNN TV [Not 24/7]",
+  "logo": "",
+  "group": "Other",
+  "language": "",
+  "quality": "",
+  "url": "https://live2.snn.ir/hls/snn2_hd720/index.m3u8",
+  "synthetic_id": false,
+  "source": "iptv-org",
+  "status": "http-404"
  },
  {
   "id": "tv1-plus-not-24-7",

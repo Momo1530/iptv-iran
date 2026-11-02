@@ -10,6 +10,8 @@ https://homeplushls.wns.live/hls/stream.m3u8
 https://mediamtx.elitelatrade.com/live/stream/main_stream.m3u8
 #EXTINF:-1 tvg-id="TVITN.ir" tvg-name="ITN" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/TVITN.ir.png" group-title="Satellite · General & Variety" tvg-language="fas" tvg-quality="SD",ITN | آی‌تی‌ان
 https://itnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KaroonTV.ir" tvg-name="Karoon TV" group-title="Satellite · General & Variety" tvg-language="fas" tvg-quality="SD",Karoon TV
+https://live-aburayhan1111.telewebion.net/ek/karoon/live/576p/index.m3u8
 #EXTINF:-1 tvg-id="KhaterehTV.us" tvg-name="Khatereh TV" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/KhaterehTV.us.png" group-title="Satellite · General & Variety" tvg-language="fas" tvg-quality="FHD",Khatereh TV | خاطره
 https://radio.khatereh.online:5443/LiveApp/streams/jWF37YKCgZ0FSYTR863687974499636.m3u8
 #EXTINF:-1 tvg-id="MTC.us" tvg-name="MTC" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/MTC.us.png" group-title="Satellite · General & Variety" tvg-language="fas" tvg-quality="HD",MTC | ام‌تی‌سی

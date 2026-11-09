@@ -1,8 +1,12 @@
 #EXTM3U
 # Adel
-#EXTINF:-1 tvg-id="adel-1" tvg-name="Highlights: میلان ۳-۱ اینتر (Adel)" group-title="Adel" tvg-language="fa",Highlights: میلان ۳-۱ اینتر (Adel)
+#EXTINF:-1 tvg-id="adel-1" tvg-name="Highlights: اتلتیکو مادرید ۱-۲ بارسلونا · (Adel)" group-title="Adel" tvg-language="fa",Highlights: اتلتیکو مادرید ۱-۲ بارسلونا · (Adel)
+https://s3.ir-thr-at1.arvanstorage.ir/site-videos/Mosleh/atl%20-%20braca_3.mp4
+#EXTINF:-1 tvg-id="adel-2" tvg-name="Highlights: منچستر یونایتد ۳-۲ رم · (Adel)" group-title="Adel" tvg-language="fa",Highlights: منچستر یونایتد ۳-۲ رم · (Adel)
+https://s3.ir-thr-at1.arvanstorage.ir/site-videos/Hossein/manu-roma.mp4
+#EXTINF:-1 tvg-id="adel-3" tvg-name="Highlights: میلان ۳-۱ اینتر · (Adel)" group-title="Adel" tvg-language="fa",Highlights: میلان ۳-۱ اینتر · (Adel)
 https://s3.ir-thr-at1.arvanstorage.ir/site-videos/Hossein/milan-inter.mp4
-#EXTINF:-1 tvg-id="adel-2" tvg-name="Highlights: بارسلونا ۱-۲ رئال مادرید · (Adel)" group-title="Adel" tvg-language="fa",Highlights: بارسلونا ۱-۲ رئال مادرید · (Adel)
+#EXTINF:-1 tvg-id="adel-4" tvg-name="Highlights: بارسلونا ۱-۲ رئال مادرید · (Adel)" group-title="Adel" tvg-language="fa",Highlights: بارسلونا ۱-۲ رئال مادرید · (Adel)
 https://s3.ir-thr-at1.arvanstorage.ir/site-videos/Hossein/el%20classico%20ful.mp4
-#EXTINF:-1 tvg-id="adel-3" tvg-name="Highlights: پاری‌سن‌ژرمن ۴-۲ بارسلونا · (Adel)" group-title="Adel" tvg-language="fa",Highlights: پاری‌سن‌ژرمن ۴-۲ بارسلونا · (Adel)
+#EXTINF:-1 tvg-id="adel-5" tvg-name="Highlights: پاری‌سن‌ژرمن ۴-۲ بارسلونا · (Adel)" group-title="Adel" tvg-language="fa",Highlights: پاری‌سن‌ژرمن ۴-۲ بارسلونا · (Adel)
 https://s3.ir-thr-at1.arvanstorage.ir/site-videos/Hossein/full%20HL.mp4

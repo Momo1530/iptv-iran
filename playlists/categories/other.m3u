@@ -16,5 +16,7 @@ https://ncdn.telewebion.ir/sarbedaran/live/playlist.m3u8
 https://ncdn.telewebion.ir/sepehr/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SNNTV.ir@SD" tvg-name="SNN TV [Not 24/7]" group-title="Other",SNN TV [Not 24/7]
 https://live2.snn.ir/hls/snn2_hd720/index.m3u8
+#EXTINF:-1 tvg-id="Tekyemadahi.ir@SD" tvg-name="Tekyemadahi" group-title="Other",Tekyemadahi
+https://ncdn.telewebion.ir/tekyemadahi/live/playlist.m3u8
 #EXTINF:-1 tvg-id="tv1-plus-not-24-7" tvg-name="TV1 Plus [Not 24/7]" group-title="Other",TV1 Plus [Not 24/7] [IR]
 https://ncdn.telewebion.ir/tv1plus/live/playlist.m3u8

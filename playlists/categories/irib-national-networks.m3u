@@ -5,7 +5,7 @@ https://cp11.adabmedia.com/hls2/tv3test.m3u8
 #EXTINF:-1 tvg-id="VarzeshTV.ir" tvg-name="IRIB Varzesh" group-title="IRIB National Networks" tvg-quality="HD",IRIB Varzesh
 https://cp11.adabmedia.com/hls2/varzeshtest.m3u8
 #EXTINF:-1 tvg-id="GolkhaneTv.ir" tvg-name="Golkhane" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/GolkhaneTv.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="HD",Golkhane | شبکه گلخانه
-https://live-aburayhan1111.telewebion.ir/na/golkhane/live/720p/index.m3u8
+https://live-aburayhan1102.telewebion.ir/ek/golkhane/live/720p/index.m3u8
 #EXTINF:-1 tvg-id="iFilmPersian.ir" tvg-name="iFilm" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/iFilmPersian.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="FHD",iFilm | آی‌فیلم
 https://live-aburayhan1113.telewebion.ir/ek/ifilm/live/1080p/index.m3u8
 #EXTINF:-1 tvg-id="AmouzeshTV.ir" tvg-name="IRIB Amoozesh" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/AmouzeshTV.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="SD",IRIB Amoozesh | شبکه آموزش
@@ -31,7 +31,7 @@ https://live-aburayhan1105.telewebion.ir/ek/hdtest/live/1080p/index.m3u8
 #EXTINF:-1 tvg-id="IRIB1.ir" tvg-name="IRIB TV1" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IRIB1.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="FHD",IRIB TV1 | شبکه یک
 https://live-aburayhan1108.telewebion.ir/ek/tv1/live/1080p/index.m3u8
 #EXTINF:-1 tvg-id="IRIB1Plus.ir" tvg-name="IRIB TV1 +" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IRIB1Plus.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="FHD",IRIB TV1 + | شبکه یک پلاس
-https://live-aburayhan1112.telewebion.ir/ek/tv1plus/live/1080p/index.m3u8
+https://live-aburayhan1111.telewebion.ir/ek/tv1plus/live/1080p/index.m3u8
 #EXTINF:-1 tvg-id="IRIB2.ir" tvg-name="IRIB TV2" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IRIB2.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="FHD",IRIB TV2 | شبکه دو
 https://live-aburayhan1111.telewebion.ir/ek/tv2/live/1080p/index.m3u8
 #EXTINF:-1 tvg-id="IRIB4.ir" tvg-name="IRIB TV4" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IRIB4.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="SD",IRIB TV4 | شبکه چهار
@@ -39,7 +39,7 @@ https://live-aburayhan1109.telewebion.ir/ek/tv4/live/576p/index.m3u8
 #EXTINF:-1 tvg-id="TehranTV.ir" tvg-name="IRIB TV5 (Tehran)" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/TehranTV.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="FHD",IRIB TV5 (Tehran) | شبکه پنج (تهران)
 https://live-aburayhan1108.telewebion.ir/ek/tehran/live/1080p/index.m3u8
 #EXTINF:-1 tvg-id="IRIBUHD.ir" tvg-name="IRIB UHD" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IRIBUHD.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="4K",IRIB UHD | شبکه فراگیر (UHD)
-https://live-aburayhan1104.telewebion.ir/ek/faratar/live/2160p/index.m3u8
+https://live-aburayhan1111.telewebion.ir/ek/faratar/live/1440p/index.m3u8
 #EXTINF:-1 tvg-id="IRINN.ir" tvg-name="IRINN" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IRINN.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="FHD",IRINN | شبکه خبر
 https://live-aburayhan1111.telewebion.ir/ek/irinn/live/1080p/index.m3u8
 #EXTINF:-1 tvg-id="IRINN2.ir" tvg-name="IRINN 2" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/IRINN2.ir.png" group-title="IRIB National Networks" tvg-language="fas" tvg-quality="FHD",IRINN 2 | شبکه خبر ۲

@@ -4,5 +4,5 @@
 https://toonixhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaJunior.fr" tvg-name="Persiana Junior" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/PersianaJunior.fr.png" group-title="Satellite · Children" tvg-language="fas" tvg-quality="SD",Persiana Junior | پرشیانا کودک
 https://junhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PooyaTVPlus.ir@SD" tvg-name="Pooya TV Plus" group-title="Satellite · Children",Pooya TV Plus
+#EXTINF:-1 tvg-id="PooyaTVPlus.ir@SD" tvg-name="Pooya TV Plus (576p)" group-title="Satellite · Children",Pooya TV Plus (576p)
 https://ncdn.telewebion.ir/javaneh/live/playlist.m3u8

@@ -54,5 +54,5 @@ https://turkhls.persiana.live/hls/stream.m3u8
 https://slonehls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SL2.ir" tvg-name="SL 2" tvg-logo="https://raw.githubusercontent.com/shayanline/iptv-iran/main/assets/logos/SL2.ir.png" group-title="Satellite · Film & Series" tvg-language="fas" tvg-quality="SD",SL 2 | اس‌ال ۲
 https://sltwohls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="TVANava.ir@SD" tvg-name="TVA Nava" group-title="Satellite · Film & Series",TVA Nava
+#EXTINF:-1 tvg-id="TVANava.ir@SD" tvg-name="TVA Nava (720p)" group-title="Satellite · Film & Series",TVA Nava (720p)
 https://ncdn.telewebion.ir/nava/live/playlist.m3u8
